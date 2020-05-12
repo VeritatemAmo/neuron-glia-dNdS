@@ -1,0 +1,57 @@
+MGI Gene ID	Gene Symbol	Gene Name	Type	Chr	Genome Location-GRCm38	cM	Strand	
+MGI:1917047	1600029I14Rik	RIKEN cDNA 1600029I14 gene	lncRNA gene	9	99470421-99474751	51.73	+	
+MGI:1922754	1700013F07Rik	RIKEN cDNA 1700013F07 gene	protein coding gene	3	108537584-108544697	47.27	+	
+MGI:1914733	1700028P14Rik	RIKEN cDNA 1700028P14 gene	protein coding gene	19	23558760-23652812	18.44	-	
+MGI:4437729	9330178D15Rik	RIKEN cDNA 9330178D15 gene	lncRNA gene	3	155976354-156008592		+	
+MGI:3605549	Adgb	androglobin	protein coding gene	10	10335703-10472326	3.44	-	
+MGI:3618288	Akap14	A kinase (PRKA) anchor protein 14	protein coding gene	X	37150698-37168842	21.57	-	
+MGI:1913363	Apoa5	apolipoprotein A-V	protein coding gene	9	46268633-46271919	25.37	+	
+MGI:2145508	C79329	expressed sequence C79329	DNA segment	13	syntenic			
+MGI:1916947	Camsap3	calmodulin regulated spectrin-associated protein family, member 3	protein coding gene	8	3587299-3609075	1.92	+	
+MGI:1918134	Ccdc81	coiled-coil domain containing 81	protein coding gene	7	89866148-89903629	50.38	-	
+MGI:2685018	Ccdc110	coiled-coil domain containing 110	protein coding gene	8	45934619-45944145	25.92	+	
+MGI:98260	Ccl3	chemokine (C-C motif) ligand 3	protein coding gene	11	83647844-83649355	51.04	-	
+MGI:1922806	Cfap161	cilia and flagella associated protein 161	protein coding gene	7	83774101-83794880	47.74	-	
+MGI:1921425	Crct1	cysteine-rich C-terminal 1	protein coding gene	3	93014205-93015686	40.14	-	
+MGI:1918478	Dlg5	discs large MAGUK scaffold protein 5	protein coding gene	14	24133953-24245920	14.26	-	
+MGI:1922290	Efcab10	EF-hand calcium binding domain 10	protein coding gene	12	33394854-33401267	14.34	+	
+MGI:1921405	Errfi1	ERBB receptor feedback inhibitor 1	protein coding gene	4	150853919-150868892	81.5	+	
+MGI:3588213	Fam92b	family with sequence similarity 92, member B	protein coding gene	8	120166397-120177466	69.09	-	
+MGI:2445194	Fam166b	family with sequence similarity 166, member B	protein coding gene	4	43427019-43429134	23.03	-	
+MGI:1914180	Fank1	fibronectin type 3 and ankyrin repeat domains 1	protein coding gene	7	133776861-133881532	77.42	+	
+MGI:95901	H2-Eb1	histocompatibility 2, class II antigen E beta	protein coding gene	17	34305867-34316674	17.98	+	
+MGI:1926158	Igsf3	immunoglobulin superfamily, member 3	protein coding gene	3	101377114-101463060	44.3	+	
+MGI:1922168	Iqca	IQ motif containing with AAA domain	protein coding gene	1	90042132-90153401	45.08	-	
+MGI:2429603	Irak2	interleukin-1 receptor-associated kinase 2	protein coding gene	6	113638467-113695026	52.82	+	
+MGI:1306802	Itgb1bp1	integrin beta 1 binding protein 1	protein coding gene	12	21267246-21286279	8.3	-	
+MGI:2441659	Lamp3	lysosomal-associated membrane protein 3	protein coding gene	16	19653381-19706365	12.17	-	
+MGI:2676885	Mir21a	microRNA 21a	miRNA gene	11	86584067-86584158	51.82	-	
+MGI:3619267	Mir28a	microRNA 28a	miRNA gene	16	24827855-24827940	16.58	+	
+MGI:3619441	Mir98	microRNA 98	miRNA gene	X	151913214-151913321	68.46	+	
+MGI:5562755	Mir126b	microRNA 126b	miRNA gene	2	26591363-26591420		-	
+MGI:3618732	Mir135b	microRNA 135b	miRNA gene	1	132198088-132198184	57.24	+	
+MGI:2676824	Mir139	microRNA 139	miRNA gene	7	101475376-101475443	54.59	+	
+MGI:1925841	Mir142hg	Mir142 host gene (non-protein coding)	lncRNA gene	11	87755577-87757270	52.21	+	
+MGI:2676831	Mir146	microRNA 146	miRNA gene	11	43374397-43374461	25.68	-	
+MGI:2676835	Mir150	microRNA 150	miRNA gene	7	45121757-45121821	29.14	+	
+MGI:3619066	Mir221	microRNA 221	miRNA gene	X	19146294-19146388	14.52	-	
+MGI:3619118	Mir222	microRNA 222	miRNA gene	X	19146893-19146971	14.52	-	
+MGI:3619322	Mir299a	microRNA 299a	miRNA gene	12	109710638-109710700	60.56	+	
+MGI:3619340	Mir328	microRNA 328	miRNA gene	8	105308364-105308460	53.04	-	
+MGI:3619355	Mir340	microRNA 340	miRNA gene	11	50069702-50069799	30.21	+	
+MGI:1922140	Morn3	MORN repeat containing 3	protein coding gene	5	123035769-123047016	62.73	-	
+MGI:1922745	Morn5	MORN repeat containing 5	protein coding gene	2	36049473-36079709	24.15	+	
+MGI:1917363	Odf3b	outer dense fiber of sperm tails 3B	protein coding gene	15	89377449-89379282	44.86	-	
+MGI:1913862	Ormdl3	ORM1-like 3 (S. cerevisiae)	protein coding gene	11	98581294-98587245	62.07	-	
+MGI:2137624	Pom121	nuclear pore membrane protein 121	protein coding gene	5	135376141-135394546	75.16	-	
+MGI:1859617	Ppp1r3f	protein phosphatase 1, regulatory subunit 3F	protein coding gene	X	7558562-7574281	3.4	-	
+MGI:894835	Rbbp6	retinoblastoma binding protein 6, ubiquitin ligase	protein coding gene	7	122970564-123002572	67.42	+	
+MGI:109518	Sftpa1	surfactant associated protein A1	protein coding gene	14	41131788-41136373	22.36	+	
+MGI:98285	Srsf3	serine/arginine-rich splicing factor 3	protein coding gene	17	29032660-29043372	15.03	+	
+MGI:1922423	Tex38	testis expressed 38	protein coding gene	4	115779834-115781018	53.06	-	
+MGI:1858259	Tomm40	translocase of outer mitochondrial membrane 40	protein coding gene	7	19701313-19715429	9.94	-	
+MGI:2450877	Tspoap1	TSPO associated protein 1	protein coding gene	11	87760541-87785928	52.21	+	
+MGI:1914760	Tvp23b	trans-golgi network vesicle protein 23B	protein coding gene	11	62879435-62895186	38.81	+	
+MGI:1921633	Ubap2l	ubiquitin-associated protein 2-like	protein coding gene	3	90000140-90052628	39.19	-	
+MGI:2685478	Zfp512b	zinc finger protein 512B	protein coding gene	2	181582103-181592803	103.67	-	
+MGI:1916626	Zpbp2	zona pellucida binding protein 2	protein coding gene	11	98551097-98558665	61.97	+	

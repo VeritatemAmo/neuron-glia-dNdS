@@ -1,0 +1,88 @@
+MGI Gene ID	Gene Symbol	Gene Name	Type	Chr	Genome Location-GRCm38	cM	Strand	
+MGI:1351619	Abcb11	ATP-binding cassette, sub-family B (MDR/TAP), member 11	protein coding gene	2	69238282-69342616	39.69	-	
+MGI:1914381	Acbd4	acyl-Coenzyme A binding domain containing 4	protein coding gene	11	103101688-103112199	66.71	+	
+MGI:1329033	Agxt	alanine-glyoxylate aminotransferase	protein coding gene	1	93135240-93145421	47.0	+	
+MGI:98229	Apcs	serum amyloid P-component	protein coding gene	1	172893961-172895041	80.33	-	
+MGI:87878	Apoc4	apolipoprotein C-IV	protein coding gene	7	19678084-19681460	9.94	-	
+MGI:88058	Apoh	apolipoprotein H	protein coding gene	11	108395297-108414396	71.8	+	
+MGI:2444921	Apol8	apolipoprotein L 8	protein coding gene	15	77747798-77757003	36.79	-	
+MGI:1915566	Apoo	apolipoprotein O	protein coding gene	X	94367117-94417093	41.56	+	
+MGI:88081	Asgr1	asialoglycoprotein receptor 1	protein coding gene	11	70054085-70057894	42.98	+	
+MGI:2182073	Btnl10	butyrophilin-like 10	protein coding gene	11	58917877-58926965	36.37	+	
+MGI:2668347	C8a	complement component 8, alpha polypeptide	protein coding gene	4	104815679-104876398	48.69	-	
+MGI:88237	C8g	complement component 8, gamma polypeptide	protein coding gene	2	25498651-25501719	17.31	-	
+MGI:101774	Cd79a	CD79A antigen (immunoglobulin-associated alpha)	protein coding gene	7	24897511-24902197	13.49	+	
+MGI:1915500	Ciao2a	cytosolic iron-sulfur assembly component 2A	protein coding gene	9	66126611-66138955	35.73	+	
+MGI:1859834	Clec4f	C-type lectin domain family 4, member f	protein coding gene	6	83644542-83656116	35.94	-	
+MGI:88563	Ctsg	cathepsin G	protein coding gene	14	56099885-56102574	28.19	-	
+MGI:1919834	Cul4b	cullin 4B	protein coding gene	X	38533274-38576196	22.81	-	
+MGI:88589	Cyp1a2	cytochrome P450, family 1, subfamily a, polypeptide 2	protein coding gene	9	57676937-57683655	31.3	-	
+MGI:105055	Cyp2a12	cytochrome P450, family 2, subfamily a, polypeptide 12	protein coding gene	7	27029090-27036818	15.77	+	
+MGI:106099	Cyp3a16	cytochrome P450, family 3, subfamily a, polypeptide 16	protein coding gene	5	145436309-145469723	85.17	-	
+MGI:106091	Cyp7a1	cytochrome P450, family 7, subfamily a, polypeptide 1	protein coding gene	4	6265612-6275633	2.91	-	
+MGI:2142979	Dennd4a	DENN/MADD domain containing 4A	protein coding gene	9	64811340-64919667	34.93	+	
+MGI:2652816	Dhrs11	dehydrogenase/reductase (SDR family) member 11	protein coding gene	11	84820856-84828994	51.34	-	
+MGI:1914978	Dph2	DPH2 homolog	protein coding gene	4	117888643-117892003	53.74	-	
+MGI:99481	F11	coagulation factor XI	protein coding gene	8	45241174-45262031	25.14	-	
+MGI:1926188	Fbxo34	F-box protein 34	protein coding gene	14	47472561-47531962	24.6	+	
+MGI:95498	Fcgr1	Fc receptor, IgG, high affinity I	protein coding gene	3	96282909-96293969	41.72	-	
+MGI:2179523	Fcgr4	Fc receptor, IgG, low affinity IV	protein coding gene	1	171018926-171029761	78.53	+	
+MGI:2679256	Fn3krp	fructosamine 3 kinase related protein	protein coding gene	11	121421401-121431288	85.37	+	
+MGI:108076	Frrs1	ferric-chelate reductase 1	protein coding gene	3	116859567-116907714	50.49	+	
+MGI:1276578	Gfi1b	growth factor independent 1B	protein coding gene	2	28609450-28621982	19.38	-	
+MGI:1927655	Ggcx	gamma-glutamyl carboxylase	protein coding gene	6	72414308-72430712	32.27	+	
+MGI:2385078	Gstp3	glutathione S-transferase pi 3	protein coding gene	19	4057477-4059569	3.77	-	
+MGI:2385254	Gys2	glycogen synthase 2	protein coding gene	6	142422613-142473109	74.04	-	
+MGI:2153530	Hamp2	hepcidin antimicrobial peptide 2	protein coding gene	7	30922372-30924181	19.27	-	
+MGI:2685722	Hbq1a	hemoglobin, theta 1A	protein coding gene	11	32300069-32300873	18.87	+	
+MGI:3613460	Hbq1b	hemoglobin, theta 1B	protein coding gene	11	32286965-32287784	18.86	+	
+MGI:96234	Hsd3b2	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 2	protein coding gene	3	98711107-98724595	42.85	-	
+MGI:107657	Ifnb1	interferon beta 1, fibroblast	protein coding gene	4	88522025-88522774	41.91	-	
+MGI:96461	Igh-J	immunoglobulin heavy chain, joining region	complex/cluster/region	12	syntenic			
+MGI:1928895	Isg20	interferon-stimulated protein	protein coding gene	7	78913424-78920396	44.84	+	
+MGI:96618	Itih1	inter-alpha trypsin inhibitor, heavy chain 1	protein coding gene	14	30929180-30943289	19.09	-	
+MGI:1336161	Klrc1	killer cell lectin-like receptor subfamily C, member 1	protein coding gene	6	129666015-129678973	63.44	-	
+MGI:96216	Lipc	lipase, hepatic	protein coding gene	9	70798128-70952221	39.57	-	
+MGI:2443667	March3	membrane-associated ring finger (C3HC4) 3	protein coding gene	18	56761716-56925548	30.92	-	
+MGI:1261780	Mcpt8	mast cell protease 8	protein coding gene	14	56082166-56085273	28.19	-	
+MGI:3583946	Mfsd2b	major facilitator superfamily domain containing 2B	protein coding gene	12	4862440-4874359	2.11	-	
+MGI:3718517	Mir453	microRNA 453	miRNA gene	12	109735619-109735700	60.56	+	
+MGI:1914690	Mtpap	mitochondrial poly(A) polymerase	protein coding gene	18	4375592-4397330	2.77	+	
+MGI:99837	Mug1	murinoglobulin 1	protein coding gene	6	121838541-121889057	57.52	+	
+MGI:97235	Mup3	major urinary protein 3	protein coding gene	4	62083476-62087342	32.99	-	
+MGI:3709615	Mup7	major urinary protein 7	protein coding gene	4	60066469-60070475	32.82	-	
+MGI:1924164	Mup10	major urinary protein 10	protein coding gene	4	60578260-60582155	32.85	-	
+MGI:3705235	Mup19	major urinary protein 19	protein coding gene	4	61778324-61782231	32.9	-	
+MGI:3651981	Mup20	major urinary protein 20	protein coding gene	4	62050234-62054158	32.98	-	
+MGI:105983	Ngp	neutrophilic granule protein	protein coding gene	9	110419808-110423012	59.92	+	
+MGI:1925427	Ninl	ninein-like	protein coding gene	2	150934519-151009398	74.76	-	
+MGI:97443	Orm1	orosomucoid 1	protein coding gene	4	63344560-63348163	33.96	+	
+MGI:97577	Phka2	phosphorylase kinase alpha 2	protein coding gene	X	160502166-160598878	73.95	+	
+MGI:2682298	Plekhg6	pleckstrin homology domain containing, family G (with RhoGef domain) member 6	protein coding gene	6	125362660-125380793	59.32	-	
+MGI:2447303	Prss50	protease, serine 50	protein coding gene	9	110857967-110864629	60.79	+	
+MGI:87854	Pzp	PZP, alpha-2-macroglobulin like	protein coding gene	6	128483567-128526720	63.02	-	
+MGI:1195275	Rdh1	retinol dehydrogenase 1 (all trans)	protein coding gene	10	127759726-127768299	75.21	+	
+MGI:1927498	Rgs18	regulator of G-protein signaling 18	protein coding gene	1	144752692-144775421	62.99	-	
+MGI:2148796	Rnf123	ring finger protein 123	protein coding gene	9	108051672-108080309	59.07	-	
+MGI:1350927	Rpl8	ribosomal protein L8	protein coding gene	15	76904078-76906314	36.28	+	
+MGI:98222	Saa2	serum amyloid A 2	protein coding gene	7	46751790-46754313	30.56	+	
+MGI:98223	Saa3	serum amyloid A 3	protein coding gene	7	46711998-46715676	30.51	-	
+MGI:2448363	Serpina4-ps1	serine (or cysteine) peptidase inhibitor, clade A, member 4, pseudogene 1	pseudogene	12	104080649-104086724	53.23	+	
+MGI:2445363	Serpinb1c	serine (or cysteine) peptidase inhibitor, clade B, member 1c	protein coding gene	13	32881434-32898211	13.76	-	
+MGI:96051	Serpind1	serine (or cysteine) peptidase inhibitor, clade D, member 1	protein coding gene	16	17331371-17343575	10.74	+	
+MGI:2443256	Siglech	sialic acid binding Ig-like lectin H	protein coding gene	7	55768178-55778925	33.42	+	
+MGI:1351314	Slamf1	signaling lymphocytic activation molecule family member 1	protein coding gene	1	171767132-171801184	79.54	+	
+MGI:1347100	Slc27a5	solute carrier family 27 (fatty acid transporter), member 5	protein coding gene	7	12988346-12998192	7.71	-	
+MGI:98385	Spta1	spectrin alpha, erythrocytic 1	protein coding gene	1	174172776-174248449	80.97	+	
+MGI:99515	Syk	spleen tyrosine kinase	protein coding gene	13	52583173-52648792	27.41	+	
+MGI:98487	Tat	tyrosine aminotransferase	protein coding gene	8	109990437-109999803	57.38	+	
+MGI:1343262	Timm44	translocase of inner mitochondrial membrane 44	protein coding gene	8	4259731-4275905	1.99	-	
+MGI:1916125	Tmcc2	transmembrane and coiled-coil domains 2	protein coding gene	1	132356315-132391281	57.24	-	
+MGI:2385244	Tmem150a	transmembrane protein 150A	protein coding gene	6	72355483-72359762	32.27	+	
+MGI:2675303	Tnfrsf14	tumor necrosis factor receptor superfamily, member 14 (herpesvirus entry mediator)	protein coding gene	4	154921933-154928563	85.81	-	
+MGI:1333803	Top3b	topoisomerase (DNA) III beta	protein coding gene	16	16870736-16892990	10.46	+	
+MGI:1918576	Treml1	triggering receptor expressed on myeloid cells-like 1	protein coding gene	17	48359916-48367176	23.99	+	
+MGI:1914500	Ube2l6	ubiquitin-conjugating enzyme E2L 6	protein coding gene	2	84798828-84810003	49.45	+	
+MGI:2143535	Upb1	ureidopropionase, beta	protein coding gene	10	75406911-75441679	38.53	+	
+MGI:1916818	Vkorc1l1	vitamin K epoxide reductase complex, subunit 1-like 1	protein coding gene	5	129942109-129986692	68.26	+	
+MGI:103569	Xk	X-linked Kx blood group	protein coding gene	X	9272784-9313245	4.22	+	

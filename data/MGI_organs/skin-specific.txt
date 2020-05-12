@@ -1,0 +1,41 @@
+MGI Gene ID	Gene Symbol	Gene Name	Type	Chr	Genome Location-GRCm38	cM	Strand	
+MGI:1916946	2310057N15Rik	RIKEN cDNA 2310057N15 gene	protein coding gene	16	88773181-88774206	51.4	-	
+MGI:87853	a	nonagouti	protein coding gene	2	154950204-155051012	76.83	+	
+MGI:2385089	Cbwd1	COBW domain containing 1	protein coding gene	19	24919916-24961610	19.86	-	
+MGI:3505689	Cdsn	corneodesmosin	protein coding gene	17	35552128-35557180	18.7	+	
+MGI:2681008	Cers3	ceramide synthase 3	protein coding gene	7	66743504-66823691	36.15	+	
+MGI:1270845	Cidea	cell death-inducing DNA fragmentation factor, alpha subunit-like effector A	protein coding gene	18	67343604-67367785	39.94	+	
+MGI:1914730	Cwc25	CWC25 spliceosome-associated protein	protein coding gene	11	97745481-97766556	61.09	-	
+MGI:109401	D11Bhm186	DNA segment, Chr 11, Boehm 186	DNA segment	11	79288429-79288539	46.74		
+MGI:1096878	Defb1	defensin beta 1	protein coding gene	8	21776599-21795185	10.35	+	
+MGI:1351612	Defb3	defensin beta 3	protein coding gene	8	19293360-19295291	10.35	+	
+MGI:2675345	Defb14	defensin beta 14	protein coding gene	8	19194357-19195212	10.35	+	
+MGI:2385199	Efcab7	EF-hand calcium binding domain 7	protein coding gene	4	99829500-99912785	45.71	+	
+MGI:3649222	Gm12606	predicted gene 12606	lncRNA gene	4	89235699-89273403	42.15	-	
+MGI:1355307	Il22	interleukin 22	protein coding gene	10	118204942-118210047	66.67	+	
+MGI:2444913	Krt26	keratin 26	protein coding gene	11	99328550-99337966	62.92	-	
+MGI:1918093	Krt28	keratin 28	protein coding gene	11	99365007-99374903	62.92	-	
+MGI:1309993	Krt31	keratin 31	protein coding gene	11	100046646-100050551	63.39	-	
+MGI:2146034	Krt72	keratin 72	protein coding gene	15	101776560-101786458	57.02	-	
+MGI:2385030	Krt79	keratin 79	protein coding gene	15	101929332-101940324	57.14	-	
+MGI:2149248	Krt82	keratin 82	protein coding gene	15	101541216-101550659	56.9	-	
+MGI:1859268	Krt85	keratin 85	protein coding gene	15	syntenic			
+MGI:109362	Krt86	keratin 86	protein coding gene	15	101473478-101479983	56.9	+	
+MGI:1354758	Krtap5-4	keratin associated protein 5-4	protein coding gene	7	142303502-142304503	87.87	+	
+MGI:1925164	Krtap17-1	keratin associated protein 17-1	protein coding gene	11	99993234-99993994	63.34	-	
+MGI:1855691	Map3k6	mitogen-activated protein kinase kinase kinase 6	protein coding gene	4	133240818-133252929	66.25	+	
+MGI:99456	Mc1r	melanocortin 1 receptor	protein coding gene	8	123407107-123410744	72.1	+	
+MGI:95495	Ms4a2	membrane-spanning 4-domains, subfamily A, member 2	protein coding gene	19	11615523-11623719	8.46	-	
+MGI:2444084	Nlrp10	NLR family, pyrin domain containing 10	protein coding gene	7	108921853-108930158	57.21	-	
+MGI:1891830	Pkp3	plakophilin 3	protein coding gene	7	141078229-141090511	86.34	+	
+MGI:1919799	Reep4	receptor accessory protein 4	protein coding gene	14	70545251-70548933	36.32	+	
+MGI:1338849	S100a3	S100 calcium binding protein A3	protein coding gene	3	90584659-90602702	39.26	+	
+MGI:1915304	Serpina12	serine (or cysteine) peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12	protein coding gene	12	104028769-104044443	53.05	-	
+MGI:3650151	Skint5	selection and upkeep of intraepithelial T cells 5	protein coding gene	4	113477891-113999503	51.53	-	
+MGI:3649262	Skint6	selection and upkeep of intraepithelial T cells 6	protein coding gene	4	112804616-113286973	51.53	-	
+MGI:1919682	Spink5	serine peptidase inhibitor, Kazal type 5	protein coding gene	18	43963235-44022501	23.74	+	
+MGI:1330343	Sprr2h	small proline-rich protein 2H	protein coding gene	3	92385685-92387324	40.14	+	
+MGI:3045213	Tlr13	toll-like receptor 13	protein coding gene	X	106143275-106160493	47.36	+	
+MGI:2146189	Topors	topoisomerase I binding, arginine/serine-rich	protein coding gene	4	40259606-40269841	20.24	-	
+MGI:104709	Wbp2	WW domain binding protein 2	protein coding gene	11	116078573-116086995	80.91	-	
+MGI:3039616	Znrf3	zinc and ring finger 3	protein coding gene	11	5276329-5444847	3.46	-	

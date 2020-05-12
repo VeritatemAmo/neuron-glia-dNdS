@@ -1,0 +1,46 @@
+MGI Gene ID	Gene Symbol	Gene Name	Type	Chr	Genome Location-GRCm38	cM	Strand	
+MGI:3512453	A4galt	alpha 1,4-galactosyltransferase	protein coding gene	15	83226722-83251774	39.4	-	
+MGI:1916154	Abhd13	abhydrolase domain containing 13	protein coding gene	8	9977717-9992155	4.53	+	
+MGI:2444031	Alg6	asparagine-linked glycosylation 6 (alpha-1,3,-glucosyltransferase)	protein coding gene	4	99715664-99763460	45.71	+	
+MGI:102845	Bdkrb2	bradykinin receptor, beta 2	protein coding gene	12	105563226-105595237	55.76	+	
+MGI:1919191	Cars2	cysteinyl-tRNA synthetase 2 (mitochondrial)(putative)	protein coding gene	8	11514017-11550778	5.73	-	
+MGI:1930643	Clcnkb	chloride channel, voltage-sensitive Kb	protein coding gene	4	141404357-141416013	74.02	-	
+MGI:2148742	Cldn16	claudin 16	protein coding gene	16	26463135-26482765	18.1	+	
+MGI:2443075	Cpeb3	cytoplasmic polyadenylation element binding protein 3	protein coding gene	19	37021291-37208601	32.08	-	
+MGI:1925246	Cutal	cutA divalent cation tolerance homolog-like	protein coding gene	2	34874396-34892132	23.01	+	
+MGI:2183535	Cytip	cytohesin 1 interacting protein	protein coding gene	2	58129137-58195532	33.05	-	
+MGI:2652871	Dock5	dedicator of cytokinesis 5	protein coding gene	14	67752135-67933442	34.66	-	
+MGI:2387177	Fam149a	family with sequence similarity 149, member A	protein coding gene	8	45336717-45382291	25.25	-	
+MGI:2663985	Kiss1	KiSS-1 metastasis-suppressor	protein coding gene	1	133321887-133329722	57.91	+	
+MGI:2444612	Klhdc7a	kelch domain containing 7A	protein coding gene	4	139962173-139968026	71.03	-	
+MGI:1335098	Lig4	ligase IV, DNA, ATP-dependent	protein coding gene	8	9970020-9977681	4.52	-	
+MGI:1891725	Miox	myo-inositol oxygenase	protein coding gene	15	89334473-89337007	44.82	+	
+MGI:3629597	Mir488	microRNA 488	miRNA gene	1	158505625-158505733	68.46	+	
+MGI:1914223	Mrps18b	mitochondrial ribosomal protein S18B	protein coding gene	17	35910379-35916389	18.76	-	
+MGI:2385039	Muc20	mucin 20	protein coding gene	16	32777419-32797435	23.34	-	
+MGI:2444584	Mysm1	myb-like, SWIRM and MPN domains 1	protein coding gene	4	94942040-94979100	43.34	-	
+MGI:1913353	Naxd	NAD(P)HX dehydratase	protein coding gene	8	11497506-11513287	5.73	+	
+MGI:1917378	Oxsr1	oxidative-stress responsive 1	protein coding gene	9	119238432-119322427	71.33	-	
+MGI:1921340	Paqr5	progestin and adipoQ receptor family member V	protein coding gene	9	61953738-62026790	33.52	-	
+MGI:1915621	Pbld1	phenazine biosynthesis-like protein domain containing 1	protein coding gene	10	63060624-63077964	32.53	+	
+MGI:1934659	Pi15	peptidase inhibitor 15	protein coding gene	1	17601901-17630939	5.32	+	
+MGI:1921588	Slc6a19	solute carrier family 6 (neurotransmitter transporter), member 19	protein coding gene	13	73679745-73700695	40.14	-	
+MGI:1923000	Slc10a6	solute carrier family 10 (sodium/bile acid cotransporter family), member 6	protein coding gene	5	103605711-103629403	50.45	-	
+MGI:108114	Slc12a3	solute carrier family 12, member 3	protein coding gene	8	94329201-94366214	46.46	+	
+MGI:2443672	Slc12a8	solute carrier family 12 (potassium/chloride transporters), member 8	protein coding gene	16	33517333-33664135	24.12	+	
+MGI:1859559	Slc22a7	solute carrier family 22 (organic anion transporter), member 7	protein coding gene	17	46432183-46438457	22.9	-	
+MGI:2442751	Slc22a19	solute carrier family 22 (organic anion transporter), member 19	protein coding gene	19	7673075-7711310	5.34	-	
+MGI:2159410	Slc34a3	solute carrier family 34 (sodium phosphate), member 3	protein coding gene	2	25228897-25234271	17.09	-	
+MGI:2442940	Slc41a2	solute carrier family 41, member 2	protein coding gene	10	83230848-83337882	41.03	-	
+MGI:1888707	St3gal6	ST3 beta-galactoside alpha-2,3-sialyltransferase 6	protein coding gene	16	58469742-58524253	34.58	-	
+MGI:2144518	Stac2	SH3 and cysteine rich domain 2	protein coding gene	11	98036623-98053462	61.58	-	
+MGI:1921301	Steap2	six transmembrane epithelial antigen of prostate 2	protein coding gene	5	5664829-5694568	3.18	-	
+MGI:1928483	Stx5a	syntaxin 5A	protein coding gene	19	8741424-8755642	5.45	+	
+MGI:1098708	Tbc1d14	TBC1 domain family, member 14	protein coding gene	5	36490604-36586271	19.15	-	
+MGI:3041254	Thnsl2	threonine synthase-like 2 (bacterial)	protein coding gene	6	71128166-71144380	32.14	-	
+MGI:2144726	Tmem11	transmembrane protein 11	protein coding gene	11	60864452-60879038	37.9	-	
+MGI:2157899	Tmem37	transmembrane protein 37	protein coding gene	1	120067377-120074069	52.6	-	
+MGI:2442838	Tmem52b	transmembrane protein 52B	protein coding gene	6	129512555-129519227	63.37	+	
+MGI:3513175	Tmprss11e	transmembrane protease, serine 11e	protein coding gene	5	86705186-86745807	43.56	-	
+MGI:98812	Tpmt	thiopurine methyltransferase	protein coding gene	13	47021987-47043338	24.5	-	
+MGI:2140794	Ugt2b38	UDP glucuronosyltransferase 2 family, polypeptide B38	protein coding gene	5	87409942-87424203	43.56	-	

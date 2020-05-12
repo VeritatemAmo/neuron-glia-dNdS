@@ -1,0 +1,46 @@
+MGI Gene ID	Gene Symbol	Gene Name	Type	Chr	Genome Location-GRCm38	cM	Strand	
+MGI:1914202	2310030G06Rik	RIKEN cDNA 2310030G06 gene	protein coding gene	9	50739691-50746521	27.75	-	
+MGI:1328307	Ap1g2	adaptor protein complex AP-1, gamma 2 subunit	protein coding gene	14	55098575-55106593	28.07	-	
+MGI:2664636	Aqp12	aquaporin 12	protein coding gene	1	93006334-93012269	46.72	+	
+MGI:1913690	Cdc26	cell division cycle 26	protein coding gene	4	62393805-62408641	33.12	-	
+MGI:1915118	Cela3b	chymotrypsin-like elastase family, member 3B	protein coding gene	4	137421008-137430520	69.9	-	
+MGI:3646757	Cldn20	claudin 20	protein coding gene	17	3532554-3533213	2.01	+	
+MGI:88421	Clps	colipase, pancreatic	protein coding gene	17	28558210-28560766	14.76	-	
+MGI:3617840	Cpa2	carboxypeptidase A2, pancreatic	protein coding gene	6	30541642-30564476	12.52	+	
+MGI:106381	D10Wsu102e	DNA segment, Chr 10, Wayne State University 102, expressed	protein coding gene	10	83360221-83368835	41.16	+	
+MGI:1918973	Dhx34	DEAH (Asp-Glu-Ala-His) box polypeptide 34	protein coding gene	7	16197220-16222079	8.76	-	
+MGI:2447772	Erich5	glutamate rich 5	protein coding gene	15	34453312-34473892	14.34	+	
+MGI:95543	Fkbp4	FK506 binding protein 4	protein coding gene	6	128430107-128438631	63.0	-	
+MGI:1098221	Gamt	guanidinoacetate methyltransferase	protein coding gene	10	80258151-80261012	39.72	-	
+MGI:1914943	Hypk	huntingtin interacting protein K	protein coding gene	2	121457088-121458440	60.39	+	
+MGI:2142973	Lars2	leucyl-tRNA synthetase, mitochondrial	protein coding gene	9	123366927-123462666	73.92	+	
+MGI:1917611	Lman1	lectin, mannose-binding, 1	protein coding gene	18	65980739-66002635	39.08	-	
+MGI:1924155	Lrg1	leucine-rich alpha-2-glycoprotein 1	protein coding gene	17	56119678-56121946	29.17	-	
+MGI:2448588	Map3k15	mitogen-activated protein kinase kinase kinase 15	protein coding gene	X	159988433-160123351	73.95	+	
+MGI:1915815	Mrps18a	mitochondrial ribosomal protein S18A	protein coding gene	17	46111004-46128908	22.86	+	
+MGI:1916686	Mtfp1	mitochondrial fission process 1	protein coding gene	11	4091481-4095431	2.87	-	
+MGI:1913296	Ndufb5	NADH:ubiquinone oxidoreductase subunit B5	protein coding gene	3	32737063-32751559	15.85	+	
+MGI:2449980	Noxa1	NADPH oxidase activator 1	protein coding gene	2	25085667-25095149	16.97	-	
+MGI:1914961	Nsmce1	NSE1 homolog, SMC5-SMC6 complex component	protein coding gene	7	125467640-125491575	68.87	-	
+MGI:1920460	Nup54	nucleoporin 54	protein coding gene	5	92415540-92435219	46.75	-	
+MGI:87920	Plin2	perilipin 2	protein coding gene	4	86648386-86670060	40.69	-	
+MGI:1336202	Pnliprp2	pancreatic lipase-related protein 2	protein coding gene	19	58759723-58777534	54.5	+	
+MGI:109584	Prpf4b	pre-mRNA processing factor 4B	protein coding gene	13	34875302-34906064	14.21	+	
+MGI:98839	Prss1	protease, serine 1 (trypsin 1)	protein coding gene	6	41458932-41463786	19.6	+	
+MGI:1347070	Psma7	proteasome (prosome, macropain) subunit, alpha type 7	protein coding gene	2	180036374-180042433	102.55	-	
+MGI:1350917	Rps3	ribosomal protein S3	protein coding gene	7	99477896-99483709	54.07	-	
+MGI:1333818	Rps7	ribosomal protein S7	protein coding gene	12	28630854-28635953	10.99	-	
+MGI:2137361	Slc28a3	solute carrier family 28 (sodium-coupled nucleoside transporter), member 3	protein coding gene	13	58553307-58610877	31.07	-	
+MGI:1920181	Swi5	SWI5 recombination repair homolog (yeast)	protein coding gene	2	32278816-32288075	22.09	-	
+MGI:1914125	Swt1	SWT1 RNA endoribonuclease homolog (S. cerevisiae)	protein coding gene	1	151367698-151428450	64.08	-	
+MGI:1915438	Sympk	symplekin	protein coding gene	7	19024377-19054618	9.46	+	
+MGI:1913519	Tmed6	transmembrane p24 trafficking protein 6	protein coding gene	8	107061484-107065644	53.58	-	
+MGI:1930958	Tnk1	tyrosine kinase, non-receptor, 1	protein coding gene	11	69851005-69858730	42.9	-	
+MGI:102756	Try5	trypsin 5	protein coding gene	6	41311232-41314710	19.43	-	
+MGI:1915862	Ube2c	ubiquitin-conjugating enzyme E2C	protein coding gene	2	164769929-164772902	85.27	+	
+MGI:1289301	Ubxn1	UBX domain protein 1	protein coding gene	19	8871510-8875664	5.88	+	
+MGI:1915140	Ufm1	ubiquitin-fold modifier 1	protein coding gene	3	53853376-53863807	25.43	-	
+MGI:1916977	Usp46	ubiquitin specific peptidase 46	protein coding gene	5	73998726-74068411	39.33	-	
+MGI:1920924	Wdr75	WD repeat domain 75	protein coding gene	1	45795166-45823619	23.87	+	
+MGI:1919600	Zc2hc1c	zinc finger, C2HC-type containing 1C	protein coding gene	12	85288591-85299358	39.63	+	
+MGI:1916270	Zfp707	zinc finger protein 707	protein coding gene	15	75969127-75975865	35.17	+	

@@ -1,0 +1,23 @@
+MGI Gene ID	Gene Symbol	Gene Name	Type	Chr	Genome Location-GRCm38	cM	Strand	
+MGI:3026972	6430502G17Rik	RIKEN cDNA 6430502G17 gene	lncRNA gene	7	101207664-101211024			
+MGI:2179942	Adamts14	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 14	protein coding gene	10	61197112-61273438	32.16	-	
+MGI:88088	Ass-ps1	argininosuccinate synthetase pseudogene 1	pseudogene	7	15906681-15907592	8.61	+	
+MGI:88089	Ass-ps2	argininosuccinate synthetase pseudogene 2	pseudogene	10	syntenic			
+MGI:1933765	Btbd1	BTB (POZ) domain containing 1	protein coding gene	7	81792074-81829431	45.71	-	
+MGI:1891414	Cep41	centrosomal protein 41	protein coding gene	6	30653457-30693749	12.52	-	
+MGI:2685953	Cib3	calcium and integrin binding family member 3	protein coding gene	8	72204335-72212837	34.88	-	
+MGI:2443569	Fam78a	family with sequence similarity 78, member A	protein coding gene	2	32050055-32084857	22.0	-	
+MGI:1925999	Filip1l	filamin A interacting protein 1-like	protein coding gene	16	57353277-57572804	34.22	+	
+MGI:1913096	Jmy	junction-mediating and regulatory protein	protein coding gene	13	93430101-93499808	47.85	-	
+MGI:3043381	Kank4	KN motif and ankyrin repeat domains 4	protein coding gene	4	98754898-98817537	45.6	-	
+MGI:3619420	Mir483	microRNA 483	miRNA gene	7	142654924-142654996	87.99	-	
+MGI:3643515	Myh15	myosin, heavy chain 15	protein coding gene	16	49057486-49199104	30.75	+	
+MGI:1306816	Nctc1	non-coding transcript 1	lncRNA gene	7	142544609-142558596	87.96	-	
+MGI:1926594	P2ry4	pyrimidinergic receptor P2Y, G-protein coupled, 4	protein coding gene	X	100590154-100594869	43.72	-	
+MGI:1334433	Pi4kb	phosphatidylinositol 4-kinase beta	protein coding gene	3	94974731-95006843	40.74	+	
+MGI:1924233	Scfd1	Sec1 family domain containing 1	protein coding gene	12	51377513-51450102	22.11	+	
+MGI:2385317	Tceal1	transcription elongation factor A (SII)-like 1	protein coding gene	X	136707969-136709873	59.1	+	
+MGI:1915746	Tceal7	transcription elongation factor A (SII)-like 7	protein coding gene	X	136214914-136226100	57.4	+	
+MGI:1921344	Tjap1	tight junction associated protein 1	protein coding gene	17	46257851-46283026	22.9	-	
+MGI:1919383	Trub1	TruB pseudouridine (psi) synthase family member 1	protein coding gene	19	57452912-57491005	52.25	+	
+MGI:1919654	Wdr44	WD repeat domain 44	protein coding gene	X	23693051-23806025	17.36	+	

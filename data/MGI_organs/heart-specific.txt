@@ -1,0 +1,57 @@
+MGI Gene ID	Gene Symbol	Gene Name	Type	Chr	Genome Location-GRCm38	cM	Strand	
+MGI:2137706	Actn1	actinin, alpha 1	protein coding gene	12	80167547-80260371	36.49	-	
+MGI:1919418	Aifm3	apoptosis-inducing factor, mitochondrion-associated 3	protein coding gene	16	17489624-17507485	10.84	+	
+MGI:2685921	Apold1	apolipoprotein L domain containing 1	protein coding gene	6	134982001-134986836	65.77	+	
+MGI:2685175	Asxl3	additional sex combs like 3, transcriptional regulator	protein coding gene	18	22344883-22530227	11.96	+	
+MGI:1298375	Cabin1	calcineurin binding protein 1	protein coding gene	10	75646112-75764341	38.56	-	
+MGI:2144842	Cbll1	Casitas B-lineage lymphoma-like 1	protein coding gene	12	31484829-31499616	13.49	-	
+MGI:2685199	Ccdc9b	coiled-coil domain containing 9B	protein coding gene	2	118754158-118762661	59.45	-	
+MGI:104571	Clcn4	chloride channel, voltage-sensitive 4	protein coding gene	7	7282309-7300851	4.23	-	
+MGI:1916421	Cnppd1	cyclin Pas1/PHO80 domain containing 1	protein coding gene	1	75135215-75142733	38.6	-	
+MGI:2385878	Cyp2c70	cytochrome P450, family 2, subfamily c, polypeptide 70	protein coding gene	19	40153361-40187286	34.24	-	
+MGI:1196315	D6Ertd474e	DNA segment, Chr 6, ERATO Doi 474, expressed	lncRNA gene	6	143245888-143297272	75.5	+	
+MGI:107975	D13Sut1e	DNA segment, Chr 13, Sutcliffe 1 expressed	unclassified gene	13	syntenic			
+MGI:1921256	Dnm1l	dynamin 1-like	protein coding gene	16	16312230-16358959	10.12	-	
+MGI:99870	DXBay18	DNA segment, Chr X, Baylor 18	protein coding gene	X	73137232-73149450	37.29	-	
+MGI:1349385	Dysf	dysferlin	protein coding gene	6	84008590-84211060	36.14	+	
+MGI:1913687	Fis1	fission, mitochondrial 1	protein coding gene	5	136953275-136966234	76.06	+	
+MGI:2384150	Gjd3	gap junction protein, delta 3	protein coding gene	11	98982180-98983016	62.89	-	
+MGI:3645721	Gm5420	predicted gene 5420	lncRNA gene	10	21690845-21693978	9.81	+	
+MGI:1920374	Golim4	golgi integral membrane protein 4	protein coding gene	3	75876183-75956949	33.76	-	
+MGI:1918309	Hexim2	hexamethylene bis-acetamide inducible 2	protein coding gene	11	103132429-103139876	66.71	+	
+MGI:104667	Hmmr	hyaluronan mediated motility receptor (RHAMM)	protein coding gene	11	40701395-40733422	24.4	-	
+MGI:96664	Kcna7	potassium voltage-gated channel, shaker-related subfamily, member 7	protein coding gene	7	45405653-45409763	29.3	+	
+MGI:1928743	Kcnd3	potassium voltage-gated channel, Shal-related family, member 3	protein coding gene	3	105452330-105674002	46.32	+	
+MGI:1891125	Kcne4	potassium voltage-gated channel, Isk-related subfamily, gene 4	protein coding gene	1	78816949-78820025	40.89	+	
+MGI:2687399	Kcnf1	potassium voltage-gated channel, subfamily F, member 1	protein coding gene	12	17172100-17176888	8.04	-	
+MGI:2384976	Kcnk13	potassium channel, subfamily K, member 13	protein coding gene	12	99964499-100062682	50.43	+	
+MGI:1933993	Kcnn1	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 1	protein coding gene	8	70842049-70863258	34.27	-	
+MGI:2153183	Kcnn3	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 3	protein coding gene	3	89520164-89672494	39.16	+	
+MGI:1924937	Kcnq5	potassium voltage-gated channel, subfamily Q, member 5	protein coding gene	1	21398403-21961942	6.67	-	
+MGI:1925517	Klhdc8b	kelch domain containing 8B	protein coding gene	9	108447636-108461581	59.37	-	
+MGI:2448063	Lrrc10	leucine rich repeat containing 10	protein coding gene	10	117045341-117046768	65.06	+	
+MGI:2685551	Lrrc10b	leucine rich repeat containing 10B	protein coding gene	19	10455371-10457447	6.6	-	
+MGI:3642848	Mhrt	myosin heavy chain associated RNA transcript	lncRNA gene	14	54968787-54974349	28.01	+	
+MGI:3783373	Mir1b	microRNA 1b	miRNA gene	18	10785446-10785567	5.4	+	
+MGI:2676883	Mir208a	microRNA 208a	miRNA gene	14	54949060-54949142	28.0	-	
+MGI:3718461	Mir208b	microRNA 208b	miRNA gene	14	54975700-54975776	28.02	-	
+MGI:1927340	Mpp6	membrane protein, palmitoylated 6 (MAGUK p55 subfamily member 6)	protein coding gene	6	50110241-50198598	24.13	+	
+MGI:1916003	Mybphl	myosin binding protein H-like	protein coding gene	3	108364911-108380057	46.98	+	
+MGI:97368	Nppb	natriuretic peptide type B	protein coding gene	4	147985788-147987205	78.57	+	
+MGI:3030711	Olfr877	olfactory receptor 877	protein coding gene	9	37854820-37855755	20.81	+	
+MGI:1337113	P2rx6	purinergic receptor P2X, ligand-gated ion channel, 6	protein coding gene	16	17561855-17572012	10.88	+	
+MGI:2388285	Pkn3	protein kinase N3	protein coding gene	2	30077684-30091022	21.13	+	
+MGI:1923392	Ppp1r14c	protein phosphatase 1, regulatory inhibitor subunit 14C	protein coding gene	10	3366071-3464975	2.06	+	
+MGI:107172	Ppp3r1	protein phosphatase 3, regulatory subunit B, alpha isoform (calcineurin B, type I)	protein coding gene	11	17159298-17200380	9.71	+	
+MGI:2448514	R3hdm1	R3H domain containing 1	protein coding gene	1	128103301-128237736	55.8	+	
+MGI:3588214	Rufy4	RUN and FYVE domain containing 4	protein coding gene	1	74125541-74148223	38.38	+	
+MGI:98247	Scn1b	sodium channel, voltage-gated, type I, beta	protein coding gene	7	31116524-31127003	19.3	-	
+MGI:102965	Scn7a	sodium channel, voltage-gated, type VII, alpha	protein coding gene	2	66673426-66784910	39.21	-	
+MGI:894668	Serpinb9b	serine (or cysteine) peptidase inhibitor, clade B, member 9b	protein coding gene	13	33027414-33040559	13.79	+	
+MGI:1933549	Slmap	sarcolemma associated protein	protein coding gene	14	26413168-26534931	16.09	-	
+MGI:2442764	Smtnl2	smoothelin-like 2	protein coding gene	11	72389164-72411713	44.15	-	
+MGI:1328311	Sypl2	synaptophysin-like 2	protein coding gene	3	108211472-108226648	46.87	-	
+MGI:1914240	Tmem134	transmembrane protein 134	protein coding gene	19	4125960-4132307	3.83	+	
+MGI:2384577	Tmem161a	transmembrane protein 161A	protein coding gene	8	70172356-70183681	34.15	+	
+MGI:3036269	Trim55	tripartite motif-containing 55	protein coding gene	3	19644474-19692421	5.65	+	
+MGI:3612190	Trim72	tripartite motif-containing 72	protein coding gene	7	128003949-128011033	69.89	+	
