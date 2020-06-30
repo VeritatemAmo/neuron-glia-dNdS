@@ -1,0 +1,965 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:2443582	Abat	4-aminobutyrate aminotransferase	16		positive regulation of inhibitory postsynaptic potential			ISO	RGD:620948 	J:155856 	
+MGI:1924956	Abcb5	ATP-binding cassette, sub-family B (MDR/TAP), member 5	12		regulation of membrane potential			ISO	Q2M3G0 	J:164563 	
+MGI:1349215	Abcd1	ATP-binding cassette, sub-family D (ALD), member 1	X		regulation of mitochondrial depolarization			IMP		J:234537 	
+MGI:109192	Actn2	actinin alpha 2	13		regulation of membrane potential			ISO	P35609 	J:164563 	
+MGI:105094	Adcyap1	adenylate cyclase activating polypeptide 1	17		regulation of postsynaptic membrane potential			ISO	RGD:2037 	J:155856 	
+MGI:99401	Adora1	adenosine A1 receptor	1		excitatory postsynaptic potential	happens in hippocampus CA3		IDA		J:120963 	
+MGI:99401	Adora1	adenosine A1 receptor	1		excitatory postsynaptic potential			ISO	RGD:2048 	J:155856 	
+MGI:99402	Adora2a	adenosine A2a receptor	10		excitatory postsynaptic potential			ISO	RGD:2049 	J:155856 	
+MGI:99402	Adora2a	adenosine A2a receptor	10		inhibitory postsynaptic potential	happens in corpus striatum,happens in GABAergic neuron		IGI	MGI:95815 	J:60965 	
+MGI:99402	Adora2a	adenosine A2a receptor	10		membrane depolarization			ISO	RGD:2049 	J:155856 	
+MGI:99402	Adora2a	adenosine A2a receptor	10		regulation of mitochondrial membrane potential			ISO	RGD:2049 	J:155856 	
+MGI:104773	Adra1a	adrenergic receptor, alpha 1a	14		positive regulation of action potential			ISO	RGD:2055 	J:155856 	
+MGI:87937	Adrb1	adrenergic receptor, beta 1	19		inhibitory postsynaptic potential			ISO	RGD:2059 	J:155856 	
+MGI:87938	Adrb2	adrenergic receptor, beta 2	18		excitatory postsynaptic potential			ISO	RGD:2060 	J:155856 	
+MGI:87938	Adrb2	adrenergic receptor, beta 2	18		positive regulation of mini excitatory postsynaptic potential	is a part of positive regulation of AMPA receptor activity,regulates a function/process that happens in neuron		IGI	CPX-1070 	J:241478 	
+MGI:1314653	Afdn	afadin, adherens junction formation factor	17		positive regulation of mini excitatory postsynaptic potential			ISO	RGD:708561 	J:155856 	
+MGI:87961	Agrn	agrin	4		regulation of cardiac muscle cell membrane potential			IDA		J:151007 	
+MGI:87963	Agt	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)	8		positive regulation of membrane hyperpolarization			ISO	P01019 	J:164563 	
+MGI:3050566	Akap6	A kinase (PRKA) anchor protein 6	12		regulation of membrane repolarization			ISO	Q13023 	J:164563 	
+MGI:1859150	Akap7	A kinase (PRKA) anchor protein 7	10		regulation of membrane repolarization			ISO	O43687 	J:164563 	
+MGI:2178217	Akap9	A kinase (PRKA) anchor protein (yotiao) 9	5		regulation of ventricular cardiac muscle cell membrane repolarization			IBA	PTN001053428 	J:265628 	
+MGI:87986	Akt1	thymoma viral proto-oncogene 1	12		positive regulation of mitochondrial membrane potential			ISO	P31749 	J:164563 	
+MGI:104874	Akt2	thymoma viral proto-oncogene 2	7		positive regulation of mitochondrial membrane potential			ISO	P31751 	J:164563 	
+MGI:87998	Alox12	arachidonate 12-lipoxygenase	11		positive regulation of mitochondrial depolarization			ISO	RGD:1311159 	J:155856 	
+MGI:88025	Ank2	ankyrin 2, brain	3		atrial cardiac muscle cell action potential			IMP		J:185021 	
+MGI:88025	Ank2	ankyrin 2, brain	3		regulation of atrial cardiac muscle cell action potential			IMP		J:81699 	
+MGI:88025	Ank2	ankyrin 2, brain	3		regulation of AV node cell action potential			IMP		J:81699 	
+MGI:88025	Ank2	ankyrin 2, brain	3		regulation of cardiac muscle cell membrane potential	regulates a function/process that happens in heart,regulates a function/process that happens in cardiac muscle cell		IGI	Q9NZN3 	J:175049 	
+MGI:88025	Ank2	ankyrin 2, brain	3		regulation of cardiac muscle cell membrane potential	regulates a function/process that happens in heart,regulates a function/process that happens in cardiac muscle cell		IMP		J:175049 	
+MGI:88025	Ank2	ankyrin 2, brain	3		regulation of SA node cell action potential			IMP		J:81699 	
+MGI:88025	Ank2	ankyrin 2, brain	3		SA node cell action potential			IMP		J:186061 	
+MGI:88026	Ank3	ankyrin 3, epithelial	10		neuronal action potential			IMP		J:51377 	
+MGI:88026	Ank3	ankyrin 3, epithelial	10		positive regulation of action potential			TAS		J:106271 	
+MGI:88026	Ank3	ankyrin 3, epithelial	10		positive regulation of membrane depolarization during cardiac muscle cell action potential			ISO	RGD:620157 	J:155856 	
+MGI:88026	Ank3	ankyrin 3, epithelial	10		positive regulation of membrane potential			ISO	RGD:620157 	J:155856 	
+MGI:2142149	Ano1	anoctamin 1, calcium activated chloride channel	7		regulation of membrane potential	happens in small intestine		IGI	MGI:1918361 	J:192254 	
+MGI:2142149	Ano1	anoctamin 1, calcium activated chloride channel	7		regulation of membrane potential	happens in small intestine		IMP		J:192254 	
+MGI:88059	App	amyloid beta (A4) precursor protein	16		modulation of excitatory postsynaptic potential			ISO	P05067 	J:164563 	
+MGI:88059	App	amyloid beta (A4) precursor protein	16		positive regulation of excitatory postsynaptic potential			ISO	P05067 	J:164563 	
+MGI:88059	App	amyloid beta (A4) precursor protein	16		regulation of acetylcholine-gated cation channel activity			ISO	P05067 	J:164563 	
+MGI:1929501	Arl6ip5	ADP-ribosylation factor-like 6 interacting protein 5	6		negative regulation of mitochondrial membrane potential			ISO	O75915 	J:164563 	
+MGI:1194915	Asic1	acid-sensing (proton-gated) ion channel 1	15		regulation of membrane potential			IMP	MGI:2179834 	J:152937 	
+MGI:1100867	Asic2	acid-sensing (proton-gated) ion channel 2	11		regulation of membrane potential	happens in dorsal root ganglion,has the participant neuron		IMP	MGI:2180111 	J:164935 	
+MGI:88105	Atp1a1	ATPase, Na+/K+ transporting, alpha 1 polypeptide	3		membrane hyperpolarization			ISO	RGD:2167 	J:155856 	
+MGI:88105	Atp1a1	ATPase, Na+/K+ transporting, alpha 1 polypeptide	3		membrane repolarization			ISO	P05023 	J:164563 	
+MGI:88107	Atp1a3	ATPase, Na+/K+ transporting, alpha 3 polypeptide	7		regulation of cardiac muscle cell membrane potential			IGI	A2ASQ1 	J:151007 	
+MGI:1351335	Atp1a4	ATPase, Na+/K+ transporting, alpha 4 polypeptide	1		regulation of membrane potential	has the participant sperm		IMP	MGI:4941050 	J:169420 	
+MGI:88108	Atp1b1	ATPase, Na+/K+ transporting, beta 1 polypeptide	1		membrane repolarization			ISO	P05026 	J:164563 	
+MGI:88109	Atp1b2	ATPase, Na+/K+ transporting, beta 2 polypeptide	11		membrane repolarization			ISO	P14415 	J:164563 	
+MGI:107788	Atp1b3	ATPase, Na+/K+ transporting, beta 3 polypeptide	9		membrane repolarization			ISO	P54709 	J:164563 	
+MGI:88110	Atp2a2	ATPase, Ca++ transporting, cardiac muscle, slow twitch 2	5		regulation of cardiac muscle cell action potential involved in regulation of contraction			ISO	RGD:2174 	J:155856 	
+MGI:88110	Atp2a2	ATPase, Ca++ transporting, cardiac muscle, slow twitch 2	5		regulation of cardiac muscle cell membrane potential			ISO	RGD:2174 	J:155856 	
+MGI:107653	Atp5g1	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit C1 (subunit 9)	11		negative regulation of mitochondrial membrane potential			ISO	RGD:61933 	J:155856 	
+MGI:1196457	Atpif1	ATPase inhibitory factor 1	4		mitochondrial depolarization			ISO	Q9UII2 	J:164563 	
+MGI:104783	Atxn1	ataxin 1	13		excitatory postsynaptic potential	happens in hippocampus CA1,regulates a function/process that happens in CNS neuron (sensu Vertebrata)		IMP	MGI:2181805 	J:48508 	
+MGI:88127	B2m	beta-2 microglobulin	2		regulation of membrane depolarization			ISO	P61769 	J:164563 	
+MGI:1096330	Bad	BCL2-associated agonist of cell death	19		positive regulation of mitochondrial membrane potential			IMP		J:133563 	
+MGI:2137336	Baiap2	brain-specific angiogenesis inhibitor 1-associated protein 2	11		positive regulation of excitatory postsynaptic potential			ISO	RGD:619814 	J:155856 	
+MGI:1097161	Bak1	BCL2-antagonist/killer 1	17		regulation of mitochondrial membrane potential			ISO	Q16611 	J:164563 	
+MGI:99702	Bax	BCL2-associated X protein	7		negative regulation of mitochondrial membrane potential			ISO	Q07812 	J:164563 	
+MGI:99702	Bax	BCL2-associated X protein	7	NOT	regulation of mitochondrial membrane potential			IDA		J:88009 	
+MGI:88138	Bcl2	B cell leukemia/lymphoma 2	1		regulation of mitochondrial membrane potential			IDA		J:118849 	
+MGI:88139	Bcl2l1	BCL2-like 1	2		regulation of mitochondrial membrane potential			ISO	Q07817 	J:164563 	
+MGI:2177469	Bco2	beta-carotene oxygenase 2	9		regulation of mitochondrial membrane potential			IMP		J:170742 	
+MGI:88145	Bdnf	brain derived neurotrophic factor	2		excitatory postsynaptic potential			ISO	RGD:2202 	J:155856 	
+MGI:88145	Bdnf	brain derived neurotrophic factor	2		inhibitory postsynaptic potential			IMP	MGI:2176750 	J:207770 	
+MGI:3044626	Begain	brain-enriched guanylate kinase-associated	12		evoked excitatory postsynaptic potential	happens in neuron,happens in substantia gelatinosa		IMP	MGI:5818151 	J:237768 	
+MGI:2387588	Best2	bestrophin 2	8		membrane depolarization			IDA		J:127173 	
+MGI:108093	Bid	BH3 interacting domain death agonist	6		positive regulation of mitochondrial membrane potential			IMP	MGI:5428930 	J:224442 	
+MGI:108092	Bin1	bridging integrator 1	18		negative regulation of ventricular cardiac muscle cell action potential	happens in cardiac muscle cell,regulates a function/process that happens in cardiac muscle cell,happens near inward rectifier potassium channel complex,is a part of negative regulation of potassium ion transmembrane transport		IMP		J:213224 	
+MGI:109326	Bnip3	BCL2/adenovirus E1B interacting protein 3	7		negative regulation of membrane potential			ISO	Q12983 	J:164563 	
+MGI:109326	Bnip3	BCL2/adenovirus E1B interacting protein 3	7		negative regulation of mitochondrial membrane potential			ISO	RGD:620800 	J:155856 	
+MGI:1332659	Bnip3l	BCL2/adenovirus E1B interacting protein 3-like	14		negative regulation of mitochondrial membrane potential			ISO	RGD:621354 	J:155856 	
+MGI:1858494	Bok	BCL2-related ovarian killer	1		negative regulation of mitochondrial depolarization			IMP		J:235305 	
+MGI:1298392	Bscl2	Berardinelli-Seip congenital lipodystrophy 2 (seipin)	19		regulation of excitatory postsynaptic membrane potential involved in skeletal muscle contraction	happens in neuron of cerebral cortex		IMP		J:193536 	
+MGI:1346013	Bves	blood vessel epicardial substance	10		regulation of membrane potential			IBA	PTN000250645 	J:265628 	
+MGI:1346013	Bves	blood vessel epicardial substance	10		regulation of membrane potential			IGI	MGI:109366 	J:184566 	
+MGI:109482	Cacna1a	calcium channel, voltage-dependent, P/Q type, alpha 1A subunit	8		membrane depolarization	happens in hippocampus CA3,happens in pyramidal neuron		IMP	MGI:1856209 	J:18102 	
+MGI:109482	Cacna1a	calcium channel, voltage-dependent, P/Q type, alpha 1A subunit	8		membrane depolarization	happens in dorsal root ganglion,happens in neuron		IMP	MGI:1856210 	J:72853 	
+MGI:109482	Cacna1a	calcium channel, voltage-dependent, P/Q type, alpha 1A subunit	8		membrane depolarization	happens in cerebellum,happens in Purkinje cell		IMP	MGI:1856211 	J:63634 	
+MGI:109482	Cacna1a	calcium channel, voltage-dependent, P/Q type, alpha 1A subunit	8		regulation of membrane potential	happens in cerebral cortex,has the participant CNS neuron (sensu Vertebrata)		IMP	MGI:1856209 	J:60492 	
+MGI:109482	Cacna1a	calcium channel, voltage-dependent, P/Q type, alpha 1A subunit	8		regulation of membrane potential	happens in hippocampus CA1,has the participant pyramidal neuron		IMP	MGI:1856209 	J:3627 	
+MGI:109482	Cacna1a	calcium channel, voltage-dependent, P/Q type, alpha 1A subunit	8		regulation of membrane potential	happens in cerebellum,has the participant Purkinje cell		IMP	MGI:1856209 MGI:1856210 	J:51647 	
+MGI:109482	Cacna1a	calcium channel, voltage-dependent, P/Q type, alpha 1A subunit	8		regulation of membrane potential	happens in cerebellar cortex,has the participant Purkinje cell		IMP	MGI:2181384 	J:107960 	
+MGI:109482	Cacna1a	calcium channel, voltage-dependent, P/Q type, alpha 1A subunit	8		regulation of membrane potential	happens in thalamus,has the participant CNS neuron (sensu Vertebrata)		IMP	MGI:1856209 	J:106959 	
+MGI:109482	Cacna1a	calcium channel, voltage-dependent, P/Q type, alpha 1A subunit	8		regulation of membrane potential	happens in hippocampus,has the participant pyramidal neuron		IMP	MGI:1856209 	J:1180 	
+MGI:109482	Cacna1a	calcium channel, voltage-dependent, P/Q type, alpha 1A subunit	8		regulation of membrane potential	happens in cerebellum,has the participant Purkinje cell		IMP	MGI:1856210 	J:47984 	
+MGI:103013	Cacna1c	calcium channel, voltage-dependent, L type, alpha 1C subunit	6		cardiac muscle cell action potential involved in contraction			ISO	Q13936 	J:164563 	
+MGI:103013	Cacna1c	calcium channel, voltage-dependent, L type, alpha 1C subunit	6		membrane depolarization during atrial cardiac muscle cell action potential			ISO	Q13936 	J:164563 	
+MGI:103013	Cacna1c	calcium channel, voltage-dependent, L type, alpha 1C subunit	6		membrane depolarization during AV node cell action potential			ISO	Q13936 	J:164563 	
+MGI:103013	Cacna1c	calcium channel, voltage-dependent, L type, alpha 1C subunit	6		membrane depolarization during cardiac muscle cell action potential			ISO	Q13936 	J:164563 	
+MGI:103013	Cacna1c	calcium channel, voltage-dependent, L type, alpha 1C subunit	6		regulation of ventricular cardiac muscle cell action potential			ISO	Q13936 	J:164563 	
+MGI:88293	Cacna1d	calcium channel, voltage-dependent, L type, alpha 1D subunit	14		cardiac muscle cell action potential involved in contraction			ISO	Q01668 	J:164563 	
+MGI:88293	Cacna1d	calcium channel, voltage-dependent, L type, alpha 1D subunit	14		membrane depolarization during SA node cell action potential	happens in sinoatrial node,happens in cardiac pacemaker cell of sinoatrial node		IMP	MGI:2180141 	J:99822 	
+MGI:88293	Cacna1d	calcium channel, voltage-dependent, L type, alpha 1D subunit	14		membrane depolarization during SA node cell action potential			ISO	Q01668 	J:164563 	
+MGI:88293	Cacna1d	calcium channel, voltage-dependent, L type, alpha 1D subunit	14		regulation of atrial cardiac muscle cell membrane repolarization			IMP		J:130245 	
+MGI:1201678	Cacna1g	calcium channel, voltage-dependent, T type, alpha 1G subunit	11		action potential			IMP	MGI:3530501 	J:140824 	
+MGI:1201678	Cacna1g	calcium channel, voltage-dependent, T type, alpha 1G subunit	11		AV node cell action potential			IMP		J:122634 	
+MGI:1201678	Cacna1g	calcium channel, voltage-dependent, T type, alpha 1G subunit	11		cardiac muscle cell action potential involved in contraction			IMP		J:122634 	
+MGI:1201678	Cacna1g	calcium channel, voltage-dependent, T type, alpha 1G subunit	11		membrane depolarization during action potential			IBA	PTN000004140 	J:265628 	
+MGI:1201678	Cacna1g	calcium channel, voltage-dependent, T type, alpha 1G subunit	11		membrane depolarization during AV node cell action potential			IMP		J:122634 	
+MGI:1201678	Cacna1g	calcium channel, voltage-dependent, T type, alpha 1G subunit	11		membrane depolarization during SA node cell action potential			IMP		J:122634 	
+MGI:1201678	Cacna1g	calcium channel, voltage-dependent, T type, alpha 1G subunit	11		neuronal action potential			IBA	PTN000799039 	J:265628 	
+MGI:1201678	Cacna1g	calcium channel, voltage-dependent, T type, alpha 1G subunit	11		regulation of atrial cardiac muscle cell membrane depolarization	regulates a function/process that happens in sinoatrial node		IMP	MGI:2182962 	J:122634 	
+MGI:1201678	Cacna1g	calcium channel, voltage-dependent, T type, alpha 1G subunit	11		regulation of membrane potential			ISO	O43497 	J:164563 	
+MGI:1201678	Cacna1g	calcium channel, voltage-dependent, T type, alpha 1G subunit	11		SA node cell action potential			IMP		J:122634 	
+MGI:1928842	Cacna1h	calcium channel, voltage-dependent, T type, alpha 1H subunit	17		membrane depolarization during action potential			IBA	PTN000004140 	J:265628 	
+MGI:1928842	Cacna1h	calcium channel, voltage-dependent, T type, alpha 1H subunit	17		neuronal action potential			IBA	PTN000799039 	J:265628 	
+MGI:1928842	Cacna1h	calcium channel, voltage-dependent, T type, alpha 1H subunit	17		regulation of membrane potential			ISO	O95180 	J:164563 	
+MGI:2178051	Cacna1i	calcium channel, voltage-dependent, alpha 1I subunit	15		membrane depolarization during action potential			IBA	PTN000004140 	J:265628 	
+MGI:2178051	Cacna1i	calcium channel, voltage-dependent, alpha 1I subunit	15		neuronal action potential			IBA	PTN000799039 	J:265628 	
+MGI:2178051	Cacna1i	calcium channel, voltage-dependent, alpha 1I subunit	15		neuronal action potential	happens in reticular thalamic nucleus,happens in neuron of the forebrain		IMP		J:175607 	
+MGI:2178051	Cacna1i	calcium channel, voltage-dependent, alpha 1I subunit	15		regulation of membrane potential			ISO	Q9Z0Y8 	J:73065 	
+MGI:88295	Cacna2d1	calcium channel, voltage-dependent, alpha2/delta subunit 1	5		cardiac muscle cell action potential involved in contraction			ISO	P54289 	J:164563 	
+MGI:88295	Cacna2d1	calcium channel, voltage-dependent, alpha2/delta subunit 1	5		membrane depolarization during bundle of His cell action potential			ISO	P54289 	J:164563 	
+MGI:88295	Cacna2d1	calcium channel, voltage-dependent, alpha2/delta subunit 1	5		regulation of membrane repolarization during action potential			ISO	RGD:2247 	J:155856 	
+MGI:88295	Cacna2d1	calcium channel, voltage-dependent, alpha2/delta subunit 1	5		regulation of ventricular cardiac muscle cell membrane repolarization			ISO	P54289 	J:164563 	
+MGI:894644	Cacnb2	calcium channel, voltage-dependent, beta 2 subunit	2		membrane depolarization during atrial cardiac muscle cell action potential			ISO	Q08289 	J:164563 	
+MGI:894644	Cacnb2	calcium channel, voltage-dependent, beta 2 subunit	2		membrane depolarization during AV node cell action potential			ISO	Q08289 	J:164563 	
+MGI:103307	Cacnb3	calcium channel, voltage-dependent, beta 3 subunit	15		positive regulation of excitatory postsynaptic potential			ISO	RGD:2248 	J:155856 	
+MGI:103307	Cacnb3	calcium channel, voltage-dependent, beta 3 subunit	15		regulation of membrane hyperpolarization			ISO	RGD:2248 	J:155856 	
+MGI:103307	Cacnb3	calcium channel, voltage-dependent, beta 3 subunit	15		regulation of membrane repolarization during action potential			ISO	RGD:2248 	J:155856 	
+MGI:103301	Cacnb4	calcium channel, voltage-dependent, beta 4 subunit	2		neuronal action potential propagation	has the participant tail,has the participant motor neuron		IMP	MGI:1856936 	J:6556 	
+MGI:103301	Cacnb4	calcium channel, voltage-dependent, beta 4 subunit	2		regulation of membrane potential	has the participant T cell		IMP	MGI:1856936 	J:95687 	
+MGI:103301	Cacnb4	calcium channel, voltage-dependent, beta 4 subunit	2		regulation of membrane potential	happens in thalamus,has the participant CNS neuron (sensu Vertebrata)		IMP	MGI:1856936 	J:106959 	
+MGI:1316660	Cacng2	calcium channel, voltage-dependent, gamma subunit 2	15		membrane depolarization	happens in neocortex		IMP	MGI:1856548 	J:40687 	
+MGI:1316660	Cacng2	calcium channel, voltage-dependent, gamma subunit 2	15		membrane hyperpolarization	happens in neocortex		IMP	MGI:1856548 	J:40687 	
+MGI:1316660	Cacng2	calcium channel, voltage-dependent, gamma subunit 2	15		regulation of membrane potential	happens in thalamus,has the participant CNS neuron (sensu Vertebrata)		IMP	MGI:1856548 	J:106959 	
+MGI:1341265	Camk2d	calcium/calmodulin-dependent protein kinase II, delta	3		regulation of cardiac muscle cell action potential			ISO	RGD:2263 	J:155856 	
+MGI:1341265	Camk2d	calcium/calmodulin-dependent protein kinase II, delta	3		regulation of membrane depolarization			ISO	Q13557 	J:164563 	
+MGI:96544	Casp1	caspase 1	9		membrane hyperpolarization			IMP		J:192731 	
+MGI:96544	Casp1	caspase 1	9		mitochondrial depolarization			IMP		J:192731 	
+MGI:1309469	Casq2	calsequestrin 2	3		regulation of membrane repolarization			IDA		J:186034 	
+MGI:102709	Cav1	caveolin 1, caveolae protein	6		membrane depolarization	happens in cerebral artery,happens in smooth muscle cell		IMP	MGI:2180364 	J:120603 	
+MGI:102709	Cav1	caveolin 1, caveolae protein	6		regulation of membrane repolarization during action potential			ISO	Q03135 	J:164563 	
+MGI:102709	Cav1	caveolin 1, caveolae protein	6		regulation of ventricular cardiac muscle cell action potential			IMP		J:215922 	
+MGI:107570	Cav3	caveolin 3	6		negative regulation of membrane depolarization during cardiac muscle cell action potential	happens in regular ventricular cardiac myocyte,happens in UBERON:0007221		IMP		J:217301 	
+MGI:107570	Cav3	caveolin 3	6		regulation of cardiac muscle cell action potential involved in regulation of contraction			ISO	P56539 	J:164563 	
+MGI:107570	Cav3	caveolin 3	6		regulation of membrane depolarization during cardiac muscle cell action potential			IBA	PTN000090184 	J:265628 	
+MGI:107570	Cav3	caveolin 3	6		regulation of membrane depolarization during cardiac muscle cell action potential			ISO	P56539 	J:164563 	
+MGI:107570	Cav3	caveolin 3	6		regulation of membrane potential			IBA	PTN002586182 	J:265628 	
+MGI:107570	Cav3	caveolin 3	6		regulation of membrane potential			IGI	MGI:107231 MGI:96662 	J:95586 	
+MGI:107570	Cav3	caveolin 3	6		regulation of membrane potential			ISO	P56539 	J:164563 	
+MGI:107570	Cav3	caveolin 3	6		regulation of ventricular cardiac muscle cell membrane depolarization			ISO	P56539 	J:164563 	
+MGI:107570	Cav3	caveolin 3	6		regulation of ventricular cardiac muscle cell membrane repolarization			ISO	P56539 	J:164563 	
+MGI:107570	Cav3	caveolin 3	6		ventricular cardiac muscle cell action potential			ISO	RGD:2281 	J:155856 	
+MGI:88281	Cbln1	cerebellin 1 precursor protein	8		negative regulation of excitatory postsynaptic potential			ISO	P23435 	J:164563 	
+MGI:88297	Cck	cholecystokinin	9		positive regulation of mitochondrial depolarization			ISO	RGD:2288 	J:155856 	
+MGI:2685581	Ccn6	cellular communication network factor 6	10		regulation of mitochondrial membrane potential			ISO	O95389 	J:164563 	
+MGI:107899	Cd36	CD36 molecule	5		regulation of action potential	happens in hippocampal pyramidal neuron		IMP		J:255338 	
+MGI:101765	Cdk5	cyclin-dependent kinase 5	5		excitatory postsynaptic potential			IMP	MGI:3720892 MGI:3720937 	J:124046 	
+MGI:101765	Cdk5	cyclin-dependent kinase 5	5		regulation of postsynaptic membrane potential	regulates a function/process that happens in diaphragm,regulates a function/process that happens in cell of skeletal muscle		IMP	MGI:1861809 	J:102479 	
+MGI:104738	Cdkn2a	cyclin dependent kinase inhibitor 2A	4		mitochondrial depolarization			ISO	Q8N726 	J:164563 	
+MGI:1932407	Celf4	CUGBP, Elav-like family member 4	18		negative regulation of excitatory postsynaptic potential	regulates a function/process that happens in cerebral cortex,regulates a function/process that happens in pyramidal neuron		IMP	MGI:5425630 	J:181678 	
+MGI:88388	Cftr	cystic fibrosis transmembrane conductance regulator	6		membrane hyperpolarization			IMP		J:185780 	
+MGI:88388	Cftr	cystic fibrosis transmembrane conductance regulator	6	NOT	regulation of membrane depolarization			IMP		J:221546 	
+MGI:2143558	Chchd10	coiled-coil-helix-coiled-coil-helix domain containing 10	10		stabilization of membrane potential	happens near mitochondrion		IMP		J:250353 	
+MGI:87885	Chrna1	cholinergic receptor, nicotinic, alpha polypeptide 1 (muscle)	2		neuronal action potential			ISO	P02708 	J:164563 	
+MGI:87885	Chrna1	cholinergic receptor, nicotinic, alpha polypeptide 1 (muscle)	2		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:87885	Chrna1	cholinergic receptor, nicotinic, alpha polypeptide 1 (muscle)	2		regulation of membrane potential			IGI	MGI:87890 MGI:87893 MGI:87894 MGI:87895 	J:19812 	
+MGI:87885	Chrna1	cholinergic receptor, nicotinic, alpha polypeptide 1 (muscle)	2		regulation of membrane potential			ISO	P02708 	J:73065 	
+MGI:87886	Chrna2	cholinergic receptor, nicotinic, alpha polypeptide 2 (neuronal)	14		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:87887	Chrna3	cholinergic receptor, nicotinic, alpha polypeptide 3	9		excitatory postsynaptic potential	happens in sympathetic nervous system,regulates a function/process that happens in neuron		IMP	MGI:2155602 	J:101059 	
+MGI:87887	Chrna3	cholinergic receptor, nicotinic, alpha polypeptide 3	9		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:87887	Chrna3	cholinergic receptor, nicotinic, alpha polypeptide 3	9		regulation of membrane potential	happens in superior cervical ganglion,has the participant neuron|happens in parasympathetic nerve,has the participant neuron		IMP	MGI:2155602 	J:54994 	
+MGI:87888	Chrna4	cholinergic receptor, nicotinic, alpha polypeptide 4	2		action potential	happens in thalamus,regulates a function/process that happens in CNS neuron (sensu Vertebrata)|happens in raphe magnus nucleus,regulates a function/process that happens in serotonergic neuron		IMP	MGI:1926251 	J:54505 	
+MGI:87888	Chrna4	cholinergic receptor, nicotinic, alpha polypeptide 4	2		inhibitory postsynaptic potential	happens in cortical layer II,happens in pyramidal neuron|happens in cortical layer III,happens in pyramidal neuron		IMP	MGI:3700204 MGI:3700205 	J:118273 	
+MGI:87888	Chrna4	cholinergic receptor, nicotinic, alpha polypeptide 4	2		membrane depolarization			IGI	MGI:87891 	J:99085 	
+MGI:87888	Chrna4	cholinergic receptor, nicotinic, alpha polypeptide 4	2		membrane depolarization	happens in midbrain,happens in dopaminergic neuron|happens in midbrain,happens in GABAergic neuron		IMP	MGI:1926251 	J:109365 	
+MGI:87888	Chrna4	cholinergic receptor, nicotinic, alpha polypeptide 4	2		membrane depolarization	happens in corpus striatum,happens in dopaminergic neuron		IMP	MGI:1926251 	J:85306 	
+MGI:87888	Chrna4	cholinergic receptor, nicotinic, alpha polypeptide 4	2		membrane depolarization	happens in midbrain,happens in dopaminergic neuron		IMP	MGI:2158758 	J:67863 	
+MGI:87888	Chrna4	cholinergic receptor, nicotinic, alpha polypeptide 4	2		regulation of acetylcholine-gated cation channel activity			ISO	RGD:2346 	J:155856 	
+MGI:87888	Chrna4	cholinergic receptor, nicotinic, alpha polypeptide 4	2		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:87888	Chrna4	cholinergic receptor, nicotinic, alpha polypeptide 4	2		regulation of membrane potential			IGI	MGI:87891 	J:94804 	
+MGI:87889	Chrna5	cholinergic receptor, nicotinic, alpha polypeptide 5	9		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:106213	Chrna6	cholinergic receptor, nicotinic, alpha polypeptide 6	8		membrane depolarization	happens in corpus striatum,happens in dopaminergic neuron		IMP	MGI:2179133 	J:85306 	
+MGI:106213	Chrna6	cholinergic receptor, nicotinic, alpha polypeptide 6	8		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:99779	Chrna7	cholinergic receptor, nicotinic, alpha polypeptide 7	7		modulation of excitatory postsynaptic potential	happens in hippocampus CA1,happens at the same time as UBERON:0018241		IDA		J:168638 	
+MGI:99779	Chrna7	cholinergic receptor, nicotinic, alpha polypeptide 7	7		modulation of excitatory postsynaptic potential	happens in hippocampus CA1,happens at the same time as UBERON:0018241		IGI	P05067 	J:168638 	
+MGI:99779	Chrna7	cholinergic receptor, nicotinic, alpha polypeptide 7	7		neuronal action potential			ISO	RGD:2348 	J:155856 	
+MGI:99779	Chrna7	cholinergic receptor, nicotinic, alpha polypeptide 7	7		positive regulation of excitatory postsynaptic potential	happens in hippocampal formation,is a part of response to amyloid-beta		IGI	CPX-1134 P05067 	J:239203 	
+MGI:99779	Chrna7	cholinergic receptor, nicotinic, alpha polypeptide 7	7		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:99779	Chrna7	cholinergic receptor, nicotinic, alpha polypeptide 7	7		regulation of membrane potential	happens in hippocampus,has the participant CNS neuron (sensu Vertebrata)		IMP	MGI:1888407 	J:44288 	
+MGI:99779	Chrna7	cholinergic receptor, nicotinic, alpha polypeptide 7	7		regulation of membrane potential	happens in hippocampus,has the participant CNS neuron (sensu Vertebrata)		IMP	MGI:2155604 	J:61536 	
+MGI:99779	Chrna7	cholinergic receptor, nicotinic, alpha polypeptide 7	7		regulation of membrane potential			ISO	Q05941 	J:73065 	
+MGI:1202403	Chrna9	cholinergic receptor, nicotinic, alpha polypeptide 9	5		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:3609260	Chrna10	cholinergic receptor, nicotinic, alpha polypeptide 10	7		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:87890	Chrnb1	cholinergic receptor, nicotinic, beta polypeptide 1 (muscle)	11		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:87890	Chrnb1	cholinergic receptor, nicotinic, beta polypeptide 1 (muscle)	11		regulation of membrane potential			IGI	MGI:87893 MGI:87895 	J:35334 	
+MGI:87890	Chrnb1	cholinergic receptor, nicotinic, beta polypeptide 1 (muscle)	11		regulation of membrane potential			IGI	MGI:87885 MGI:87893 MGI:87894 MGI:87895 	J:19812 	
+MGI:87891	Chrnb2	cholinergic receptor, nicotinic, beta polypeptide 2 (neuronal)	3		action potential	happens in superior cervical ganglion,regulates a function/process that happens in neuron		IGI	MGI:87892 	J:73590 	
+MGI:87891	Chrnb2	cholinergic receptor, nicotinic, beta polypeptide 2 (neuronal)	3		action potential	happens in raphe magnus nucleus,regulates a function/process that happens in serotonergic neuron|happens in thalamus,regulates a function/process that happens in CNS neuron (sensu Vertebrata)		IMP	MGI:1926253 	J:54505 	
+MGI:87891	Chrnb2	cholinergic receptor, nicotinic, beta polypeptide 2 (neuronal)	3		membrane depolarization	happens in midbrain,happens in dopaminergic neuron|happens in midbrain,happens in GABAergic neuron		IMP	MGI:1926253 	J:109365 	
+MGI:87891	Chrnb2	cholinergic receptor, nicotinic, beta polypeptide 2 (neuronal)	3		negative regulation of action potential	regulates a function/process that happens in lateral geniculate nucleus,regulates a function/process that happens in neuron		IMP	MGI:1926253 	J:109772 	
+MGI:87891	Chrnb2	cholinergic receptor, nicotinic, beta polypeptide 2 (neuronal)	3		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:87891	Chrnb2	cholinergic receptor, nicotinic, beta polypeptide 2 (neuronal)	3		regulation of membrane potential			IGI	MGI:87888 	J:94804 J:99085 	
+MGI:87891	Chrnb2	cholinergic receptor, nicotinic, beta polypeptide 2 (neuronal)	3		regulation of membrane potential	happens in superior cervical ganglion,has the participant neuron		IGI	MGI:87892 	J:73590 	
+MGI:87891	Chrnb2	cholinergic receptor, nicotinic, beta polypeptide 2 (neuronal)	3		regulation of membrane potential	happens in substantia nigra pars compacta,has the participant CNS neuron (sensu Vertebrata)|happens in ventral tegmental nucleus,has the participant CNS neuron (sensu Vertebrata)		IMP	MGI:1926253 	J:45151 	
+MGI:106212	Chrnb3	cholinergic receptor, nicotinic, beta polypeptide 3	8		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:87892	Chrnb4	cholinergic receptor, nicotinic, beta polypeptide 4	9		action potential	happens in superior cervical ganglion,regulates a function/process that happens in neuron		IGI	MGI:87891 	J:73590 	
+MGI:87892	Chrnb4	cholinergic receptor, nicotinic, beta polypeptide 4	9		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:87892	Chrnb4	cholinergic receptor, nicotinic, beta polypeptide 4	9		regulation of membrane potential	happens in superior cervical ganglion,has the participant neuron		IGI	MGI:87891 	J:73590 	
+MGI:87893	Chrnd	cholinergic receptor, nicotinic, delta polypeptide	1		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:87893	Chrnd	cholinergic receptor, nicotinic, delta polypeptide	1		regulation of membrane potential			IGI	MGI:87890 MGI:87895 	J:35334 	
+MGI:87893	Chrnd	cholinergic receptor, nicotinic, delta polypeptide	1		regulation of membrane potential			IGI	MGI:87885 MGI:87890 MGI:87894 MGI:87895 	J:19812 	
+MGI:87894	Chrne	cholinergic receptor, nicotinic, epsilon polypeptide	11		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:87894	Chrne	cholinergic receptor, nicotinic, epsilon polypeptide	11		regulation of membrane potential			IGI	MGI:87885 MGI:87890 MGI:87893 	J:19812 	
+MGI:87895	Chrng	cholinergic receptor, nicotinic, gamma polypeptide	1		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:87895	Chrng	cholinergic receptor, nicotinic, gamma polypeptide	1		regulation of membrane potential			IGI	MGI:87885 MGI:87890 MGI:87893 	J:19812 	
+MGI:87895	Chrng	cholinergic receptor, nicotinic, gamma polypeptide	1		regulation of membrane potential			IGI	MGI:87890 MGI:87893 	J:35334 	
+MGI:1923036	Ckap5	cytoskeleton associated protein 5	2		excitatory postsynaptic potential	happens in hippocampus CA1		IMP	MGI:2177650 MGI:5570192 	J:205779 	
+MGI:88417	Clcn1	chloride channel, voltage-sensitive 1	6		neuronal action potential propagation			IMP	MGI:1856316 	J:25830 	
+MGI:3033992	Cldn19	claudin 19	4		neuronal action potential propagation			IMP	MGI:3583804 	J:99659 	
+MGI:2148924	Clic1	chloride intracellular channel 1	17		regulation of mitochondrial membrane potential			IDA		J:154870 	
+MGI:2148924	Clic1	chloride intracellular channel 1	17		regulation of mitochondrial membrane potential			IMP		J:154870 	
+MGI:107537	Cln3	ceroid lipofuscinosis, neuronal 3, juvenile (Batten, Spielmeyer-Vogt disease)	7		action potential	happens in optic nerve		IMP	MGI:1933976 	J:111204 	
+MGI:88436	Cnga1	cyclic nucleotide gated channel alpha 1	5		membrane depolarization			ISO	RGD:621815 	J:155856 	
+MGI:108040	Cnga2	cyclic nucleotide gated channel alpha 2	X		membrane depolarization			ISO	RGD:2367 	J:155856 	
+MGI:1277225	Cnih2	cornichon family AMPA receptor auxiliary protein 2	19		regulation of membrane potential			ISO	Q5BJU5 	J:73065 	
+MGI:1920228	Cnih3	cornichon family AMPA receptor auxiliary protein 3	1		regulation of membrane potential			ISO	D0Q0Y7 	J:73065 	
+MGI:104615	Cnr1	cannabinoid receptor 1 (brain)	4		negative regulation of action potential			ISO	RGD:2369 	J:155856 	
+MGI:104650	Cnr2	cannabinoid receptor 2 (macrophage)	4		negative regulation of action potential			ISO	RGD:619713 	J:155856 	
+MGI:88439	Cntf	ciliary neurotrophic factor	19		membrane hyperpolarization			ISO	RGD:2370 	J:155856 	
+MGI:88439	Cntf	ciliary neurotrophic factor	19		regulation of resting membrane potential			ISO	RGD:2370 	J:155856 	
+MGI:1858201	Cntnap1	contactin associated protein-like 1	11		neuronal action potential propagation	happens in sciatic nerve		IMP		J:165697 	
+MGI:2142523	Crtc1	CREB regulated transcription coactivator 1	8		negative regulation of membrane hyperpolarization	happens in hippocampal neuron,happens in dentate gyrus		IDA		J:193188 	
+MGI:2661445	Ctnna3	catenin (cadherin associated protein), alpha 3	10		regulation of ventricular cardiac muscle cell action potential			ISO	Q9UI47 	J:164563 	
+MGI:1932872	Ctns	cystinosis, nephropathic	11		positive regulation of mitochondrial membrane potential			ISO	RGD:1308466 	J:155856 	
+MGI:107321	Cux2	cut-like homeobox 2	5		positive regulation of excitatory postsynaptic potential	happens in cortical layer II|happens in cortical layer III		IMP		J:165046 	
+MGI:1097153	Cx3cl1	chemokine (C-X3-C motif) ligand 1	8		inhibitory postsynaptic potential			ISO	RGD:620458 	J:155856 	
+MGI:1201679	Cxadr	coxsackie virus and adenovirus receptor	16		regulation of AV node cell action potential			IMP		J:140870 	
+MGI:1931838	Dbn1	drebrin 1	13		modulation of inhibitory postsynaptic potential			ISO	RGD:70885 	J:155856 	
+MGI:1931838	Dbn1	drebrin 1	13		positive regulation of excitatory postsynaptic potential			ISO	RGD:70885 	J:155856 	
+MGI:2652818	Dcdc2a	doublecortin domain containing 2a	13		neuronal action potential	happens in pyramidal neuron,happens in neocortex		IMP	MGI:5288003 	J:245829 	
+MGI:94872	Dcn	decorin	10		positive regulation of mitochondrial depolarization			ISO	P07585 	J:73065 	
+MGI:2443430	Dgki	diacylglycerol kinase, iota	6		excitatory postsynaptic potential			IMP	MGI:3584141 	J:168713 	
+MGI:107450	Dld	dihydrolipoamide dehydrogenase	12		regulation of membrane potential			IMP	MGI:2182403 	J:107994 	
+MGI:107231	Dlg1	discs large MAGUK scaffold protein 1	16		regulation of membrane potential			IGI	MGI:107570 MGI:96662 	J:95586 	
+MGI:107231	Dlg1	discs large MAGUK scaffold protein 1	16		regulation of membrane potential			ISO	Q12959 	J:164563 	
+MGI:107231	Dlg1	discs large MAGUK scaffold protein 1	16		regulation of ventricular cardiac muscle cell action potential			IMP		J:237676 	
+MGI:107231	Dlg1	discs large MAGUK scaffold protein 1	16		regulation of voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization			IMP		J:237676 	
+MGI:1277959	Dlg4	discs large MAGUK scaffold protein 4	11		positive regulation of excitatory postsynaptic potential			ISO	RGD:68424 	J:155856 	
+MGI:94909	Dmd	dystrophin, muscular dystrophy	X		cardiac muscle cell action potential			IMP		J:156537 J:196253 	
+MGI:94909	Dmd	dystrophin, muscular dystrophy	X		regulation of membrane potential	regulates a function/process that happens in skeletal muscle fiber		IMP	MGI:1856328 	J:105953 	
+MGI:94906	Dmpk	dystrophia myotonica-protein kinase	7		regulation of excitatory postsynaptic membrane potential involved in skeletal muscle contraction	regulates a function/process that happens in skeletal musculature,regulates a function/process that happens in cell of skeletal muscle		IMP	MGI:2182402 	J:124462 	
+MGI:94921	Dpp6	dipeptidylpeptidase 6	5		neuronal action potential	happens in cerebellar granule cell		IMP		J:161513 	
+MGI:94921	Dpp6	dipeptidylpeptidase 6	5		regulation of membrane potential	has the participant cerebellar granule cell		IMP		J:161513 	
+MGI:94921	Dpp6	dipeptidylpeptidase 6	5		regulation of membrane potential	regulates a function/process that happens in hippocampus CA1,regulates a function/process that happens in CNS neuron (sensu Vertebrata),happens in CNS neuron (sensu Vertebrata),happens in hippocampus CA1		IMP	MGI:5302080 	J:178547 	
+MGI:99578	Drd1	dopamine receptor D1	13		neuronal action potential			IMP	MGI:2159306 	J:112916 	
+MGI:99578	Drd1	dopamine receptor D1	13		positive regulation of membrane potential			ISO	RGD:2518 	J:155856 	
+MGI:94926	Drd4	dopamine receptor D4	7		inhibitory postsynaptic potential	happens in frontal cortex,happens in pyramidal neuron		IMP	MGI:2178631 	J:69457 	
+MGI:94926	Drd4	dopamine receptor D4	7		inhibitory postsynaptic potential	happens in globus pallidus,happens in GABAergic neuron		IMP	MGI:3576789 	J:97412 	
+MGI:94926	Drd4	dopamine receptor D4	7		positive regulation of excitatory postsynaptic potential			ISO	RGD:2522 	J:155856 	
+MGI:103221	Dsc2	desmocollin 2	18		regulation of ventricular cardiac muscle cell action potential			ISO	Q02487 	J:164563 	
+MGI:1196466	Dsg2	desmoglein 2	18		regulation of ventricular cardiac muscle cell action potential			ISO	Q14126 	J:164563 	
+MGI:109611	Dsp	desmoplakin	13		regulation of ventricular cardiac muscle cell action potential			ISO	P15924 	J:164563 	
+MGI:94941	Dvl1	dishevelled segment polarity protein 1	4		positive regulation of excitatory postsynaptic potential			ISO	RGD:620632 	J:155856 	
+MGI:95283	Edn1	endothelin 1	13		membrane depolarization			ISO	RGD:2532 	J:155856 	
+MGI:1928900	Ehd3	EH-domain containing 3	17		regulation of cardiac muscle cell membrane potential	regulates a function/process that happens in heart,regulates a function/process that happens in cardiac muscle cell		IMP		J:175049 	
+MGI:1928900	Ehd3	EH-domain containing 3	17		regulation of cardiac muscle cell membrane potential			ISO	Q9NZN3 	J:73065 	
+MGI:1923731	Eif4a3	eukaryotic translation initiation factor 4A3	11		negative regulation of excitatory postsynaptic potential			ISO	RGD:1591139 	J:155856 	
+MGI:2685324	Ffar3	free fatty acid receptor 3	7		positive regulation of action potential	regulates a function/process that happens in sympathetic neuron,happens in sympathetic neuron		IMP	MGI:5013799 	J:172798 	
+MGI:109183	Fgf12	fibroblast growth factor 12	16		regulation of membrane depolarization			ISO	RGD:620163 	J:155856 	
+MGI:109183	Fgf12	fibroblast growth factor 12	16		regulation of neuronal action potential			ISO	P61328 	J:164563 	
+MGI:109178	Fgf13	fibroblast growth factor 13	X		regulation of cardiac muscle cell action potential involved in regulation of contraction	happens in regular ventricular cardiac myocyte		IMP		J:187546 	
+MGI:109189	Fgf14	fibroblast growth factor 14	14		regulation of postsynaptic membrane potential			ISO	Q8R5L7 	J:73065 	
+MGI:1298387	Fhl1	four and a half LIM domains 1	X		regulation of membrane depolarization			ISO	Q13642 	J:164563 	
+MGI:1336205	Fkbp1b	FK506 binding protein 1b	12		neuronal action potential propagation			IMP	MGI:2182644 	J:86699 	
+MGI:95556	Flna	filamin, alpha	X		regulation of membrane repolarization during atrial cardiac muscle cell action potential			IC	GO:1905031 	J:212181 	
+MGI:95556	Flna	filamin, alpha	X		regulation of membrane repolarization during cardiac muscle cell action potential	happens in fetal cardiomyocyte		IMP		J:212181 	
+MGI:95564	Fmr1	FMRP translational regulator 1	X		regulation of neuronal action potential			ISO	Q06787 	J:164563 	
+MGI:1914004	Foxp1	forkhead box P1	6		regulation of action potential	happens in medium spiny neuron,happens in corpus striatum		IMP	MGI:3711150 	J:226616 	
+MGI:1889273	Fxyd1	FXYD domain-containing ion transport regulator 1	7		regulation of cardiac muscle cell membrane potential			IMP		J:212806 	
+MGI:95613	Gabra1	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 1	11		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:95613	Gabra1	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 1	11		regulation of postsynaptic membrane potential			IBA	PTN000436343 	J:265628 	
+MGI:95613	Gabra1	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 1	11		regulation of postsynaptic membrane potential	happens in inhibitory synapse,happens in hippocampal neuron		IMP		J:238453 	
+MGI:95614	Gabra2	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 2	5		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:95614	Gabra2	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 2	5		regulation of postsynaptic membrane potential			IBA	PTN000436343 	J:265628 	
+MGI:95615	Gabra3	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 3	X		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:95615	Gabra3	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 3	X		regulation of postsynaptic membrane potential			IBA	PTN000436343 	J:265628 	
+MGI:95616	Gabra4	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 4	5		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:95616	Gabra4	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 4	5		regulation of postsynaptic membrane potential			IBA	PTN000436343 	J:265628 	
+MGI:95617	Gabra5	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 5	7		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:95617	Gabra5	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 5	7		regulation of postsynaptic membrane potential			IBA	PTN000436343 	J:265628 	
+MGI:95618	Gabra6	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 6	11		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:95618	Gabra6	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 6	11		regulation of postsynaptic membrane potential			IBA	PTN000436343 	J:265628 	
+MGI:95619	Gabrb1	gamma-aminobutyric acid (GABA) A receptor, subunit beta 1	5		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:95620	Gabrb2	gamma-aminobutyric acid (GABA) A receptor, subunit beta 2	11		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:95621	Gabrb3	gamma-aminobutyric acid (GABA) A receptor, subunit beta 3	7		inhibitory postsynaptic potential			IMP		J:219086 	
+MGI:95621	Gabrb3	gamma-aminobutyric acid (GABA) A receptor, subunit beta 3	7		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:95622	Gabrd	gamma-aminobutyric acid (GABA) A receptor, subunit delta	4		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:1330235	Gabre	gamma-aminobutyric acid (GABA) A receptor, subunit epsilon	X		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:1330235	Gabre	gamma-aminobutyric acid (GABA) A receptor, subunit epsilon	X		regulation of postsynaptic membrane potential			IBA	PTN000436343 	J:265628 	
+MGI:103156	Gabrg1	gamma-aminobutyric acid (GABA) A receptor, subunit gamma 1	5		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:103156	Gabrg1	gamma-aminobutyric acid (GABA) A receptor, subunit gamma 1	5		regulation of postsynaptic membrane potential			IBA	PTN000436343 	J:265628 	
+MGI:95623	Gabrg2	gamma-aminobutyric acid (GABA) A receptor, subunit gamma 2	11		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:95623	Gabrg2	gamma-aminobutyric acid (GABA) A receptor, subunit gamma 2	11		regulation of postsynaptic membrane potential			IBA	PTN000436343 	J:265628 	
+MGI:95624	Gabrg3	gamma-aminobutyric acid (GABA) A receptor, subunit gamma 3	7		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:95624	Gabrg3	gamma-aminobutyric acid (GABA) A receptor, subunit gamma 3	7		regulation of postsynaptic membrane potential			IBA	PTN000436343 	J:265628 	
+MGI:2387597	Gabrp	gamma-aminobutyric acid (GABA) A receptor, pi	11		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:1888498	Gabrq	gamma-aminobutyric acid (GABA) A receptor, subunit theta	X		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:95625	Gabrr1	gamma-aminobutyric acid (GABA) C receptor, subunit rho 1	4		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:95626	Gabrr2	gamma-aminobutyric acid (GABA) C receptor, subunit rho 2	4		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:3588203	Gabrr3	gamma-aminobutyric acid (GABA) receptor, rho 3	16		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:95665	Gba	glucosidase, beta, acid	3		positive regulation of neuronal action potential			ISO	P04062 	J:164563 	
+MGI:104990	Gclc	glutamate-cysteine ligase, catalytic subunit	9		regulation of mitochondrial depolarization			IGI	MGI:104995 	J:91536 	
+MGI:104995	Gclm	glutamate-cysteine ligase, modifier subunit	3		regulation of mitochondrial depolarization			IGI	MGI:104990 	J:91536 	
+MGI:1930008	Ghrl	ghrelin	6		excitatory postsynaptic potential	happens in hippocampus CA1,regulates a function/process that happens in CNS neuron (sensu Vertebrata)		IMP	MGI:3045041 	J:107095 	
+MGI:95713	Gja1	gap junction protein, alpha 1	10		regulation of atrial cardiac muscle cell membrane depolarization			IMP	MGI:1857177 	J:110256 	
+MGI:95713	Gja1	gap junction protein, alpha 1	10		regulation of ventricular cardiac muscle cell membrane depolarization			IGI	MGI:95716 	J:110256 	
+MGI:95713	Gja1	gap junction protein, alpha 1	10		regulation of ventricular cardiac muscle cell membrane depolarization			IMP	MGI:1857177 	J:39599 J:110256 	
+MGI:95713	Gja1	gap junction protein, alpha 1	10		regulation of ventricular cardiac muscle cell membrane repolarization			IGI	MGI:95716 	J:110256 	
+MGI:95713	Gja1	gap junction protein, alpha 1	10		regulation of ventricular cardiac muscle cell membrane repolarization			IMP	MGI:1857177 	J:110256 	
+MGI:95716	Gja5	gap junction protein, alpha 5	3		regulation of atrial cardiac muscle cell action potential			ISO	P36382 	J:164563 	
+MGI:95716	Gja5	gap junction protein, alpha 5	3		regulation of atrial cardiac muscle cell membrane depolarization			IMP	MGI:2445238 	J:46429 J:110256 J:117425 	
+MGI:95716	Gja5	gap junction protein, alpha 5	3		regulation of atrial cardiac muscle cell membrane depolarization			ISO	P36382 	J:164563 	
+MGI:95716	Gja5	gap junction protein, alpha 5	3		regulation of AV node cell action potential			IMP		J:117425 	
+MGI:95716	Gja5	gap junction protein, alpha 5	3		regulation of AV node cell action potential			ISO	P36382 	J:164563 	
+MGI:95716	Gja5	gap junction protein, alpha 5	3		regulation of bundle of His cell action potential			IMP		J:117425 	
+MGI:95716	Gja5	gap junction protein, alpha 5	3		regulation of bundle of His cell action potential			ISO	P36382 	J:164563 	
+MGI:95716	Gja5	gap junction protein, alpha 5	3		regulation of membrane depolarization during cardiac muscle cell action potential			IMP	MGI:2445238 	J:46429 	
+MGI:95716	Gja5	gap junction protein, alpha 5	3		regulation of Purkinje myocyte action potential			ISO	P36382 	J:164563 	
+MGI:95716	Gja5	gap junction protein, alpha 5	3		regulation of ventricular cardiac muscle cell membrane depolarization			IGI	MGI:95713 	J:110256 	
+MGI:95716	Gja5	gap junction protein, alpha 5	3		regulation of ventricular cardiac muscle cell membrane depolarization			IMP	MGI:2445238 	J:46429 J:117425 	
+MGI:95716	Gja5	gap junction protein, alpha 5	3		regulation of ventricular cardiac muscle cell membrane repolarization			IGI	MGI:95713 	J:110256 	
+MGI:95716	Gja5	gap junction protein, alpha 5	3		regulation of ventricular cardiac muscle cell membrane repolarization			IMP	MGI:2445238 	J:110256 	
+MGI:95716	Gja5	gap junction protein, alpha 5	3		SA node cell action potential			IMP	MGI:2445466 	J:113087 	
+MGI:95716	Gja5	gap junction protein, alpha 5	3		ventricular cardiac muscle cell action potential			IMP	MGI:2445238 	J:46429 	
+MGI:1334209	Gjd2	gap junction protein, delta 2	2		action potential	happens in retina,regulates a function/process that happens in retinal ganglion cell		IMP	MGI:2388383 	J:95818 	
+MGI:95747	Glra1	glycine receptor, alpha 1 subunit	11		action potential	happens in pre-botzinger complex,regulates a function/process that happens in neuron		IMP	MGI:1856177 	J:107942 	
+MGI:95747	Glra1	glycine receptor, alpha 1 subunit	11		action potential	happens in pre-botzinger complex,regulates a function/process that happens in CNS neuron (sensu Vertebrata)		IMP	MGI:1856362 	J:111542 	
+MGI:95747	Glra1	glycine receptor, alpha 1 subunit	11		inhibitory postsynaptic potential			IMP		J:228551 	
+MGI:95747	Glra1	glycine receptor, alpha 1 subunit	11		inhibitory postsynaptic potential	happens in spinal cord,happens in CNS neuron (sensu Vertebrata)		IMP	MGI:3696673 	J:117236 	
+MGI:95747	Glra1	glycine receptor, alpha 1 subunit	11		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:95747	Glra1	glycine receptor, alpha 1 subunit	11		regulation of membrane potential			IDA		J:20373 	
+MGI:95747	Glra1	glycine receptor, alpha 1 subunit	11		regulation of membrane potential	happens in hypoglossal nucleus,has the participant neuron		IMP	MGI:1856177 MGI:1856362 	J:108318 	
+MGI:95747	Glra1	glycine receptor, alpha 1 subunit	11		regulation of membrane potential			ISO	P23415 	J:73065 	
+MGI:95748	Glra2	glycine receptor, alpha 2 subunit	X		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:95749	Glra3	glycine receptor, alpha 3 subunit	8		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:95750	Glra4	glycine receptor, alpha 4 subunit	X		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:95751	Glrb	glycine receptor, beta subunit	3		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:95751	Glrb	glycine receptor, beta subunit	3		regulation of membrane potential	happens in hypoglossal nucleus,has the participant neuron		IMP	MGI:1856363 	J:108318 	
+MGI:2135625	Glrx	glutaredoxin	13		positive regulation of membrane potential			ISO	P35754 	J:164563 	
+MGI:95766	Gna11	guanine nucleotide binding protein, alpha 11	10		action potential			IBA	PTN000026397 	J:265628 	
+MGI:95766	Gna11	guanine nucleotide binding protein, alpha 11	10		action potential			IDA		J:62286 	
+MGI:95769	Gna14	guanine nucleotide binding protein, alpha 14	19		action potential			IBA	PTN000026397 	J:265628 	
+MGI:95770	Gna15	guanine nucleotide binding protein, alpha 15	10		action potential			IBA	PTN000026397 	J:265628 	
+MGI:95776	Gnaq	guanine nucleotide binding protein, alpha q polypeptide	19		action potential			IBA	PTN002566458 	J:265628 	
+MGI:95776	Gnaq	guanine nucleotide binding protein, alpha q polypeptide	19		action potential			IMP	MGI:2151661 	J:62286 	
+MGI:95791	Got1	glutamic-oxaloacetic transaminase 1, soluble	19		negative regulation of mitochondrial depolarization			ISO	RGD:2721 	J:155856 	
+MGI:1289257	Gpd1l	glycerol-3-phosphate dehydrogenase 1-like	9		regulation of ventricular cardiac muscle cell membrane depolarization			ISO	Q8N335 	J:164563 	
+MGI:1289257	Gpd1l	glycerol-3-phosphate dehydrogenase 1-like	9		ventricular cardiac muscle cell action potential			ISO	Q8N335 	J:164563 	
+MGI:1929509	Gpr35	G protein-coupled receptor 35	1		negative regulation of neuronal action potential			ISO	RGD:1309404 	J:155856 	
+MGI:1918361	Gpr39	G protein-coupled receptor 39	1		regulation of membrane potential	happens in small intestine,has the participant fibroblast		IGI	MGI:2142149 	J:192254 	
+MGI:1918361	Gpr39	G protein-coupled receptor 39	1		regulation of membrane potential	happens in small intestine,has the participant fibroblast		IMP	MGI:3701833 	J:192254 	
+MGI:1927653	Gpr88	G-protein coupled receptor 88	3		neuronal action potential	happens in dorsal striatum,happens in medium spiny neuron		IMP	MGI:4947986 	J:193543 	
+MGI:95808	Gria1	glutamate receptor, ionotropic, AMPA1 (alpha 1)	11		neuronal action potential			ISO	RGD:621531 	J:155856 	
+MGI:95808	Gria1	glutamate receptor, ionotropic, AMPA1 (alpha 1)	11		positive regulation of membrane potential			ISO	RGD:621531 	J:155856 	
+MGI:95808	Gria1	glutamate receptor, ionotropic, AMPA1 (alpha 1)	11		regulation of postsynaptic membrane potential	happens in excitatory synapse,happens in hippocampal neuron,happens in hippocampus CA1		IMP		J:76021 	
+MGI:95813	Grid2	glutamate receptor, ionotropic, delta 2	6		excitatory postsynaptic potential	happens in cerebellum Purkinje cell layer,regulates a function/process that happens in Purkinje cell		IMP	MGI:2178052 	J:24477 	
+MGI:95814	Grik1	glutamate receptor, ionotropic, kainate 1	16		excitatory postsynaptic potential	happens in accumbens nucleus,regulates a function/process that happens in CNS neuron (sensu Vertebrata)		IGI	MGI:95815 	J:97340 	
+MGI:95814	Grik1	glutamate receptor, ionotropic, kainate 1	16		excitatory postsynaptic potential	happens in cerebellum,regulates a function/process that happens in Purkinje cell		IMP	MGI:2176347 	J:87447 	
+MGI:95814	Grik1	glutamate receptor, ionotropic, kainate 1	16		excitatory postsynaptic potential	happens in hippocampus CA3,regulates a function/process that happens in surface ectodermal cell		IMP	MGI:2176347 	J:111580 	
+MGI:95814	Grik1	glutamate receptor, ionotropic, kainate 1	16		excitatory postsynaptic potential	happens in substantia gelatinosa,regulates a function/process that happens in surface ectodermal cell		IMP	MGI:2176347 	J:105519 	
+MGI:95814	Grik1	glutamate receptor, ionotropic, kainate 1	16		inhibitory postsynaptic potential	happens in hippocampus CA1,happens in pyramidal neuron		IGI	MGI:95815 	J:66021 	
+MGI:95814	Grik1	glutamate receptor, ionotropic, kainate 1	16		inhibitory postsynaptic potential	happens in dorsal root ganglion,happens in neuron		IMP	MGI:2176347 	J:79143 	
+MGI:95814	Grik1	glutamate receptor, ionotropic, kainate 1	16		membrane depolarization	happens in amygdala,happens in GABAergic neuron		IMP	MGI:2176347 	J:129352 	
+MGI:95814	Grik1	glutamate receptor, ionotropic, kainate 1	16		regulation of membrane potential	happens in hippocampus,has the participant CNS neuron (sensu Vertebrata)		IDA		J:123244 	
+MGI:95814	Grik1	glutamate receptor, ionotropic, kainate 1	16		regulation of membrane potential	happens in hippocampus CA3		IMP		J:107790 	
+MGI:95814	Grik1	glutamate receptor, ionotropic, kainate 1	16		regulation of membrane potential	happens in dorsal root ganglion,has the participant neuron		IMP	MGI:2176347 	J:79143 	
+MGI:95814	Grik1	glutamate receptor, ionotropic, kainate 1	16		regulation of membrane potential	happens in hippocampus CA3,has the participant interneuron		IMP	MGI:2176347 	J:96594 	
+MGI:95814	Grik1	glutamate receptor, ionotropic, kainate 1	16		regulation of membrane potential	happens in dorsal root ganglion,has the participant neuron		IMP	MGI:3623113 	J:57983 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		excitatory postsynaptic potential	happens in hippocampus CA3,regulates a function/process that happens in pyramidal neuron	PR:P39087-2	IGI	MGI:107164 	J:120963 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		excitatory postsynaptic potential	happens in accumbens nucleus,regulates a function/process that happens in CNS neuron (sensu Vertebrata)		IGI	MGI:95814 	J:97340 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		excitatory postsynaptic potential	happens in hippocampus CA3,regulates a function/process that happens in surface ectodermal cell		IMP	MGI:1857979 	J:111580 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		excitatory postsynaptic potential	happens in hippocampus CA3,regulates a function/process that happens in pyramidal neuron	PR:P39087-2	IMP	MGI:1857979 	J:120963 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		excitatory postsynaptic potential	happens in substantia gelatinosa,regulates a function/process that happens in surface ectodermal cell		IMP	MGI:1857979 	J:105519 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		inhibitory postsynaptic potential	happens in hippocampus CA1,happens in pyramidal neuron		IGI	MGI:95814 	J:66021 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		inhibitory postsynaptic potential	happens in corpus striatum,happens in GABAergic neuron		IGI	MGI:99402 	J:60965 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		inhibitory postsynaptic potential	happens in corpus striatum,happens in GABAergic neuron		IMP	MGI:1857979 	J:60965 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		inhibitory postsynaptic potential	happens in hippocampus CA1,happens in pyramidal neuron		IMP	MGI:1857979 	J:52041 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		inhibitory postsynaptic potential	happens in spinal cord dorsal horn,happens in neuron		IMP	MGI:1857979 	J:79143 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		neuronal action potential	happens in hippocampus,happens in pyramidal neuron		IMP	MGI:1857979 	J:107777 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		regulation of membrane potential			IDA		J:696 J:78109 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		regulation of membrane potential			IGI	MGI:95818 	J:696 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		regulation of membrane potential	happens in spinal cord dorsal horn,has the participant neuron		IMP		J:79143 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		regulation of membrane potential	happens in corpus striatum,has the participant GABAergic neuron		IMP	MGI:1857979 	J:60965 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		regulation of membrane potential	happens in hippocampus CA3		IMP	MGI:1857979 	J:107790 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		regulation of membrane potential	happens in hippocampus CA3,has the participant CNS neuron (sensu Vertebrata)		IMP	MGI:1857979 	J:46392 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		regulation of membrane potential	happens in hippocampus CA3,has the participant pyramidal neuron		IMP	MGI:1857979 	J:96594 	
+MGI:95815	Grik2	glutamate receptor, ionotropic, kainate 2 (beta 2)	10		regulation of membrane potential	happens in substantia gelatinosa,has the participant surface ectodermal cell		IMP	MGI:1857979 	J:104051 	
+MGI:95816	Grik3	glutamate receptor, ionotropic, kainate 3	4		regulation of membrane potential			ISO	P42264 	J:73065 	
+MGI:95816	Grik3	glutamate receptor, ionotropic, kainate 3	4		regulation of membrane potential			ISO	Q13003 	J:73065 	
+MGI:95818	Grik5	glutamate receptor, ionotropic, kainate 5 (gamma 2)	7		excitatory postsynaptic potential	happens in hippocampus CA3,regulates a function/process that happens in pyramidal neuron		IMP	MGI:2668206 	J:81742 	
+MGI:95818	Grik5	glutamate receptor, ionotropic, kainate 5 (gamma 2)	7		regulation of membrane potential			IGI	MGI:95815 	J:696 	
+MGI:95819	Grin1	glutamate receptor, ionotropic, NMDA1 (zeta 1)	2		excitatory postsynaptic potential			IGI	MGI:95821 	J:86846 	
+MGI:95819	Grin1	glutamate receptor, ionotropic, NMDA1 (zeta 1)	2		excitatory postsynaptic potential	happens in cerebral cortex		IMP	MGI:1928279 MGI:2177650 	J:88689 	
+MGI:95819	Grin1	glutamate receptor, ionotropic, NMDA1 (zeta 1)	2		positive regulation of excitatory postsynaptic potential			ISO	RGD:2736 	J:155856 	
+MGI:95819	Grin1	glutamate receptor, ionotropic, NMDA1 (zeta 1)	2		regulation of membrane potential			IBA	PTN001451205 	J:265628 	
+MGI:95819	Grin1	glutamate receptor, ionotropic, NMDA1 (zeta 1)	2		regulation of membrane potential		PR:P35438-1	IDA		J:2285 	
+MGI:95819	Grin1	glutamate receptor, ionotropic, NMDA1 (zeta 1)	2		regulation of membrane potential	happens in spinal cord dorsal horn,has the participant neuron		IMP	MGI:1928279 	J:84354 	
+MGI:95819	Grin1	glutamate receptor, ionotropic, NMDA1 (zeta 1)	2		regulation of membrane potential	happens in hippocampus CA3,has the participant pyramidal neuron		IMP	MGI:1928279 MGI:2387441 	J:77718 	
+MGI:95819	Grin1	glutamate receptor, ionotropic, NMDA1 (zeta 1)	2		regulation of membrane potential	happens in hippocampus,has the participant pyramidal neuron|happens in cerebellum,has the participant granule cell		IMP	MGI:1928327 	J:66345 	
+MGI:95819	Grin1	glutamate receptor, ionotropic, NMDA1 (zeta 1)	2		regulation of membrane potential			IMP	MGI:2178083 MGI:2181422 	J:107871 	
+MGI:95819	Grin1	glutamate receptor, ionotropic, NMDA1 (zeta 1)	2		regulation of membrane potential	happens in hippocampus CA1,has the participant pyramidal neuron		IMP	MGI:2655232 MGI:2655237 	J:82670 	
+MGI:95819	Grin1	glutamate receptor, ionotropic, NMDA1 (zeta 1)	2		regulation of membrane potential	happens in dentate gyrus		IMP	MGI:2448952 MGI:3611337 	J:119834 	
+MGI:95819	Grin1	glutamate receptor, ionotropic, NMDA1 (zeta 1)	2		regulation of membrane potential			ISO	Q05586 	J:164563 	
+MGI:95820	Grin2a	glutamate receptor, ionotropic, NMDA2A (epsilon 1)	16		action potential			ISO	RGD:2737 	J:155856 	
+MGI:95820	Grin2a	glutamate receptor, ionotropic, NMDA2A (epsilon 1)	16		excitatory postsynaptic potential			IBA	PTN000751216 	J:265628 	
+MGI:95820	Grin2a	glutamate receptor, ionotropic, NMDA2A (epsilon 1)	16		excitatory postsynaptic potential			IGI	MGI:95822 	J:66455 	
+MGI:95820	Grin2a	glutamate receptor, ionotropic, NMDA2A (epsilon 1)	16		excitatory postsynaptic potential			IMP		J:101085 J:114728 	
+MGI:95820	Grin2a	glutamate receptor, ionotropic, NMDA2A (epsilon 1)	16		excitatory postsynaptic potential	happens in cerebellum internal granule cell layer,regulates a function/process that happens in granule cell		IMP	MGI:1928285 	J:34076 	
+MGI:95820	Grin2a	glutamate receptor, ionotropic, NMDA2A (epsilon 1)	16		excitatory postsynaptic potential			IMP	MGI:1928287 	J:85901 J:86846 	
+MGI:95820	Grin2a	glutamate receptor, ionotropic, NMDA2A (epsilon 1)	16		excitatory postsynaptic potential			IMP	MGI:1928506 	J:66455 	
+MGI:95820	Grin2a	glutamate receptor, ionotropic, NMDA2A (epsilon 1)	16		excitatory postsynaptic potential	happens in hippocampus CA3,regulates a function/process that happens in pyramidal neuron		IMP	MGI:1928506 	J:41902 	
+MGI:95820	Grin2a	glutamate receptor, ionotropic, NMDA2A (epsilon 1)	16		excitatory postsynaptic potential			ISO	RGD:2737 	J:155856 	
+MGI:95820	Grin2a	glutamate receptor, ionotropic, NMDA2A (epsilon 1)	16		positive regulation of excitatory postsynaptic potential			ISO	RGD:2737 	J:155856 	
+MGI:95820	Grin2a	glutamate receptor, ionotropic, NMDA2A (epsilon 1)	16		regulation of membrane potential			IMP	MGI:1928285 	J:22295 J:49227 	
+MGI:95820	Grin2a	glutamate receptor, ionotropic, NMDA2A (epsilon 1)	16		regulation of postsynaptic membrane potential			IMP		J:114728 	
+MGI:95821	Grin2b	glutamate receptor, ionotropic, NMDA2B (epsilon 2)	6		action potential			ISO	RGD:2738 	J:155856 	
+MGI:95821	Grin2b	glutamate receptor, ionotropic, NMDA2B (epsilon 2)	6		excitatory postsynaptic potential			IBA	PTN000751216 	J:265628 	
+MGI:95821	Grin2b	glutamate receptor, ionotropic, NMDA2B (epsilon 2)	6		excitatory postsynaptic potential			IGI	MGI:95819 	J:86846 	
+MGI:95821	Grin2b	glutamate receptor, ionotropic, NMDA2B (epsilon 2)	6		excitatory postsynaptic potential			IMP		J:84361 J:85901 J:101085 J:114728 	
+MGI:95821	Grin2b	glutamate receptor, ionotropic, NMDA2B (epsilon 2)	6		excitatory postsynaptic potential			IMP	MGI:1928295 	J:103962 	
+MGI:95821	Grin2b	glutamate receptor, ionotropic, NMDA2B (epsilon 2)	6		excitatory postsynaptic potential	happens in hippocampus CA3,regulates a function/process that happens in pyramidal neuron		IMP	MGI:1928295 	J:41902 	
+MGI:95821	Grin2b	glutamate receptor, ionotropic, NMDA2B (epsilon 2)	6		regulation of postsynaptic membrane potential			IMP		J:114728 	
+MGI:95822	Grin2c	glutamate receptor, ionotropic, NMDA2C (epsilon 3)	11		excitatory postsynaptic potential			IBA	PTN000751216 	J:265628 	
+MGI:95822	Grin2c	glutamate receptor, ionotropic, NMDA2C (epsilon 3)	11		excitatory postsynaptic potential			IGI	MGI:95820 	J:66455 	
+MGI:95822	Grin2c	glutamate receptor, ionotropic, NMDA2C (epsilon 3)	11		excitatory postsynaptic potential	happens in cerebellum granule cell layer,regulates a function/process that happens in granule cell		IMP	MGI:1928301 	J:34597 	
+MGI:95822	Grin2c	glutamate receptor, ionotropic, NMDA2C (epsilon 3)	11		excitatory postsynaptic potential			IMP	MGI:1928510 	J:66455 	
+MGI:95822	Grin2c	glutamate receptor, ionotropic, NMDA2C (epsilon 3)	11		regulation of membrane potential	happens in cerebellum granule cell layer,has the participant granule cell		IMP	MGI:1928301 	J:34597 	
+MGI:95823	Grin2d	glutamate receptor, ionotropic, NMDA2D (epsilon 4)	7	NOT	excitatory postsynaptic potential			IMP	MGI:1928298 	J:84361 	
+MGI:2681173	Grip2	glutamate receptor interacting protein 2	6		positive regulation of excitatory postsynaptic potential			ISO	RGD:621668 	J:155856 	
+MGI:87940	Grk2	G protein-coupled receptor kinase 2	19		positive regulation of excitatory postsynaptic potential			ISO	RGD:2062 	J:155856 	
+MGI:1351338	Grm1	glutamate receptor, metabotropic 1	10		regulation of postsynaptic membrane potential			IBA	MGI:1351342 PTN002514246 RGD:2742 	J:265628 	
+MGI:1351342	Grm5	glutamate receptor, metabotropic 5	7		regulation of postsynaptic membrane potential			IBA	MGI:1351342 PTN002514246 RGD:2742 	J:265628 	
+MGI:1861437	Gsk3b	glycogen synthase kinase 3 beta	16		positive regulation of excitatory postsynaptic potential			ISO	RGD:70982 	J:155856 	
+MGI:1861437	Gsk3b	glycogen synthase kinase 3 beta	16		positive regulation of mitochondrial membrane potential			ISO	RGD:70982 	J:155856 	
+MGI:1096392	Hcn1	hyperpolarization activated cyclic nucleotide gated potassium channel 1	13		negative regulation of action potential			ISO	RGD:620688 	J:155856 	
+MGI:1096392	Hcn1	hyperpolarization activated cyclic nucleotide gated potassium channel 1	13		regulation of membrane depolarization			ISO	RGD:620688 	J:155856 	
+MGI:1096392	Hcn1	hyperpolarization activated cyclic nucleotide gated potassium channel 1	13		regulation of membrane hyperpolarization			ISO	RGD:620688 	J:155856 	
+MGI:1096392	Hcn1	hyperpolarization activated cyclic nucleotide gated potassium channel 1	13		regulation of membrane potential			ISO	O60741 	J:164563 	
+MGI:1298210	Hcn2	hyperpolarization-activated, cyclic nucleotide-gated K+ 2	10		regulation of membrane potential			IDA		J:96808 	
+MGI:1298210	Hcn2	hyperpolarization-activated, cyclic nucleotide-gated K+ 2	10		regulation of membrane potential			IGI	MGI:1916672 	J:96808 	
+MGI:1298210	Hcn2	hyperpolarization-activated, cyclic nucleotide-gated K+ 2	10		regulation of membrane potential			ISO	Q9UL51 	J:164563 	
+MGI:1298211	Hcn3	hyperpolarization-activated, cyclic nucleotide-gated K+ 3	3		regulation of membrane potential			ISO	Q9P1Z3 	J:164563 	
+MGI:1298209	Hcn4	hyperpolarization-activated, cyclic nucleotide-gated K+ 4	9		membrane depolarization during SA node cell action potential			ISO	Q9Y3Q4 	J:164563 	
+MGI:1298209	Hcn4	hyperpolarization-activated, cyclic nucleotide-gated K+ 4	9		regulation of cardiac muscle cell action potential involved in regulation of contraction			ISO	Q9Y3Q4 	J:164563 	
+MGI:1298209	Hcn4	hyperpolarization-activated, cyclic nucleotide-gated K+ 4	9		regulation of membrane depolarization			ISO	Q9Y3Q4 	J:164563 	
+MGI:1298209	Hcn4	hyperpolarization-activated, cyclic nucleotide-gated K+ 4	9		regulation of membrane potential			ISO	Q9Y3Q4 	J:164563 	
+MGI:1298209	Hcn4	hyperpolarization-activated, cyclic nucleotide-gated K+ 4	9		SA node cell action potential			ISO	Q9Y3Q4 	J:164563 	
+MGI:1202306	Hcrt	hypocretin	11		excitatory postsynaptic potential			ISO	RGD:2786 	J:155856 	
+MGI:1860084	Hebp2	heme binding protein 2	10		negative regulation of mitochondrial membrane potential			ISO	Q9Y5Z4 	J:164563 	
+MGI:2676364	Hsh2d	hematopoietic SH2 domain containing	8		negative regulation of mitochondrial depolarization			IDA		J:96984 	
+MGI:96282	Htr3a	5-hydroxytryptamine (serotonin) receptor 3A	9		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:1861899	Htr3b	5-hydroxytryptamine (serotonin) receptor 3B	9		regulation of membrane potential			IBA	PTN000434994 	J:265628 	
+MGI:107656	Ifng	interferon gamma	10		regulation of neuronal action potential			ISO	RGD:2866 	J:155856 	
+MGI:2685354	Igsf9b	immunoglobulin superfamily, member 9B	9		positive regulation of inhibitory postsynaptic potential			IMP		J:201532 	
+MGI:2388477	Igsf11	immunoglobulin superfamily, member 11	16		positive regulation of mini excitatory postsynaptic potential			ISO	RGD:1308758 	J:155856 	
+MGI:96547	Il1rn	interleukin 1 receptor antagonist	2		negative regulation of membrane potential			ISO	RGD:621159 	J:155856 	
+MGI:96559	Il6	interleukin 6	5		negative regulation of membrane potential			ISO	RGD:2901 	J:155856 	
+MGI:2442108	Insyn1	inhibitory synaptic factor 1	9		inhibitory postsynaptic potential			IDA		J:235653 	
+MGI:3605068	Insyn2a	inhibitory synaptic factor 2A	7		inhibitory postsynaptic potential			IBA	PTN002823877 	J:265628 	
+MGI:3605068	Insyn2a	inhibitory synaptic factor 2A	7		inhibitory postsynaptic potential			IDA		J:235653 	
+MGI:96646	Jun	jun proto-oncogene	4		membrane depolarization			ISO	RGD:2943 	J:155856 	
+MGI:96650	Jup	junction plakoglobin	11		regulation of ventricular cardiac muscle cell action potential			ISO	P14923 	J:164563 	
+MGI:96654	Kcna1	potassium voltage-gated channel, shaker-related subfamily, member 1	6		neuronal action potential			IMP		J:77281 	
+MGI:96654	Kcna1	potassium voltage-gated channel, shaker-related subfamily, member 1	6		neuronal action potential			ISO	RGD:2949 	J:155856 	
+MGI:96654	Kcna1	potassium voltage-gated channel, shaker-related subfamily, member 1	6		regulation of membrane potential			ISO	Q09470 	J:164563 	
+MGI:96659	Kcna2	potassium voltage-gated channel, shaker-related subfamily, member 2	3		neuronal action potential			ISO	RGD:2950 	J:155856 	
+MGI:96662	Kcna5	potassium voltage-gated channel, shaker-related subfamily, member 5	6		atrial cardiac muscle cell action potential			ISO	P22460 	J:164563 	
+MGI:96662	Kcna5	potassium voltage-gated channel, shaker-related subfamily, member 5	6		membrane hyperpolarization			ISO	P22460 	J:164563 	
+MGI:96662	Kcna5	potassium voltage-gated channel, shaker-related subfamily, member 5	6		membrane repolarization during atrial cardiac muscle cell action potential			ISO	P22460 	J:164563 	
+MGI:96662	Kcna5	potassium voltage-gated channel, shaker-related subfamily, member 5	6		membrane repolarization during bundle of His cell action potential			ISO	P22460 	J:164563 	
+MGI:96662	Kcna5	potassium voltage-gated channel, shaker-related subfamily, member 5	6		membrane repolarization during SA node cell action potential			ISO	P22460 	J:164563 	
+MGI:96662	Kcna5	potassium voltage-gated channel, shaker-related subfamily, member 5	6		regulation of atrial cardiac muscle cell membrane repolarization			ISO	P22460 	J:164563 	
+MGI:96662	Kcna5	potassium voltage-gated channel, shaker-related subfamily, member 5	6		regulation of membrane potential			IGI	MGI:107231 MGI:107570 	J:95586 	
+MGI:96662	Kcna5	potassium voltage-gated channel, shaker-related subfamily, member 5	6		regulation of membrane potential			ISO	RGD:2953 	J:155856 	
+MGI:96662	Kcna5	potassium voltage-gated channel, shaker-related subfamily, member 5	6		regulation of membrane potential			ISO	P22460 	J:164563 	
+MGI:109239	Kcnab2	potassium voltage-gated channel, shaker-related subfamily, beta member 2	4		regulation of action potential			IBA	PTN002876279 	J:265628 	
+MGI:96666	Kcnb1	potassium voltage gated channel, Shab-related subfamily, member 1	2		action potential			IBA	PTN002610172 	J:265628 	
+MGI:96666	Kcnb1	potassium voltage gated channel, Shab-related subfamily, member 1	2		action potential			ISO	RGD:2954 	J:155856 	
+MGI:96666	Kcnb1	potassium voltage gated channel, Shab-related subfamily, member 1	2		action potential			ISO	Q14721 	J:164563 	
+MGI:96666	Kcnb1	potassium voltage gated channel, Shab-related subfamily, member 1	2		regulation of action potential			IMP		J:129963 	
+MGI:96668	Kcnc2	potassium voltage gated channel, Shaw-related subfamily, member 2	10		action potential			IMP	MGI:2387957 	J:140824 	
+MGI:96670	Kcnc4	potassium voltage gated channel, Shaw-related subfamily, member 4	3		negative regulation of neuronal action potential			ISO	RGD:1589169 	J:155856 	
+MGI:102663	Kcnd2	potassium voltage-gated channel, Shal-related family, member 2	6		action potential	regulates a function/process that happens in cerebellar granule cell		IMP		J:161513 	
+MGI:102663	Kcnd2	potassium voltage-gated channel, Shal-related family, member 2	6		action potential			ISO	RGD:68393 	J:155856 	
+MGI:102663	Kcnd2	potassium voltage-gated channel, Shal-related family, member 2	6		cardiac muscle cell action potential			ISO	RGD:68393 	J:155856 	
+MGI:102663	Kcnd2	potassium voltage-gated channel, Shal-related family, member 2	6		neuronal action potential			IMP		J:186547 	
+MGI:1928743	Kcnd3	potassium voltage-gated channel, Shal-related family, member 3	3		membrane repolarization			ISO	Q9UK17 	J:164563 	
+MGI:1928743	Kcnd3	potassium voltage-gated channel, Shal-related family, member 3	3		ventricular cardiac muscle cell membrane repolarization			ISO	Q9UK17 	J:164563 	
+MGI:96673	Kcne1	potassium voltage-gated channel, Isk-related subfamily, member 1	16		membrane repolarization during action potential			IBA	PTN001445835 	J:265628 	
+MGI:96673	Kcne1	potassium voltage-gated channel, Isk-related subfamily, member 1	16		regulation of ventricular cardiac muscle cell membrane repolarization			IBA	PTN001445835 	J:265628 	
+MGI:96673	Kcne1	potassium voltage-gated channel, Isk-related subfamily, member 1	16		ventricular cardiac muscle cell action potential			IBA	PTN001445835 	J:265628 	
+MGI:1913490	Kcne1l	potassium voltage-gated channel, Isk-related family, member 1-like, pseudogene	X		atrial cardiac muscle cell action potential			ISO	Q9UJ90 	J:164563 	
+MGI:1913490	Kcne1l	potassium voltage-gated channel, Isk-related family, member 1-like, pseudogene	X		membrane repolarization during action potential			IBA	PTN001445835 	J:265628 	
+MGI:1913490	Kcne1l	potassium voltage-gated channel, Isk-related family, member 1-like, pseudogene	X		regulation of atrial cardiac muscle cell membrane repolarization			ISO	Q9UJ90 	J:164563 	
+MGI:1913490	Kcne1l	potassium voltage-gated channel, Isk-related family, member 1-like, pseudogene	X		regulation of membrane repolarization			ISO	Q9UJ90 	J:164563 	
+MGI:1913490	Kcne1l	potassium voltage-gated channel, Isk-related family, member 1-like, pseudogene	X		regulation of ventricular cardiac muscle cell membrane repolarization			IBA	PTN001445835 	J:265628 	
+MGI:1913490	Kcne1l	potassium voltage-gated channel, Isk-related family, member 1-like, pseudogene	X		regulation of ventricular cardiac muscle cell membrane repolarization			ISO	Q9UJ90 	J:164563 	
+MGI:1913490	Kcne1l	potassium voltage-gated channel, Isk-related family, member 1-like, pseudogene	X		ventricular cardiac muscle cell action potential			IBA	PTN001445835 	J:265628 	
+MGI:1913490	Kcne1l	potassium voltage-gated channel, Isk-related family, member 1-like, pseudogene	X		ventricular cardiac muscle cell action potential			ISO	Q9UJ90 	J:164563 	
+MGI:1891123	Kcne2	potassium voltage-gated channel, Isk-related subfamily, gene 2	16		cardiac muscle cell action potential involved in contraction			ISO	Q9Y6J6 	J:164563 	
+MGI:1891123	Kcne2	potassium voltage-gated channel, Isk-related subfamily, gene 2	16		membrane repolarization			ISO	RGD:621383 	J:155856 	
+MGI:1891123	Kcne2	potassium voltage-gated channel, Isk-related subfamily, gene 2	16		membrane repolarization			ISO	Q9Y6J6 	J:164563 	
+MGI:1891123	Kcne2	potassium voltage-gated channel, Isk-related subfamily, gene 2	16		membrane repolarization during action potential			IBA	PTN001445835 	J:265628 	
+MGI:1891123	Kcne2	potassium voltage-gated channel, Isk-related subfamily, gene 2	16		membrane repolarization during action potential			ISO	RGD:621383 	J:155856 	
+MGI:1891123	Kcne2	potassium voltage-gated channel, Isk-related subfamily, gene 2	16		membrane repolarization during action potential			ISO	Q9Y6J6 	J:164563 	
+MGI:1891123	Kcne2	potassium voltage-gated channel, Isk-related subfamily, gene 2	16		membrane repolarization during ventricular cardiac muscle cell action potential			ISO	Q9Y6J6 	J:164563 	
+MGI:1891123	Kcne2	potassium voltage-gated channel, Isk-related subfamily, gene 2	16		regulation of membrane repolarization			ISO	RGD:621383 	J:155856 	
+MGI:1891123	Kcne2	potassium voltage-gated channel, Isk-related subfamily, gene 2	16		regulation of membrane repolarization			ISO	Q9Y6J6 	J:164563 	
+MGI:1891123	Kcne2	potassium voltage-gated channel, Isk-related subfamily, gene 2	16		regulation of ventricular cardiac muscle cell membrane repolarization			IBA	PTN001445835 	J:265628 	
+MGI:1891123	Kcne2	potassium voltage-gated channel, Isk-related subfamily, gene 2	16		regulation of ventricular cardiac muscle cell membrane repolarization	regulates a function/process that happens in regular ventricular cardiac myocyte		IMP	MGI:3699589 	J:140247 	
+MGI:1891123	Kcne2	potassium voltage-gated channel, Isk-related subfamily, gene 2	16		regulation of ventricular cardiac muscle cell membrane repolarization			ISO	Q9Y6J6 	J:164563 	
+MGI:1891123	Kcne2	potassium voltage-gated channel, Isk-related subfamily, gene 2	16		ventricular cardiac muscle cell action potential			IBA	PTN001445835 	J:265628 	
+MGI:1891123	Kcne2	potassium voltage-gated channel, Isk-related subfamily, gene 2	16		ventricular cardiac muscle cell action potential	regulates a function/process that happens in regular ventricular cardiac myocyte		IMP	MGI:3699589 	J:140247 	
+MGI:1891123	Kcne2	potassium voltage-gated channel, Isk-related subfamily, gene 2	16		ventricular cardiac muscle cell action potential			ISO	Q9Y6J6 	J:164563 	
+MGI:1891124	Kcne3	potassium voltage-gated channel, Isk-related subfamily, gene 3	7		membrane repolarization during action potential			IBA	PTN001445835 	J:265628 	
+MGI:1891124	Kcne3	potassium voltage-gated channel, Isk-related subfamily, gene 3	7		negative regulation of membrane repolarization during ventricular cardiac muscle cell action potential			ISO	Q9Y6H6 	J:164563 	
+MGI:1891124	Kcne3	potassium voltage-gated channel, Isk-related subfamily, gene 3	7		regulation of ventricular cardiac muscle cell membrane repolarization			IBA	PTN001445835 	J:265628 	
+MGI:1891124	Kcne3	potassium voltage-gated channel, Isk-related subfamily, gene 3	7		ventricular cardiac muscle cell action potential			IBA	PTN001445835 	J:265628 	
+MGI:1891125	Kcne4	potassium voltage-gated channel, Isk-related subfamily, gene 4	1		membrane repolarization during action potential			IBA	PTN001445835 	J:265628 	
+MGI:1891125	Kcne4	potassium voltage-gated channel, Isk-related subfamily, gene 4	1		regulation of ventricular cardiac muscle cell membrane repolarization			IBA	PTN001445835 	J:265628 	
+MGI:1891125	Kcne4	potassium voltage-gated channel, Isk-related subfamily, gene 4	1		ventricular cardiac muscle cell action potential			IBA	PTN001445835 	J:265628 	
+MGI:1341721	Kcnh1	potassium voltage-gated channel, subfamily H (eag-related), member 1	1		regulation of membrane potential			IBA	PTN000025350 	J:265628 	
+MGI:1341722	Kcnh2	potassium voltage-gated channel, subfamily H (eag-related), member 2	5		membrane depolarization during action potential			ISO	Q12809 	J:164563 	
+MGI:1341722	Kcnh2	potassium voltage-gated channel, subfamily H (eag-related), member 2	5		membrane repolarization			ISO	Q12809 	J:164563 	
+MGI:1341722	Kcnh2	potassium voltage-gated channel, subfamily H (eag-related), member 2	5		membrane repolarization during action potential			ISO	Q12809 	J:164563 	
+MGI:1341722	Kcnh2	potassium voltage-gated channel, subfamily H (eag-related), member 2	5		membrane repolarization during cardiac muscle cell action potential			ISO	Q12809 	J:164563 	
+MGI:1341722	Kcnh2	potassium voltage-gated channel, subfamily H (eag-related), member 2	5		membrane repolarization during ventricular cardiac muscle cell action potential			ISO	Q12809 	J:164563 	
+MGI:1341722	Kcnh2	potassium voltage-gated channel, subfamily H (eag-related), member 2	5		regulation of membrane potential			IBA	PTN000025350 	J:265628 	
+MGI:1341722	Kcnh2	potassium voltage-gated channel, subfamily H (eag-related), member 2	5		regulation of membrane potential			IDA		J:44553 J:44554 	
+MGI:1341722	Kcnh2	potassium voltage-gated channel, subfamily H (eag-related), member 2	5		regulation of membrane potential			ISO	RGD:621414 	J:155856 	
+MGI:1341722	Kcnh2	potassium voltage-gated channel, subfamily H (eag-related), member 2	5		regulation of membrane potential			ISO	Q12809 	J:164563 	
+MGI:1341722	Kcnh2	potassium voltage-gated channel, subfamily H (eag-related), member 2	5		regulation of membrane repolarization			ISO	Q12809 	J:164563 	
+MGI:1341722	Kcnh2	potassium voltage-gated channel, subfamily H (eag-related), member 2	5		regulation of ventricular cardiac muscle cell membrane repolarization	regulates a function/process that happens in ventricle cardiac muscle,regulates a function/process that happens in cardiac muscle cell		IDA		J:63073 	
+MGI:1341722	Kcnh2	potassium voltage-gated channel, subfamily H (eag-related), member 2	5		regulation of ventricular cardiac muscle cell membrane repolarization			ISO	Q12809 	J:164563 	
+MGI:1341722	Kcnh2	potassium voltage-gated channel, subfamily H (eag-related), member 2	5		ventricular cardiac muscle cell action potential			ISO	Q12809 	J:164563 	
+MGI:1341723	Kcnh3	potassium voltage-gated channel, subfamily H (eag-related), member 3	15		regulation of membrane potential			IBA	PTN000025350 	J:265628 	
+MGI:2156184	Kcnh4	potassium voltage-gated channel, subfamily H (eag-related), member 4	11		regulation of membrane potential			IBA	PTN000025350 	J:265628 	
+MGI:3584508	Kcnh5	potassium voltage-gated channel, subfamily H (eag-related), member 5	12		regulation of membrane potential			IBA	PTN000025350 	J:265628 	
+MGI:2684139	Kcnh6	potassium voltage-gated channel, subfamily H (eag-related), member 6	11		regulation of membrane potential			IBA	PTN000025350 	J:265628 	
+MGI:2159566	Kcnh7	potassium voltage-gated channel, subfamily H (eag-related), member 7	2		regulation of membrane potential			IBA	PTN000025350 	J:265628 	
+MGI:2445160	Kcnh8	potassium voltage-gated channel, subfamily H (eag-related), member 8	17		regulation of membrane potential			IBA	PTN000025350 	J:265628 	
+MGI:1917607	Kcnip1	Kv channel-interacting protein 1	11		positive regulation of action potential			ISO	RGD:70886 	J:155856 	
+MGI:2135916	Kcnip2	Kv channel-interacting protein 2	19		membrane repolarization			ISO	Q9NS61 	J:164563 	
+MGI:104744	Kcnj2	potassium inwardly-rectifying channel, subfamily J, member 2	11		cardiac muscle cell action potential			IMP		J:94675 	
+MGI:104744	Kcnj2	potassium inwardly-rectifying channel, subfamily J, member 2	11		cardiac muscle cell action potential involved in contraction			ISO	P63252 	J:164563 	
+MGI:104744	Kcnj2	potassium inwardly-rectifying channel, subfamily J, member 2	11		membrane repolarization during action potential			ISO	P63252 	J:164563 	
+MGI:104744	Kcnj2	potassium inwardly-rectifying channel, subfamily J, member 2	11		membrane repolarization during cardiac muscle cell action potential			ISO	P63252 	J:164563 	
+MGI:104744	Kcnj2	potassium inwardly-rectifying channel, subfamily J, member 2	11		regulation of membrane repolarization			ISO	P63252 	J:164563 	
+MGI:104744	Kcnj2	potassium inwardly-rectifying channel, subfamily J, member 2	11		regulation of skeletal muscle contraction via regulation of action potential			ISO	P63252 	J:164563 	
+MGI:104755	Kcnj5	potassium inwardly-rectifying channel, subfamily J, member 5	9		membrane repolarization during atrial cardiac muscle cell action potential			ISO	P48544 	J:164563 	
+MGI:1100508	Kcnj8	potassium inwardly-rectifying channel, subfamily J, member 8	6		membrane repolarization during ventricular cardiac muscle cell action potential			ISO	Q15842 	J:164563 	
+MGI:1194504	Kcnj10	potassium inwardly-rectifying channel, subfamily J, member 10	1		membrane hyperpolarization			ISO	RGD:61822 	J:155856 	
+MGI:1194504	Kcnj10	potassium inwardly-rectifying channel, subfamily J, member 10	1		regulation of membrane potential	happens in dorsal root ganglion,has the participant perineuronal satellite cell		IMP	MGI:2182467 	J:159727 	
+MGI:1194504	Kcnj10	potassium inwardly-rectifying channel, subfamily J, member 10	1		regulation of membrane potential	happens in hippocampus,has the participant astrocyte		IMP	MGI:2182467 	J:155644 	
+MGI:1194504	Kcnj10	potassium inwardly-rectifying channel, subfamily J, member 10	1		regulation of resting membrane potential	happens in corpus callosum,happens in oligodendrocyte|happens in hippocampus,happens in astrocyte		IMP	MGI:3655847 MGI:3761690 	J:126082 	
+MGI:1194504	Kcnj10	potassium inwardly-rectifying channel, subfamily J, member 10	1		regulation of resting membrane potential	happens in pre-botzinger complex,happens in astrocyte		IMP		J:135777 	
+MGI:1194504	Kcnj10	potassium inwardly-rectifying channel, subfamily J, member 10	1		regulation of resting membrane potential	happens in retina,happens in Mueller cell		IMP	MGI:2182467 	J:63635 	
+MGI:107501	Kcnj11	potassium inwardly rectifying channel, subfamily J, member 11	7		regulation of membrane potential			ISO	Q14654 	J:164563 	
+MGI:109322	Kcnk1	potassium channel, subfamily K, member 1	8		regulation of resting membrane potential			ISO	O00180 	J:164563 	
+MGI:109322	Kcnk1	potassium channel, subfamily K, member 1	8		stabilization of membrane potential			IBA	PTN000108561 	J:265628 	
+MGI:109366	Kcnk2	potassium channel, subfamily K, member 2	1		regulation of membrane potential			IGI	MGI:1346013 MGI:1930150 MGI:1930153 	J:184566 	
+MGI:109366	Kcnk2	potassium channel, subfamily K, member 2	1		stabilization of membrane potential			IBA	PTN000108561 	J:265628 	
+MGI:109366	Kcnk2	potassium channel, subfamily K, member 2	1		stabilization of membrane potential			TAS		J:72776 	
+MGI:1100509	Kcnk3	potassium channel, subfamily K, member 3	5		stabilization of membrane potential			IBA	PTN000108561 	J:265628 	
+MGI:1298234	Kcnk4	potassium channel, subfamily K, member 4	19		stabilization of membrane potential			IBA	PTN000108561 	J:265628 	
+MGI:1336175	Kcnk5	potassium channel, subfamily K, member 5	14		regulation of resting membrane potential			IDA		J:177439 	
+MGI:1336175	Kcnk5	potassium channel, subfamily K, member 5	14		stabilization of membrane potential			IBA	PTN000108561 	J:265628 	
+MGI:1891291	Kcnk6	potassium inwardly-rectifying channel, subfamily K, member 6	7		regulation of resting membrane potential	happens in vascular associated smooth muscle cell		IMP	MGI:5474993 	J:194443 	
+MGI:1891291	Kcnk6	potassium inwardly-rectifying channel, subfamily K, member 6	7		stabilization of membrane potential			IBA	PTN000108561 	J:265628 	
+MGI:1341841	Kcnk7	potassium channel, subfamily K, member 7	19		stabilization of membrane potential			IBA	PTN000108561 	J:265628 	
+MGI:3521816	Kcnk9	potassium channel, subfamily K, member 9	15		stabilization of membrane potential			IBA	PTN000108561 	J:265628 	
+MGI:1919508	Kcnk10	potassium channel, subfamily K, member 10	12		stabilization of membrane potential			IBA	PTN000108561 	J:265628 	
+MGI:2684043	Kcnk12	potassium channel, subfamily K, member 12	17		stabilization of membrane potential			IBA	PTN000108561 	J:265628 	
+MGI:2384976	Kcnk13	potassium channel, subfamily K, member 13	12		stabilization of membrane potential			IBA	PTN000108561 	J:265628 	
+MGI:2675209	Kcnk15	potassium channel, subfamily K, member 15	2		stabilization of membrane potential			IBA	PTN000108561 	J:265628 	
+MGI:1921821	Kcnk16	potassium channel, subfamily K, member 16	14		stabilization of membrane potential			IBA	PTN000108561 	J:265628 	
+MGI:2685627	Kcnk18	potassium channel, subfamily K, member 18	19		stabilization of membrane potential			IBA	PTN000108561 	J:265628 	
+MGI:99923	Kcnma1	potassium large conductance calcium-activated channel, subfamily M, alpha member 1	14		neuronal action potential	happens in suprachiasmatic nucleus		IMP	MGI:3053849 	J:111722 	
+MGI:99923	Kcnma1	potassium large conductance calcium-activated channel, subfamily M, alpha member 1	14		regulation of membrane potential			IDA		J:13395 	
+MGI:99923	Kcnma1	potassium large conductance calcium-activated channel, subfamily M, alpha member 1	14		regulation of membrane potential	happens in cerebellum,has the participant Purkinje cell		IMP	MGI:3050114 	J:91427 	
+MGI:99923	Kcnma1	potassium large conductance calcium-activated channel, subfamily M, alpha member 1	14		regulation of membrane potential	happens in organ of Corti,has the participant cochlear inner hair cell		IMP	MGI:3050114 	J:109217 	
+MGI:99923	Kcnma1	potassium large conductance calcium-activated channel, subfamily M, alpha member 1	14		regulation of membrane potential			ISO	Q12791 	J:164563 	
+MGI:1919663	Kcnmb2	potassium large conductance calcium-activated channel, subfamily M, beta member 2	3		action potential			ISO	Q9Y691 	J:164563 	
+MGI:1919663	Kcnmb2	potassium large conductance calcium-activated channel, subfamily M, beta member 2	3		neuronal action potential			ISO	Q9Y691 	J:164563 	
+MGI:3612244	Kcnmb3	potassium large conductance calcium-activated channel, subfamily M, beta member 3	3		action potential			ISO	Q9NPA1 	J:164563 	
+MGI:3612244	Kcnmb3	potassium large conductance calcium-activated channel, subfamily M, beta member 3	3		neuronal action potential			ISO	Q9NPA1 	J:164563 	
+MGI:1913272	Kcnmb4	potassium large conductance calcium-activated channel, subfamily M, beta member 4	10		action potential			ISO	Q86W47 	J:164563 	
+MGI:1913272	Kcnmb4	potassium large conductance calcium-activated channel, subfamily M, beta member 4	10		neuronal action potential			ISO	Q86W47 	J:164563 	
+MGI:2153182	Kcnn2	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 2	18		membrane repolarization during atrial cardiac muscle cell action potential			IMP		J:176552 	
+MGI:1277957	Kcnn4	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 4	7		stabilization of membrane potential			ISO	O15554 	J:164563 	
+MGI:108083	Kcnq1	potassium voltage-gated channel, subfamily Q, member 1	7		atrial cardiac muscle cell action potential			ISO	P51787 	J:164563 	
+MGI:108083	Kcnq1	potassium voltage-gated channel, subfamily Q, member 1	7		membrane repolarization			IMP		J:104389 	
+MGI:108083	Kcnq1	potassium voltage-gated channel, subfamily Q, member 1	7		membrane repolarization during action potential			ISO	P51787 	J:164563 	
+MGI:108083	Kcnq1	potassium voltage-gated channel, subfamily Q, member 1	7		membrane repolarization during atrial cardiac muscle cell action potential			ISO	P51787 	J:164563 	
+MGI:108083	Kcnq1	potassium voltage-gated channel, subfamily Q, member 1	7		membrane repolarization during cardiac muscle cell action potential			ISO	P51787 	J:164563 	
+MGI:108083	Kcnq1	potassium voltage-gated channel, subfamily Q, member 1	7		membrane repolarization during ventricular cardiac muscle cell action potential			IBA	PTN002609969 	J:265628 	
+MGI:108083	Kcnq1	potassium voltage-gated channel, subfamily Q, member 1	7		membrane repolarization during ventricular cardiac muscle cell action potential			ISO	P51787 	J:164563 	
+MGI:108083	Kcnq1	potassium voltage-gated channel, subfamily Q, member 1	7		regulation of atrial cardiac muscle cell membrane repolarization			ISO	P51787 	J:164563 	
+MGI:108083	Kcnq1	potassium voltage-gated channel, subfamily Q, member 1	7		regulation of membrane potential			ISO	RGD:621503 	J:155856 	
+MGI:108083	Kcnq1	potassium voltage-gated channel, subfamily Q, member 1	7		regulation of membrane repolarization			ISO	P51787 	J:164563 	
+MGI:108083	Kcnq1	potassium voltage-gated channel, subfamily Q, member 1	7		regulation of ventricular cardiac muscle cell membrane repolarization			ISO	P51787 	J:164563 	
+MGI:108083	Kcnq1	potassium voltage-gated channel, subfamily Q, member 1	7		ventricular cardiac muscle cell action potential			ISO	P51787 	J:164563 	
+MGI:1309503	Kcnq2	potassium voltage-gated channel, subfamily Q, member 2	2		membrane hyperpolarization			IMP	MGI:3604594 	J:14288 	
+MGI:1336181	Kcnq3	potassium voltage-gated channel, subfamily Q, member 3	15		membrane hyperpolarization			IMP	MGI:3830636 	J:142688 	
+MGI:2442265	Kctd7	potassium channel tetramerisation domain containing 7	5		membrane hyperpolarization			IBA	PTN002494768 	J:265628 	
+MGI:2442265	Kctd7	potassium channel tetramerisation domain containing 7	5		membrane hyperpolarization			IMP		J:252002 	
+MGI:96683	Kdr	kinase insert domain protein receptor	5		positive regulation of mitochondrial depolarization			ISO	P35968 	J:73065 	
+MGI:1098268	Kif5b	kinesin family member 5B	18		regulation of membrane potential			ISO	P33176 	J:164563 	
+MGI:1913975	Lrrk2	leucine-rich repeat kinase 2	15		excitatory postsynaptic potential	happens in striatum neuron		IMP		J:206832 	
+MGI:1913975	Lrrk2	leucine-rich repeat kinase 2	15		negative regulation of excitatory postsynaptic potential	happens in pyramidal neuron,happens in cerebral cortex		IMP		J:169453 	
+MGI:1913975	Lrrk2	leucine-rich repeat kinase 2	15		regulation of membrane potential			IBA	PTN002907762 	J:265628 	
+MGI:1913975	Lrrk2	leucine-rich repeat kinase 2	15		regulation of membrane potential			ISO	Q5S007 	J:164563 	
+MGI:1913975	Lrrk2	leucine-rich repeat kinase 2	15		regulation of mitochondrial depolarization			ISO	Q5S007 	J:164563 	
+MGI:96837	Ltf	lactotransferrin	9		negative regulation of membrane potential			ISO	P02788 	J:164563 	
+MGI:1926555	Mapk8ip2	mitogen-activated protein kinase 8 interacting protein 2	15		excitatory postsynaptic potential			IMP		J:166700 	
+MGI:97180	Mapt	microtubule-associated protein tau	11		negative regulation of mitochondrial membrane potential			ISO	P10636 	J:164563 	
+MGI:99918	Mecp2	methyl CpG binding protein 2	X		excitatory postsynaptic potential			IMP	MGI:2137311 	J:126964 	
+MGI:99458	Mef2c	myocyte enhancer factor 2C	13		excitatory postsynaptic potential			IMP		J:138189 	
+MGI:99458	Mef2c	myocyte enhancer factor 2C	13		excitatory postsynaptic potential	happens in dentate gyrus		IMP		J:138188 	
+MGI:96969	Met	met proto-oncogene	6		excitatory postsynaptic potential			IMP		J:170966 	
+MGI:1914664	Mfn1	mitofusin 1	3		positive regulation of mitochondrial membrane potential			IGI	Q80U63 	J:281198 	
+MGI:1929671	Mllt11	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 11	3		positive regulation of mitochondrial depolarization			IBA	PTN002692749 	J:265628 	
+MGI:1929671	Mllt11	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 11	3		positive regulation of mitochondrial depolarization			ISO	Q13015 	J:164563 	
+MGI:1858257	Mpp2	membrane protein, palmitoylated 2 (MAGUK p55 subfamily member 2)	11		excitatory postsynaptic potential			IMP		J:231015 	
+MGI:1929260	Mtch2	mitochondrial carrier 2	2		negative regulation of mitochondrial membrane potential	happens in hematopoietic stem cell		IMP	MGI:2449949 MGI:5566664 	J:224442 	
+MGI:1915135	Mtln	mitoregulin	2		positive regulation of mitochondrial membrane potential			IBA	PTN002201359 	J:265628 	
+MGI:1924366	Mtmr2	myotubularin related protein 2	9		negative regulation of excitatory postsynaptic potential			ISO	RGD:1311865 	J:155856 	
+MGI:2181726	Mtnr1b	melatonin receptor 1B	9		regulation of neuronal action potential			ISO	RGD:620798 	J:155856 	
+MGI:1915600	Mul1	mitochondrial ubiquitin ligase activator of NFKB 1	4		regulation of mitochondrial membrane potential	happens in primary neuron		IGI	Q9WVS6 	J:219122 	
+MGI:97250	Myc	myelocytomatosis oncogene	15		positive regulation of mitochondrial membrane potential			ISO	RGD:3130 	J:155856 	
+MGI:1919210	Myh14	myosin, heavy polypeptide 14	7		neuronal action potential			ISO	Q7Z406 	J:164563 	
+MGI:1202864	Myoc	myocilin	1		positive regulation of mitochondrial depolarization			ISO	Q99972 	J:164563 	
+MGI:2444306	Nalcn	sodium leak channel, non-selective	14		regulation of resting membrane potential			IMP		J:141581 	
+MGI:1344370	Ndufc2	NADH:ubiquinone oxidoreductase subunit C2	7		positive regulation of mitochondrial membrane potential			ISO	RGD:1307511 	J:155856 	
+MGI:2443241	Ndufs1	NADH:ubiquinone oxidoreductase core subunit S1	1		regulation of mitochondrial membrane potential			ISO	P28331 	J:164563 	
+MGI:1343135	Ndufs4	NADH:ubiquinone oxidoreductase core subunit S4	13		regulation of mitochondrial membrane potential			IMP	MGI:3527173 	J:232864 	
+MGI:1933754	Nedd4l	neural precursor cell expressed, developmentally down-regulated gene 4-like	18		regulation of membrane depolarization			ISO	Q96PU5 	J:164563 	
+MGI:1933754	Nedd4l	neural precursor cell expressed, developmentally down-regulated gene 4-like	18		regulation of membrane potential			ISO	Q96PU5 	J:164563 	
+MGI:1933754	Nedd4l	neural precursor cell expressed, developmentally down-regulated gene 4-like	18		regulation of membrane repolarization			ISO	Q96PU5 	J:164563 	
+MGI:1933754	Nedd4l	neural precursor cell expressed, developmentally down-regulated gene 4-like	18		ventricular cardiac muscle cell action potential			ISO	RGD:735047 	J:155856 	
+MGI:2180216	Neto1	neuropilin (NRP) and tolloid (TLL)-like 1	18		positive regulation of excitatory postsynaptic potential	happens in hippocampus		IMP	MGI:3836584 	J:174557 	
+MGI:1921763	Neto2	neuropilin (NRP) and tolloid (TLL)-like 2	8	NOT	positive regulation of excitatory postsynaptic potential	happens in hippocampus		IMP	MGI:5141222 	J:174557 	
+MGI:97323	Ngfr	nerve growth factor receptor (TNFR superfamily, member 16)	11		negative regulation of mitochondrial depolarization			ISO	RGD:3177 	J:155856 	
+MGI:97323	Ngfr	nerve growth factor receptor (TNFR superfamily, member 16)	11		positive regulation of excitatory postsynaptic potential			ISO	RGD:3177 	J:155856 	
+MGI:2179435	Nlgn1	neuroligin 1	3	NOT	inhibitory postsynaptic potential			IMP		J:138036 	
+MGI:2179435	Nlgn1	neuroligin 1	3		positive regulation of excitatory postsynaptic potential			IDA		J:138036 	
+MGI:2179435	Nlgn1	neuroligin 1	3		positive regulation of excitatory postsynaptic potential	happens in hippocampal pyramidal neuron		IMP		J:197488 	
+MGI:2179435	Nlgn1	neuroligin 1	3		positive regulation of excitatory postsynaptic potential			ISO	RGD:621117 	J:155856 	
+MGI:2179435	Nlgn1	neuroligin 1	3		positive regulation of excitatory postsynaptic potential			ISO	Q8N2Q7 	J:164563 	
+MGI:2681835	Nlgn2	neuroligin 2	11		positive regulation of excitatory postsynaptic potential			IMP		J:175189 	
+MGI:2681835	Nlgn2	neuroligin 2	11		positive regulation of inhibitory postsynaptic potential			IMP		J:138036 J:175189 	
+MGI:2681835	Nlgn2	neuroligin 2	11		positive regulation of inhibitory postsynaptic potential			ISO	RGD:621118 	J:155856 	
+MGI:2444609	Nlgn3	neuroligin 3	X		excitatory postsynaptic potential	happens in hippocampus CA1		IMP		J:175606 	
+MGI:2444609	Nlgn3	neuroligin 3	X		inhibitory postsynaptic potential			IMP		J:175606 	
+MGI:2444609	Nlgn3	neuroligin 3	X		inhibitory postsynaptic potential	happens in UBERON:0008930		IMP		J:175606 	
+MGI:2444609	Nlgn3	neuroligin 3	X		inhibitory postsynaptic potential			IMP	MGI:3758949 	J:125344 	
+MGI:2444609	Nlgn3	neuroligin 3	X		inhibitory postsynaptic potential			ISO	RGD:621119 	J:155856 	
+MGI:2444609	Nlgn3	neuroligin 3	X		negative regulation of excitatory postsynaptic potential			IMP		J:175606 	
+MGI:2444609	Nlgn3	neuroligin 3	X		positive regulation of excitatory postsynaptic potential			IMP		J:184114 	
+MGI:2444609	Nlgn3	neuroligin 3	X		positive regulation of inhibitory postsynaptic potential			ISO	RGD:621119 	J:155856 	
+MGI:2664186	Npas4	neuronal PAS domain protein 4	19		excitatory postsynaptic potential			IMP		J:214381 	
+MGI:2664186	Npas4	neuronal PAS domain protein 4	19		inhibitory postsynaptic potential			IMP		J:143367 J:214381 	
+MGI:2664186	Npas4	neuronal PAS domain protein 4	19		inhibitory postsynaptic potential			IMP	MGI:3828100 	J:207770 	
+MGI:1891708	Npff	neuropeptide FF-amide peptide precursor	15		excitatory postsynaptic potential			IBA	PTN001806145 	J:265628 	
+MGI:1891708	Npff	neuropeptide FF-amide peptide precursor	15		excitatory postsynaptic potential			ISO	RGD:62033 	J:155856 	
+MGI:1891708	Npff	neuropeptide FF-amide peptide precursor	15		regulation of membrane depolarization			ISO	RGD:62033 	J:155856 	
+MGI:97367	Nppa	natriuretic peptide type A	4		regulation of atrial cardiac muscle cell membrane repolarization			ISO	P01160 	J:164563 	
+MGI:3642232	Nps	neuropeptide S	7		positive regulation of action potential			IBA	PTN002195595 	J:265628 	
+MGI:3642232	Nps	neuropeptide S	7		positive regulation of action potential			IDA		J:171689 	
+MGI:108418	Npy2r	neuropeptide Y receptor Y2	3		negative regulation of excitatory postsynaptic potential			ISO	RGD:620475 	J:155856 	
+MGI:99459	Nr3c2	nuclear receptor subfamily 3, group C, member 2	8		regulation of postsynaptic membrane potential	happens in hippocampal formation		EXP		J:137143 	
+MGI:99459	Nr3c2	nuclear receptor subfamily 3, group C, member 2	8		regulation of postsynaptic membrane potential	happens in hippocampal formation		IDA		J:137143 	
+MGI:104750	Nrcam	neuronal cell adhesion molecule	12		neuronal action potential propagation			IMP	MGI:2387976 	J:97392 	
+MGI:1096391	Nrxn1	neurexin I	17		positive regulation of excitatory postsynaptic potential			IDA		J:175147 	
+MGI:1096391	Nrxn1	neurexin I	17		positive regulation of excitatory postsynaptic potential			IMP		J:153748 	
+MGI:97384	Ntrk2	neurotrophic tyrosine kinase, receptor, type 2	13		neuronal action potential propagation			IGI	MGI:97385 MGI:97631 	J:162328 	
+MGI:97385	Ntrk3	neurotrophic tyrosine kinase, receptor, type 3	7		neuronal action potential propagation			IGI	MGI:97384 MGI:97631 	J:162328 	
+MGI:97386	Ntsr1	neurotensin receptor 1	2		positive regulation of inhibitory postsynaptic potential			ISO	RGD:1306076 	J:155856 	
+MGI:97386	Ntsr1	neurotensin receptor 1	2		regulation of action potential			ISO	RGD:1306076 	J:155856 	
+MGI:97386	Ntsr1	neurotensin receptor 1	2		regulation of membrane depolarization			ISO	RGD:1306076 	J:155856 	
+MGI:108018	Ntsr2	neurotensin receptor 2	12		regulation of membrane potential			IDA		J:35254 	
+MGI:2181182	Nup155	nucleoporin 155	15		atrial cardiac muscle cell action potential	regulates a function/process that happens in atrium cardiac muscle,regulates a function/process that happens in cardiac muscle cell		IMP	MGI:3840086 	J:147210 	
+MGI:1932139	Oga	O-GlcNAcase	19		positive regulation of mitochondrial depolarization			ISO	RGD:621077 	J:155856 	
+MGI:97438	Oprd1	opioid receptor, delta 1	4		regulation of mitochondrial membrane potential			ISO	P41143 	J:164563 	
+MGI:97441	Oprm1	opioid receptor, mu 1	10		excitatory postsynaptic potential			ISO	RGD:3234 	J:155856 	
+MGI:1098235	P2rx1	purinergic receptor P2X, ligand-gated ion channel, 1	11		excitatory postsynaptic potential			IBA	MGI:1097160 MGI:1338859 MGI:1339957 MGI:2137026 MGI:2665170 PTN000804619 Q99571 Q99572 Q9UBL9 RGD:3240 RGD:3241 RGD:3243 RGD:620251 RGD:620253 RGD:620256 RGD:62073 	J:265628 	
+MGI:1098235	P2rx1	purinergic receptor P2X, ligand-gated ion channel, 1	11		neuronal action potential			ISO	RGD:3240 	J:155856 	
+MGI:2665170	P2rx2	purinergic receptor P2X, ligand-gated ion channel, 2	5		neuronal action potential			ISO	RGD:620251 	J:155856 	
+MGI:1097160	P2rx3	purinergic receptor P2X, ligand-gated ion channel, 3	2		excitatory postsynaptic potential			IBA	MGI:1097160 MGI:1338859 MGI:1339957 MGI:2137026 MGI:2665170 PTN000804619 Q99571 Q99572 Q9UBL9 RGD:3240 RGD:3241 RGD:3243 RGD:620251 RGD:620253 RGD:620256 RGD:62073 	J:265628 	
+MGI:1097160	P2rx3	purinergic receptor P2X, ligand-gated ion channel, 3	2		neuronal action potential			ISO	RGD:620253 	J:155856 	
+MGI:1338859	P2rx4	purinergic receptor P2X, ligand-gated ion channel 4	5		excitatory postsynaptic potential			IBA	MGI:1097160 MGI:1338859 MGI:1339957 MGI:2137026 MGI:2665170 PTN000804619 Q99571 Q99572 Q9UBL9 RGD:3240 RGD:3241 RGD:3243 RGD:620251 RGD:620253 RGD:620256 RGD:62073 	J:265628 	
+MGI:1338859	P2rx4	purinergic receptor P2X, ligand-gated ion channel 4	5		excitatory postsynaptic potential	happens in hippocampus CA3,regulates a function/process that happens in CNS neuron (sensu Vertebrata)		IMP	MGI:3665297 	J:112177 	
+MGI:1338859	P2rx4	purinergic receptor P2X, ligand-gated ion channel 4	5		membrane depolarization			ISO	Q99571 	J:164563 	
+MGI:1338859	P2rx4	purinergic receptor P2X, ligand-gated ion channel 4	5		neuronal action potential			ISO	RGD:62073 	J:155856 	
+MGI:2137026	P2rx5	purinergic receptor P2X, ligand-gated ion channel, 5	11		neuronal action potential			ISO	RGD:620256 	J:155856 	
+MGI:1337113	P2rx6	purinergic receptor P2X, ligand-gated ion channel, 6	16		excitatory postsynaptic potential			IBA	MGI:1097160 MGI:1338859 MGI:1339957 MGI:2137026 MGI:2665170 PTN000804619 Q99571 Q99572 Q9UBL9 RGD:3240 RGD:3241 RGD:3243 RGD:620251 RGD:620253 RGD:620256 RGD:62073 	J:265628 	
+MGI:1339957	P2rx7	purinergic receptor P2X, ligand-gated ion channel, 7	5		membrane depolarization			ISO	Q99572 	J:164563 	
+MGI:1339957	P2rx7	purinergic receptor P2X, ligand-gated ion channel, 7	5		positive regulation of mitochondrial depolarization	regulates a function/process that happens in submandibular gland		IMP	MGI:2386080 	J:102387 	
+MGI:1921700	Pank2	pantothenate kinase 2	2		regulation of mitochondrial membrane potential	regulates a function/process that happens in neuron		IMP	MGI:3514020 	J:191150 	
+MGI:2135637	Park7	Parkinson disease (autosomal recessive, early onset) 7	4		membrane depolarization			IMP	MGI:3579140 	J:111114 	
+MGI:2135637	Park7	Parkinson disease (autosomal recessive, early onset) 7	4		membrane hyperpolarization			IMP	MGI:3579140 	J:111114 	
+MGI:2135637	Park7	Parkinson disease (autosomal recessive, early onset) 7	4		regulation of mitochondrial membrane potential			ISO	Q99497 	J:164563 	
+MGI:1340806	Parp1	poly (ADP-ribose) polymerase family, member 1	1		positive regulation of mitochondrial depolarization			ISO	RGD:2053 	J:155856 	
+MGI:2149961	Pawr	PRKC, apoptosis, WT1, regulator	10		positive regulation of action potential			ISO	RGD:69065 	J:155856 	
+MGI:2149961	Pawr	PRKC, apoptosis, WT1, regulator	10		positive regulation of neuronal action potential			ISO	RGD:69065 	J:155856 	
+MGI:1916672	Pex5l	peroxisomal biogenesis factor 5-like	3		regulation of membrane potential	happens in hippocampus,has the participant pyramidal neuron		IDA		J:96808 	
+MGI:1916672	Pex5l	peroxisomal biogenesis factor 5-like	3		regulation of membrane potential			IGI	MGI:1298210 	J:96808 	
+MGI:1913126	Pias3	protein inhibitor of activated STAT 3	3		positive regulation of membrane potential			ISO	RGD:708413 	J:155856 	
+MGI:2138391	Pid1	phosphotyrosine interaction domain containing 1	1		regulation of mitochondrial membrane potential			IMP		J:180647 	
+MGI:3603204	Piezo1	piezo-type mechanosensitive ion channel component 1	8		regulation of membrane potential			IBA	PTN000323131 	J:265628 	
+MGI:3603204	Piezo1	piezo-type mechanosensitive ion channel component 1	8		regulation of membrane potential			IMP		J:164433 	
+MGI:1918781	Piezo2	piezo-type mechanosensitive ion channel component 2	18		regulation of membrane potential			IBA	PTN000323131 	J:265628 	
+MGI:1918781	Piezo2	piezo-type mechanosensitive ion channel component 2	18		regulation of membrane potential			IDA		J:164433 	
+MGI:1916193	Pink1	PTEN induced putative kinase 1	4		regulation of mitochondrial membrane potential			ISO	Q9BXM7 	J:164563 	
+MGI:2448520	Pip5kl1	phosphatidylinositol-4-phosphate 5-kinase-like 1	2		negative regulation of mitochondrial membrane potential			ISO	Q5T9C9 	J:164563 	
+MGI:1914701	Pkp2	plakophilin 2	16		cardiac muscle cell action potential			ISO	RGD:1306533 	J:155856 	
+MGI:1914701	Pkp2	plakophilin 2	16		cardiac muscle cell action potential involved in contraction			ISO	Q99959 	J:164563 	
+MGI:1914701	Pkp2	plakophilin 2	16		regulation of ventricular cardiac muscle cell action potential			ISO	Q99959 	J:164563 	
+MGI:1914701	Pkp2	plakophilin 2	16		ventricular cardiac muscle cell action potential			ISO	Q99959 	J:164563 	
+MGI:1930146	Pmaip1	phorbol-12-myristate-13-acetate-induced protein 1	18		negative regulation of mitochondrial membrane potential			IDA		J:172883 	
+MGI:97631	Pmp22	peripheral myelin protein 22	11		neuronal action potential			IMP	MGI:2447704 	J:235660 	
+MGI:97631	Pmp22	peripheral myelin protein 22	11		neuronal action potential propagation			IMP	MGI:2447704 	J:157710 	
+MGI:1930150	Popdc2	popeye domain containing 2	16		regulation of membrane potential			IBA	PTN000250645 	J:265628 	
+MGI:1930150	Popdc2	popeye domain containing 2	16		regulation of membrane potential			IGI	MGI:109366 	J:184566 	
+MGI:1930153	Popdc3	popeye domain containing 3	10		regulation of membrane potential			IBA	PTN000250645 	J:265628 	
+MGI:1930153	Popdc3	popeye domain containing 3	10		regulation of membrane potential			IGI	MGI:109366 	J:184566 	
+MGI:1922026	Ppa2	pyrophosphatase (inorganic) 2	3		regulation of mitochondrial membrane potential			ISO	Q9H2U2 	J:164563 	
+MGI:2442401	Ppp1r9a	protein phosphatase 1, regulatory subunit 9A	6		excitatory postsynaptic potential			ISO	RGD:632280 	J:155856 	
+MGI:1930009	Ppp2r3c	protein phosphatase 2, regulatory subunit B'', gamma	12		regulation of mitochondrial depolarization			IMP	MGI:3759678 	J:100706 	
+MGI:107164	Ppp3ca	protein phosphatase 3, catalytic subunit, alpha isoform	3		excitatory postsynaptic potential	happens in hippocampus CA3,regulates a function/process that happens in pyramidal neuron		IGI	MGI:95815 	J:120963 	
+MGI:88034	Prdx3	peroxiredoxin 3	19		regulation of mitochondrial membrane potential			ISO	P30048 	J:164563 	
+MGI:1913744	Prelid1	PRELI domain containing 1	13		negative regulation of mitochondrial membrane potential			ISO	Q9Y255 	J:164563 	
+MGI:1913744	Prelid1	PRELI domain containing 1	13		regulation of mitochondrial membrane potential			ISO	Q9Y255 	J:164563 	
+MGI:97599	Prkce	protein kinase C, epsilon	17		negative regulation of mitochondrial membrane potential			ISO	RGD:61925 	J:155856 	
+MGI:97602	Prkcz	protein kinase C, zeta	4		membrane depolarization			ISO	RGD:3399 	J:155856 	
+MGI:97602	Prkcz	protein kinase C, zeta	4		membrane hyperpolarization			ISO	RGD:3399 	J:155856 	
+MGI:97602	Prkcz	protein kinase C, zeta	4		positive regulation of excitatory postsynaptic potential			ISO	RGD:3399 	J:155856 	
+MGI:1355296	Prkn	parkin RBR E3 ubiquitin protein ligase	17		negative regulation of excitatory postsynaptic potential			ISO	RGD:61797 	J:155856 	
+MGI:1355296	Prkn	parkin RBR E3 ubiquitin protein ligase	17		positive regulation of mitochondrial membrane potential			ISO	RGD:61797 	J:155856 	
+MGI:1355296	Prkn	parkin RBR E3 ubiquitin protein ligase	17		regulation of mitochondrial membrane potential	happens in primary neuron		IGI	Q8VCM5 	J:219122 	
+MGI:1202717	Psen1	presenilin 1	12		regulation of resting membrane potential			IMP	MGI:2149116 	J:101284 	
+MGI:109583	Pten	phosphatase and tensin homolog	19		negative regulation of excitatory postsynaptic potential			IMP		J:184118 	
+MGI:109583	Pten	phosphatase and tensin homolog	19		positive regulation of excitatory postsynaptic potential			IMP		J:130843 	
+MGI:104908	Ptk2b	PTK2 protein tyrosine kinase 2 beta	14		positive regulation of excitatory postsynaptic potential			ISO	RGD:628758 	J:155856 	
+MGI:97804	Ptn	pleiotrophin	6		negative regulation of membrane potential			ISO	RGD:3444 	J:155856 	
+MGI:105307	Ptpn3	protein tyrosine phosphatase, non-receptor type 3	4		regulation of membrane depolarization during action potential			ISO	P26045 	J:164563 	
+MGI:1289230	Pxk	PX domain containing serine/threonine kinase	14		regulation of membrane potential			IBA	PTN000543298 	J:265628 	
+MGI:2384795	Pycr1	pyrroline-5-carboxylate reductase 1	11		regulation of mitochondrial membrane potential			ISO	P32322 	J:164563 	
+MGI:2445001	Rab3gap1	RAB3 GTPase activating protein subunit 1	1		excitatory postsynaptic potential	happens in hippocampus CA3		IMP		J:111069 	
+MGI:101849	Rack1	receptor for activated C kinase 1	11		positive regulation of mitochondrial depolarization			ISO	P63244 	J:164563 	
+MGI:1889073	Rangrf	RAN guanine nucleotide release factor	11		regulation of bundle of His cell action potential			ISO	Q9HD47 	J:164563 	
+MGI:1889073	Rangrf	RAN guanine nucleotide release factor	11		regulation of cardiac muscle cell action potential involved in regulation of contraction			ISO	Q9HD47 	J:164563 	
+MGI:1889073	Rangrf	RAN guanine nucleotide release factor	11		regulation of membrane depolarization	happens in fetal cardiomyocyte		IMP		J:200449 	
+MGI:1889073	Rangrf	RAN guanine nucleotide release factor	11		regulation of membrane depolarization			ISO	Q9HD47 	J:164563 	
+MGI:1889073	Rangrf	RAN guanine nucleotide release factor	11		regulation of membrane depolarization during cardiac muscle cell action potential			ISO	Q9HD47 	J:164563 	
+MGI:1889073	Rangrf	RAN guanine nucleotide release factor	11		regulation of membrane potential			ISO	Q9HD47 	J:164563 	
+MGI:1917723	Rapgef4	Rap guanine nucleotide exchange factor (GEF) 4	2		positive regulation of neuronal action potential			ISO	RGD:621886 	J:155856 	
+MGI:103022	Reln	reelin	5		positive regulation of excitatory postsynaptic potential			IDA		J:128028 	
+MGI:103022	Reln	reelin	5		positive regulation of excitatory postsynaptic potential			IMP		J:128028 J:159385 J:219074 	
+MGI:108409	Rgs4	regulator of G-protein signaling 4	1		positive regulation of excitatory postsynaptic potential			ISO	RGD:3567 	J:155856 	
+MGI:1346089	Rgs7	regulator of G protein signaling 7	1		regulation of postsynaptic membrane potential	happens in glutamatergic synapse,happens in hippocampal formation		IDA		J:213237 	
+MGI:1346089	Rgs7	regulator of G protein signaling 7	1		regulation of postsynaptic membrane potential	happens in glutamatergic synapse,happens in hippocampal formation		IMP		J:213237 	
+MGI:106334	Rgs7bp	regulator of G-protein signalling 7 binding protein	13		regulation of postsynaptic membrane potential	happens in glutamatergic synapse,happens in hippocampal formation		IDA		J:213237 	
+MGI:106334	Rgs7bp	regulator of G-protein signalling 7 binding protein	13		regulation of postsynaptic membrane potential	happens in glutamatergic synapse,happens in hippocampal formation		IMP		J:213237 	
+MGI:2152971	Rims1	regulating synaptic membrane exocytosis 1	1		positive regulation of excitatory postsynaptic potential	happens in hippocampal neuron		IGI	Q99NE5 Q9EQZ7 	J:168142 	
+MGI:2152971	Rims1	regulating synaptic membrane exocytosis 1	1		positive regulation of inhibitory postsynaptic potential	happens in hippocampal neuron		IGI	Q99NE5 Q9EQZ7 	J:168142 	
+MGI:2152971	Rims1	regulating synaptic membrane exocytosis 1	1		positive regulation of inhibitory postsynaptic potential			ISO	RGD:620000 	J:155856 	
+MGI:2152971	Rims1	regulating synaptic membrane exocytosis 1	1		regulation of membrane potential			IBA	PTN000952366 	J:265628 	
+MGI:2152971	Rims1	regulating synaptic membrane exocytosis 1	1		regulation of membrane potential			IDA		J:165320 	
+MGI:2152972	Rims2	regulating synaptic membrane exocytosis 2	15		positive regulation of excitatory postsynaptic potential	happens in hippocampal neuron		IGI	Q99NE5 Q9EQZ7 	J:168142 	
+MGI:2152972	Rims2	regulating synaptic membrane exocytosis 2	15		positive regulation of inhibitory postsynaptic potential	happens in hippocampal neuron		IGI	Q99NE5 Q9EQZ7 	J:168142 	
+MGI:2152972	Rims2	regulating synaptic membrane exocytosis 2	15		regulation of membrane potential			IBA	PTN001741737 	J:265628 	
+MGI:2152972	Rims2	regulating synaptic membrane exocytosis 2	15		regulation of membrane potential			IDA		J:165320 	
+MGI:2443331	Rims3	regulating synaptic membrane exocytosis 3	4		regulation of membrane potential			IBA	PTN001741737 	J:265628 	
+MGI:2443331	Rims3	regulating synaptic membrane exocytosis 3	4		regulation of membrane potential			IDA		J:165320 	
+MGI:2674366	Rims4	regulating synaptic membrane exocytosis 4	2		regulation of membrane potential			IDA		J:165320 	
+MGI:1916117	Rnf122	ring finger protein 122	8		negative regulation of mitochondrial membrane potential			ISO	Q9H9V4 	J:164563 	
+MGI:2684989	Rnf207	ring finger protein 207	4		positive regulation of voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization			ISO	Q6ZRF8 	J:164563 	
+MGI:99685	Ryr2	ryanodine receptor 2, cardiac	13		regulation of atrial cardiac muscle cell action potential			ISO	Q92736 	J:164563 	
+MGI:99685	Ryr2	ryanodine receptor 2, cardiac	13		regulation of AV node cell action potential			ISO	Q92736 	J:164563 	
+MGI:99685	Ryr2	ryanodine receptor 2, cardiac	13		regulation of SA node cell action potential			ISO	Q92736 	J:164563 	
+MGI:99685	Ryr2	ryanodine receptor 2, cardiac	13		regulation of ventricular cardiac muscle cell action potential			ISO	Q92736 	J:164563 	
+MGI:99685	Ryr2	ryanodine receptor 2, cardiac	13		ventricular cardiac muscle cell action potential			IMP		J:142170 	
+MGI:99569	S1pr2	sphingosine-1-phosphate receptor 2	9		negative regulation of excitatory postsynaptic potential	regulates a function/process that happens in hippocampus,regulates a function/process that happens in CNS neuron (sensu Vertebrata)		IMP	MGI:2180817 	J:73957 	
+MGI:98246	Scn1a	sodium channel, voltage-gated, type I, alpha	2		action potential	happens in cerebellum Purkinje cell layer,regulates a function/process that happens in Purkinje cell		IMP	MGI:3665322 	J:125694 	
+MGI:98246	Scn1a	sodium channel, voltage-gated, type I, alpha	2		cardiac muscle cell action potential involved in contraction			ISO	P35498 	J:164563 	
+MGI:98246	Scn1a	sodium channel, voltage-gated, type I, alpha	2		membrane depolarization during action potential			IBA	PTN000004140 	J:265628 	
+MGI:98246	Scn1a	sodium channel, voltage-gated, type I, alpha	2		neuronal action potential			IBA	PTN000798901 	J:265628 	
+MGI:98246	Scn1a	sodium channel, voltage-gated, type I, alpha	2		neuronal action potential	happens in hippocampus,happens in bipolar neuron|happens in hippocampus,happens in GABAergic neuron		IMP	MGI:3665322 	J:113149 	
+MGI:98246	Scn1a	sodium channel, voltage-gated, type I, alpha	2		neuronal action potential	happens in cerebellum Purkinje cell layer,happens in Purkinje cell		IMP	MGI:3665322 	J:125694 	
+MGI:98246	Scn1a	sodium channel, voltage-gated, type I, alpha	2		neuronal action potential			ISO	RGD:69364 	J:155856 	
+MGI:98246	Scn1a	sodium channel, voltage-gated, type I, alpha	2		neuronal action potential propagation	has the participant neocortex,has the participant interneuron		IMP	MGI:3713733 	J:121696 	
+MGI:98246	Scn1a	sodium channel, voltage-gated, type I, alpha	2		regulation of membrane potential	happens in cerebellum Purkinje cell layer,has the participant Purkinje cell		IMP	MGI:3665322 	J:125694 	
+MGI:98247	Scn1b	sodium channel, voltage-gated, type I, beta	7		cardiac muscle cell action potential involved in contraction			IBA	PTN000057590 	J:265628 	
+MGI:98247	Scn1b	sodium channel, voltage-gated, type I, beta	7		cardiac muscle cell action potential involved in contraction			ISO	Q07699 	J:164563 	
+MGI:98247	Scn1b	sodium channel, voltage-gated, type I, beta	7		membrane depolarization			ISO	Q07699 	J:164563 	
+MGI:98247	Scn1b	sodium channel, voltage-gated, type I, beta	7		membrane depolarization during cardiac muscle cell action potential			IMP		J:127606 	
+MGI:98247	Scn1b	sodium channel, voltage-gated, type I, beta	7		membrane depolarization during Purkinje myocyte cell action potential			ISO	Q07699 	J:164563 	
+MGI:98247	Scn1b	sodium channel, voltage-gated, type I, beta	7		neuronal action potential propagation	has the participant sciatic nerve		IMP	MGI:3043422 	J:90136 	
+MGI:98247	Scn1b	sodium channel, voltage-gated, type I, beta	7		regulation of atrial cardiac muscle cell membrane depolarization			ISO	Q07699 	J:164563 	
+MGI:98247	Scn1b	sodium channel, voltage-gated, type I, beta	7		regulation of ventricular cardiac muscle cell membrane repolarization			IMP		J:127606 	
+MGI:98248	Scn2a	sodium channel, voltage-gated, type II, alpha	2		membrane depolarization during action potential			IBA	PTN000004140 	J:265628 	
+MGI:98248	Scn2a	sodium channel, voltage-gated, type II, alpha	2		neuronal action potential			IBA	PTN000798901 	J:265628 	
+MGI:98248	Scn2a	sodium channel, voltage-gated, type II, alpha	2		neuronal action potential			ISO	RGD:3632 	J:155856 	
+MGI:106921	Scn2b	sodium channel, voltage-gated, type II, beta	9		cardiac muscle cell action potential involved in contraction			ISO	O60939 	J:164563 	
+MGI:106921	Scn2b	sodium channel, voltage-gated, type II, beta	9		membrane depolarization during cardiac muscle cell action potential			ISO	O60939 	J:164563 	
+MGI:106921	Scn2b	sodium channel, voltage-gated, type II, beta	9		regulation of atrial cardiac muscle cell membrane depolarization			ISO	O60939 	J:164563 	
+MGI:98249	Scn3a	sodium channel, voltage-gated, type III, alpha	2		membrane depolarization during action potential			IBA	PTN000004140 	J:265628 	
+MGI:98249	Scn3a	sodium channel, voltage-gated, type III, alpha	2		neuronal action potential			IBA	PTN000798901 	J:265628 	
+MGI:98249	Scn3a	sodium channel, voltage-gated, type III, alpha	2		neuronal action potential			ISO	RGD:3635 	J:155856 	
+MGI:1918882	Scn3b	sodium channel, voltage-gated, type III, beta	9		atrial cardiac muscle cell action potential			ISO	Q9NY72 	J:164563 	
+MGI:1918882	Scn3b	sodium channel, voltage-gated, type III, beta	9		cardiac muscle cell action potential involved in contraction			IBA	PTN000057590 	J:265628 	
+MGI:1918882	Scn3b	sodium channel, voltage-gated, type III, beta	9		cardiac muscle cell action potential involved in contraction			ISO	Q9NY72 	J:164563 	
+MGI:1918882	Scn3b	sodium channel, voltage-gated, type III, beta	9		membrane depolarization			ISO	Q9NY72 	J:164563 	
+MGI:1918882	Scn3b	sodium channel, voltage-gated, type III, beta	9		membrane depolarization during action potential			ISO	Q9NY72 	J:164563 	
+MGI:1918882	Scn3b	sodium channel, voltage-gated, type III, beta	9		membrane depolarization during cardiac muscle cell action potential			ISO	Q9NY72 	J:164563 	
+MGI:1918882	Scn3b	sodium channel, voltage-gated, type III, beta	9		regulation of atrial cardiac muscle cell membrane depolarization			IMP		J:177246 	
+MGI:1918882	Scn3b	sodium channel, voltage-gated, type III, beta	9		regulation of atrial cardiac muscle cell membrane depolarization			ISO	Q9NY72 	J:164563 	
+MGI:1918882	Scn3b	sodium channel, voltage-gated, type III, beta	9		regulation of ventricular cardiac muscle cell membrane depolarization			ISO	Q9NY72 	J:164563 	
+MGI:1918882	Scn3b	sodium channel, voltage-gated, type III, beta	9		SA node cell action potential			IMP		J:177246 	
+MGI:1918882	Scn3b	sodium channel, voltage-gated, type III, beta	9		ventricular cardiac muscle cell action potential			IBA	PTN002576226 	J:265628 	
+MGI:1918882	Scn3b	sodium channel, voltage-gated, type III, beta	9		ventricular cardiac muscle cell action potential	regulates a function/process that happens in ventricle cardiac muscle,regulates a function/process that happens in cardiac muscle cell		IMP	MGI:5294639 	J:177262 	
+MGI:1918882	Scn3b	sodium channel, voltage-gated, type III, beta	9		ventricular cardiac muscle cell action potential			ISO	Q9NY72 	J:164563 	
+MGI:98250	Scn4a	sodium channel, voltage-gated, type IV, alpha	11		membrane depolarization during action potential			IBA	PTN000004140 	J:265628 	
+MGI:98250	Scn4a	sodium channel, voltage-gated, type IV, alpha	11		neuronal action potential			IBA	PTN000798901 	J:265628 	
+MGI:98250	Scn4a	sodium channel, voltage-gated, type IV, alpha	11		regulation of skeletal muscle contraction by action potential			ISO	P35499 	J:164563 	
+MGI:2687406	Scn4b	sodium channel, type IV, beta	9		AV node cell action potential			ISO	Q8IWT1 	J:164563 	
+MGI:2687406	Scn4b	sodium channel, type IV, beta	9		cardiac muscle cell action potential involved in contraction			ISO	Q8IWT1 	J:164563 	
+MGI:2687406	Scn4b	sodium channel, type IV, beta	9		membrane depolarization during cardiac muscle cell action potential			ISO	Q8IWT1 	J:164563 	
+MGI:2687406	Scn4b	sodium channel, type IV, beta	9		regulation of ventricular cardiac muscle cell membrane repolarization			ISO	Q8IWT1 	J:164563 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		atrial cardiac muscle cell action potential			ISO	Q14524 	J:164563 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		AV node cell action potential			IBA	PTN001295035 	J:265628 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		AV node cell action potential			ISO	Q14524 	J:164563 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		bundle of His cell action potential			ISO	Q14524 	J:164563 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		cardiac muscle cell action potential involved in contraction			ISO	Q14524 	J:164563 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		membrane depolarization			ISO	Q14524 	J:164563 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		membrane depolarization during action potential			IBA	PTN000004140 	J:265628 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		membrane depolarization during action potential			ISO	Q14524 	J:164563 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		membrane depolarization during atrial cardiac muscle cell action potential			ISO	Q14524 	J:164563 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		membrane depolarization during AV node cell action potential			ISO	Q14524 	J:164563 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		membrane depolarization during bundle of His cell action potential			ISO	Q14524 	J:164563 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		membrane depolarization during cardiac muscle cell action potential			ISO	Q14524 	J:164563 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		membrane depolarization during Purkinje myocyte cell action potential			ISO	Q14524 	J:164563 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		membrane depolarization during SA node cell action potential			ISO	Q14524 	J:164563 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		neuronal action potential			IBA	PTN000798901 	J:265628 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		positive regulation of action potential			ISO	RGD:3637 	J:155856 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		regulation of atrial cardiac muscle cell membrane depolarization			IBA	PTN001295035 	J:265628 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		regulation of atrial cardiac muscle cell membrane depolarization			ISO	Q14524 	J:164563 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		regulation of atrial cardiac muscle cell membrane repolarization			ISO	Q14524 	J:164563 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		regulation of ventricular cardiac muscle cell membrane depolarization			ISO	Q14524 	J:164563 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		regulation of ventricular cardiac muscle cell membrane repolarization			ISO	Q14524 	J:164563 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		SA node cell action potential			ISO	Q14524 	J:164563 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		ventricular cardiac muscle cell action potential			ISO	Q14524 	J:164563 	
+MGI:102965	Scn7a	sodium channel, voltage-gated, type VII, alpha	2		membrane depolarization during action potential			IBA	PTN000004140 	J:265628 	
+MGI:102965	Scn7a	sodium channel, voltage-gated, type VII, alpha	2		neuronal action potential			IBA	PTN000798901 	J:265628 	
+MGI:103169	Scn8a	sodium channel, voltage-gated, type VIII, alpha	15		membrane depolarization during action potential			IBA	PTN000004140 	J:265628 	
+MGI:103169	Scn8a	sodium channel, voltage-gated, type VIII, alpha	15		neuronal action potential			IBA	PTN000798901 	J:265628 	
+MGI:103169	Scn8a	sodium channel, voltage-gated, type VIII, alpha	15		neuronal action potential			ISO	RGD:3638 	J:155856 	
+MGI:107636	Scn9a	sodium channel, voltage-gated, type IX, alpha	2		membrane depolarization during action potential			IBA	PTN000004140 	J:265628 	
+MGI:107636	Scn9a	sodium channel, voltage-gated, type IX, alpha	2		neuronal action potential			IBA	PTN000798901 	J:265628 	
+MGI:107636	Scn9a	sodium channel, voltage-gated, type IX, alpha	2		neuronal action potential			ISO	RGD:69368 	J:155856 	
+MGI:108029	Scn10a	sodium channel, voltage-gated, type X, alpha	9		AV node cell action potential			ISO	Q9Y5Y9 	J:164563 	
+MGI:108029	Scn10a	sodium channel, voltage-gated, type X, alpha	9		bundle of His cell action potential			ISO	Q9Y5Y9 	J:164563 	
+MGI:108029	Scn10a	sodium channel, voltage-gated, type X, alpha	9		membrane depolarization during action potential			IBA	PTN000004140 	J:265628 	
+MGI:108029	Scn10a	sodium channel, voltage-gated, type X, alpha	9		neuronal action potential			IBA	PTN000798901 	J:265628 	
+MGI:108029	Scn10a	sodium channel, voltage-gated, type X, alpha	9		regulation of atrial cardiac muscle cell membrane depolarization			IMP	MGI:2180183 	J:166572 	
+MGI:108029	Scn10a	sodium channel, voltage-gated, type X, alpha	9		regulation of atrial cardiac muscle cell membrane depolarization			ISO	Q9Y5Y9 	J:164563 	
+MGI:1345149	Scn11a	sodium channel, voltage-gated, type XI, alpha	9		membrane depolarization during action potential			IBA	PTN000004140 	J:265628 	
+MGI:1345149	Scn11a	sodium channel, voltage-gated, type XI, alpha	9		neuronal action potential			IBA	PTN000798901 	J:265628 	
+MGI:104745	Sez6	seizure related gene 6	11		excitatory postsynaptic potential	happens in baroreceptor,regulates a function/process that happens in pyramidal neuron		IMP	MGI:3777582 	J:132725 	
+MGI:700010	Sh3gl1	SH3-domain GRB2-like 1	17		modulation of excitatory postsynaptic potential			ISO	RGD:708456 	J:155856 	
+MGI:3613677	Shank1	SH3 and multiple ankyrin repeat domains 1	7		positive regulation of excitatory postsynaptic potential			IBA	PTN001191880 	J:265628 	
+MGI:3613677	Shank1	SH3 and multiple ankyrin repeat domains 1	7		positive regulation of excitatory postsynaptic potential			IMP		J:132277 	
+MGI:2671987	Shank2	SH3 and multiple ankyrin repeat domains 2	7		positive regulation of excitatory postsynaptic potential			IBA	PTN001191880 	J:265628 	
+MGI:1930016	Shank3	SH3 and multiple ankyrin repeat domains 3	15		positive regulation of excitatory postsynaptic potential			IBA	PTN001191880 	J:265628 	
+MGI:1930016	Shank3	SH3 and multiple ankyrin repeat domains 3	15		positive regulation of excitatory postsynaptic potential			IMP		J:171113 J:175320 J:184110 	
+MGI:1930016	Shank3	SH3 and multiple ankyrin repeat domains 3	15		positive regulation of excitatory postsynaptic potential	happens in hippocampal neuron		IMP		J:184110 	
+MGI:1918903	Shtn1	shootin 1	19		membrane depolarization			ISO	EF055485 	J:115005 	
+MGI:1096331	Slc1a6	solute carrier family 1 (high affinity aspartate/glutamate transporter), member 6	10		regulation of membrane potential	happens in cerebellum,has the participant Purkinje cell		IMP	MGI:3027689 	J:87447 	
+MGI:1927555	Slc4a4	solute carrier family 4 (anion exchanger), member 4	5		regulation of membrane potential	happens in astrocyte of the cerebral cortex,happens in hippocampal formation		IMP		J:177439 	
+MGI:1927555	Slc4a4	solute carrier family 4 (anion exchanger), member 4	5		regulation of membrane potential			ISO	Q9Y6R1 	J:164563 	
+MGI:1928745	Slc4a8	solute carrier family 4 (anion exchanger), member 8	15		regulation of membrane potential			ISO	Q2Y0W8 	J:164563 	
+MGI:107956	Slc8a1	solute carrier family 8 (sodium/calcium exchanger), member 1	17		regulation of cardiac muscle cell membrane potential			TAS		J:152596 	
+MGI:107996	Slc8a2	solute carrier family 8 (sodium/calcium exchanger), member 2	7		modulation of excitatory postsynaptic potential	happens in hippocampal formation		IMP		J:271785 	
+MGI:107996	Slc8a2	solute carrier family 8 (sodium/calcium exchanger), member 2	7		regulation of action potential firing pattern	happens in hippocampus CA1,is a part of response to ischemia,happens in hippocampal neuron		IMP		J:136458 	
+MGI:107976	Slc8a3	solute carrier family 8 (sodium/calcium exchanger), member 3	12		modulation of excitatory postsynaptic potential	happens in hippocampal formation		IMP		J:271785 	
+MGI:2180781	Slc8b1	solute carrier family 8 (sodium/lithium/calcium exchanger), member B1	5		regulation of cardiac muscle cell membrane potential			IBA	MGI:2180781 PTN000262858 	J:265628 	
+MGI:2180781	Slc8b1	solute carrier family 8 (sodium/lithium/calcium exchanger), member B1	5		regulation of cardiac muscle cell membrane potential			IC	GO:0005432 GO:0005739 	J:156453 	
+MGI:102462	Slc9a1	solute carrier family 9 (sodium/hydrogen exchanger), member 1	4		positive regulation of action potential			ISO	RGD:3718 	J:155856 	
+MGI:1920211	Slc17a7	solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 7	7		excitatory postsynaptic potential	happens in hippocampus,regulates a function/process that happens in CNS neuron (sensu Vertebrata)		IMP	MGI:3617803 	J:105647 	
+MGI:1921261	Slc25a27	solute carrier family 25, member 27	17		negative regulation of mitochondrial membrane potential			ISO	RGD:620787 	J:155856 	
+MGI:1917806	Slc25a33	solute carrier family 25, member 33	4		regulation of mitochondrial membrane potential			ISO	Q9BSK2 	J:164563 	
+MGI:1924909	Slc25a36	solute carrier family 25, member 36	9		regulation of mitochondrial membrane potential			ISO	Q96CQ1 	J:164563 	
+MGI:107181	Slc26a3	solute carrier family 26, member 3	12		membrane hyperpolarization			IMP		J:185780 	
+MGI:1933154	Slc26a5	solute carrier family 26, member 5	5		regulation of membrane potential			IDA		J:81871 	
+MGI:1927073	Slc29a1	solute carrier family 29 (nucleoside transporters), member 1	17		excitatory postsynaptic potential			ISO	RGD:61899 	J:155856 	
+MGI:1345284	Slc34a1	solute carrier family 34 (sodium phosphate), member 1	13		positive regulation of membrane potential			ISO	RGD:3708 	J:155856 	
+MGI:1914797	Slc39a8	solute carrier family 39 (metal ion transporter), member 8	3		regulation of membrane potential			ISO	Q9C0K1 	J:164563 	
+MGI:1933549	Slmap	sarcolemma associated protein	14		regulation of membrane depolarization during cardiac muscle cell action potential			ISO	Q14BN4 	J:164563 	
+MGI:1100518	Smad7	SMAD family member 7	18		regulation of ventricular cardiac muscle cell membrane depolarization			IC	GO:0055010 	J:145777 	
+MGI:1277151	Snca	synuclein, alpha	6		excitatory postsynaptic potential	happens in hippocampus CA1,regulates a function/process that happens in CNS neuron (sensu Vertebrata)		IMP	MGI:2429773 	J:126092 	
+MGI:101772	Snta1	syntrophin, acidic 1	2		regulation of ventricular cardiac muscle cell membrane repolarization			ISO	Q13424 	J:164563 	
+MGI:101772	Snta1	syntrophin, acidic 1	2		ventricular cardiac muscle cell action potential			ISO	Q13424 	J:164563 	
+MGI:98351	Sod1	superoxide dismutase 1, soluble	16		regulation of mitochondrial membrane potential			ISO	P00441 	J:164563 	
+MGI:98352	Sod2	superoxide dismutase 2, mitochondrial	17		negative regulation of membrane hyperpolarization			ISO	RGD:3732 	J:155856 	
+MGI:98352	Sod2	superoxide dismutase 2, mitochondrial	17		regulation of mitochondrial membrane potential			IMP	MGI:2177602 MGI:2447406 	J:123349 	
+MGI:2139806	Spg20	spastic paraplegia 20, spartin (Troyer syndrome) homolog (human)	3		regulation of mitochondrial membrane potential			ISO	Q8N0X7 	J:73065 	
+MGI:98397	Src	Rous sarcoma oncogene	2		negative regulation of mitochondrial depolarization			ISO	P12931 	J:164563 	
+MGI:2686240	Ssh1	slingshot protein phosphatase 1	5		positive regulation of excitatory postsynaptic potential			ISO	RGD:1306038 	J:155856 	
+MGI:1913842	Stoml2	stomatin (Epb7.2)-like 2	4		positive regulation of mitochondrial membrane potential			ISO	Q9UJZ1 	J:164563 	
+MGI:2684909	Stox1	storkhead box 1	10		regulation of mitochondrial membrane potential			ISO	Q6ZVD7 	J:164563 	
+MGI:109355	Stx1a	syntaxin 1A (brain)	5		modulation of excitatory postsynaptic potential			ISO	RGD:69430 	J:155856 	
+MGI:109355	Stx1a	syntaxin 1A (brain)	5		positive regulation of excitatory postsynaptic potential	happens in hippocampal neuron		IGI	O35526 P61264 	J:202743 	
+MGI:1930705	Stx1b	syntaxin 1B	7		positive regulation of excitatory postsynaptic potential	happens in hippocampal neuron,happens in excitatory synapse		IGI	O35526 	J:202743 	
+MGI:1197010	Sumo1	small ubiquitin-like modifier 1	1		negative regulation of action potential			ISO	P63165 	J:164563 	
+MGI:1927152	Syne1	spectrin repeat containing, nuclear envelope 1	10		negative regulation of mini excitatory postsynaptic potential			ISO	RGD:620546 	J:155856 	
+MGI:98474	Tac1	tachykinin 1	6		positive regulation of action potential			ISO	RGD:3807 	J:155856 	
+MGI:98475	Tacr1	tachykinin receptor 1	6		positive regulation of action potential			ISO	RGD:3811 	J:155856 	
+MGI:2444563	Tafa4	TAFA chemokine like family member 4	6		regulation of membrane potential			IMP		J:203770 	
+MGI:2443456	Tbc1d24	TBC1 domain family, member 24	17		positive regulation of excitatory postsynaptic potential			ISO	RGD:1306143 	J:155856 	
+MGI:1097166	Tcl1	T cell lymphoma breakpoint 1	12		positive regulation of mitochondrial membrane potential			ISO	P56279 	J:164563 	
+MGI:1918937	Tmem25	transmembrane protein 25	9		negative regulation of excitatory postsynaptic potential			IBA	PTN002932903 	J:265628 	
+MGI:1918937	Tmem25	transmembrane protein 25	9		negative regulation of excitatory postsynaptic potential			IMP		J:282038 	
+MGI:1932411	Tmem108	transmembrane protein 108	9		modulation of excitatory postsynaptic potential			IMP		J:239156 	
+MGI:1920009	Tmem135	transmembrane protein 135	7		positive regulation of mitochondrial membrane potential			ISO	Q95QD1 	J:223712 	
+MGI:104798	Tnf	tumor necrosis factor	17		positive regulation of action potential			ISO	RGD:3876 	J:155856 	
+MGI:1924007	Trdn	triadin	10		regulation of cardiac muscle cell membrane potential			IBA	PTN001019999 	J:265628 	
+MGI:1913150	Trem2	triggering receptor expressed on myeloid cells 2	17		regulation of resting membrane potential	happens in microglial cell,regulates a function/process that happens in microglial cell		IMP		J:260524 	
+MGI:3522699	Trpa1	transient receptor potential cation channel, subfamily A, member 1	1		regulation of neuronal action potential			ISO	RGD:1303284 	J:155856 	
+MGI:109524	Trpc5	transient receptor potential cation channel, subfamily C, member 5	X		regulation of membrane hyperpolarization			ISO	RGD:619787 	J:155856 	
+MGI:1915917	Trpm4	transient receptor potential cation channel, subfamily M, member 4	7		membrane depolarization during AV node cell action potential			ISO	Q8TD43 	J:164563 	
+MGI:1915917	Trpm4	transient receptor potential cation channel, subfamily M, member 4	7		membrane depolarization during bundle of His cell action potential			ISO	Q8TD43 	J:164563 	
+MGI:1915917	Trpm4	transient receptor potential cation channel, subfamily M, member 4	7		membrane depolarization during Purkinje myocyte cell action potential			ISO	Q8TD43 	J:164563 	
+MGI:1915917	Trpm4	transient receptor potential cation channel, subfamily M, member 4	7		positive regulation of atrial cardiac muscle cell action potential			ISO	RGD:620244 	J:155856 	
+MGI:1915917	Trpm4	transient receptor potential cation channel, subfamily M, member 4	7		positive regulation of regulation of vascular associated smooth muscle cell membrane depolarization			ISO	RGD:620244 	J:155856 	
+MGI:1915917	Trpm4	transient receptor potential cation channel, subfamily M, member 4	7		regulation of membrane potential			ISO	AF497623 	J:84761 	
+MGI:1915917	Trpm4	transient receptor potential cation channel, subfamily M, member 4	7		regulation of ventricular cardiac muscle cell action potential			ISO	Q8TD43 	J:164563 	
+MGI:1341787	Trpv1	transient receptor potential cation channel, subfamily V, member 1	11		negative regulation of mitochondrial membrane potential			ISO	RGD:628841 	J:155856 	
+MGI:88222	Tspo	translocator protein	15		positive regulation of mitochondrial depolarization			ISO	RGD:2228 	J:155856 	
+MGI:1931086	Tusc2	tumor suppressor 2, mitochondrial calcium regulator	9		regulation of mitochondrial membrane potential			IBA	PTN001035705 	J:265628 	
+MGI:1931086	Tusc2	tumor suppressor 2, mitochondrial calcium regulator	9		regulation of mitochondrial membrane potential			IMP	MGI:3706236 	J:202328 	
+MGI:1931086	Tusc2	tumor suppressor 2, mitochondrial calcium regulator	9		regulation of mitochondrial membrane potential	regulates a function/process that happens in peritoneal cavity,regulates a function/process that happens in leukocyte		IMP	MGI:3706236 	J:187022 	
+MGI:98888	Ubb	ubiquitin B	11		regulation of mitochondrial membrane potential			ISO	P0CG47 	J:141360 	
+MGI:1932970	Ucn3	urocortin 3	13		positive regulation of membrane potential			ISO	RGD:1562213 	J:155856 	
+MGI:109354	Ucp2	uncoupling protein 2 (mitochondrial, proton carrier)	7		regulation of mitochondrial membrane potential			IMP		J:187412 	
+MGI:1342278	Unc13b	unc-13 homolog B	4		positive regulation of inhibitory postsynaptic potential			ISO	RGD:619723 	J:155856 	
+MGI:2139607	Usp53	ubiquitin specific peptidase 53	3		action potential			IMP	MGI:3708452 	J:227841 	
+MGI:99919	Vcp	valosin containing protein	4		positive regulation of mitochondrial membrane potential	happens in neuron,happens in astrocyte		IMP		J:222672 	
+MGI:99919	Vcp	valosin containing protein	4		positive regulation of mitochondrial membrane potential			ISO	P55072 	J:164563 	
+MGI:1337100	Wdr1	WD repeat domain 1	5		regulation of ventricular cardiac muscle cell membrane repolarization			IMP		J:211364 	
+MGI:98961	Wnt7a	wingless-type MMTV integration site family, member 7A	6		positive regulation of excitatory postsynaptic potential	happens in hippocampal neuron		IGI	Q9WVB9 	J:173542 	
+MGI:98961	Wnt7a	wingless-type MMTV integration site family, member 7A	6		positive regulation of excitatory postsynaptic potential			ISO	O00755 	J:164563 	
+MGI:1914144	Wwp2	WW domain containing E3 ubiquitin protein ligase 2	8		regulation of membrane potential			ISO	O00308 	J:164563 	
+MGI:1333878	Xirp1	xin actin-binding repeat containing 1	9		regulation of membrane potential	happens in cardiac muscle tissue,has the participant cardiac muscle cell		IMP	MGI:3521795 	J:132079 	
+MGI:894689	Ywhae	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, epsilon polypeptide	11		regulation of membrane repolarization			ISO	P62258 	J:164563 	
+MGI:109194	Ywhah	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, eta polypeptide	5		membrane depolarization during action potential			ISO	Q04917 	J:164563 	
+MGI:109194	Ywhah	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, eta polypeptide	5		membrane depolarization during action potential			ISS	Q04917 	J:122624 	
+MGI:1890508	Zmpste24	zinc metallopeptidase, STE24	4		regulation of ventricular cardiac muscle cell membrane repolarization			IMP	MGI:2180033 	J:238852 	
+MGI:1918025	Zmynd8	zinc finger, MYND-type containing 8	2		modulation of excitatory postsynaptic potential			ISO	RGD:1309544 	J:155856 	
+

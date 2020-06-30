@@ -1,0 +1,86 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:3050566	Akap6	A kinase (PRKA) anchor protein 6	12		regulation of membrane repolarization			ISO	Q13023 	J:164563 	
+MGI:1859150	Akap7	A kinase (PRKA) anchor protein 7	10		regulation of membrane repolarization			ISO	O43687 	J:164563 	
+MGI:2178217	Akap9	A kinase (PRKA) anchor protein (yotiao) 9	5		regulation of ventricular cardiac muscle cell membrane repolarization			IBA	PTN001053428 	J:265628 	
+MGI:88105	Atp1a1	ATPase, Na+/K+ transporting, alpha 1 polypeptide	3		membrane repolarization			ISO	P05023 	J:164563 	
+MGI:88108	Atp1b1	ATPase, Na+/K+ transporting, beta 1 polypeptide	1		membrane repolarization			ISO	P05026 	J:164563 	
+MGI:88109	Atp1b2	ATPase, Na+/K+ transporting, beta 2 polypeptide	11		membrane repolarization			ISO	P14415 	J:164563 	
+MGI:107788	Atp1b3	ATPase, Na+/K+ transporting, beta 3 polypeptide	9		membrane repolarization			ISO	P54709 	J:164563 	
+MGI:88293	Cacna1d	calcium channel, voltage-dependent, L type, alpha 1D subunit	14		regulation of atrial cardiac muscle cell membrane repolarization			IMP		J:130245 	
+MGI:88295	Cacna2d1	calcium channel, voltage-dependent, alpha2/delta subunit 1	5		regulation of membrane repolarization during action potential			ISO	RGD:2247 	J:155856 	
+MGI:88295	Cacna2d1	calcium channel, voltage-dependent, alpha2/delta subunit 1	5		regulation of ventricular cardiac muscle cell membrane repolarization			ISO	P54289 	J:164563 	
+MGI:103307	Cacnb3	calcium channel, voltage-dependent, beta 3 subunit	15		regulation of membrane repolarization during action potential			ISO	RGD:2248 	J:155856 	
+MGI:1309469	Casq2	calsequestrin 2	3		regulation of membrane repolarization			IDA		J:186034 	
+MGI:102709	Cav1	caveolin 1, caveolae protein	6		regulation of membrane repolarization during action potential			ISO	Q03135 	J:164563 	
+MGI:107570	Cav3	caveolin 3	6		regulation of ventricular cardiac muscle cell membrane repolarization			ISO	P56539 	J:164563 	
+MGI:107231	Dlg1	discs large MAGUK scaffold protein 1	16		regulation of voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization			IMP		J:237676 	
+MGI:95556	Flna	filamin, alpha	X		regulation of membrane repolarization during atrial cardiac muscle cell action potential			IC	GO:1905031 	J:212181 	
+MGI:95556	Flna	filamin, alpha	X		regulation of membrane repolarization during cardiac muscle cell action potential	happens in fetal cardiomyocyte		IMP		J:212181 	
+MGI:95713	Gja1	gap junction protein, alpha 1	10		regulation of ventricular cardiac muscle cell membrane repolarization			IGI	MGI:95716 	J:110256 	
+MGI:95713	Gja1	gap junction protein, alpha 1	10		regulation of ventricular cardiac muscle cell membrane repolarization			IMP	MGI:1857177 	J:110256 	
+MGI:95716	Gja5	gap junction protein, alpha 5	3		regulation of ventricular cardiac muscle cell membrane repolarization			IGI	MGI:95713 	J:110256 	
+MGI:95716	Gja5	gap junction protein, alpha 5	3		regulation of ventricular cardiac muscle cell membrane repolarization			IMP	MGI:2445238 	J:110256 	
+MGI:96662	Kcna5	potassium voltage-gated channel, shaker-related subfamily, member 5	6		membrane repolarization during atrial cardiac muscle cell action potential			ISO	P22460 	J:164563 	
+MGI:96662	Kcna5	potassium voltage-gated channel, shaker-related subfamily, member 5	6		membrane repolarization during bundle of His cell action potential			ISO	P22460 	J:164563 	
+MGI:96662	Kcna5	potassium voltage-gated channel, shaker-related subfamily, member 5	6		membrane repolarization during SA node cell action potential			ISO	P22460 	J:164563 	
+MGI:96662	Kcna5	potassium voltage-gated channel, shaker-related subfamily, member 5	6		regulation of atrial cardiac muscle cell membrane repolarization			ISO	P22460 	J:164563 	
+MGI:1928743	Kcnd3	potassium voltage-gated channel, Shal-related family, member 3	3		membrane repolarization			ISO	Q9UK17 	J:164563 	
+MGI:1928743	Kcnd3	potassium voltage-gated channel, Shal-related family, member 3	3		ventricular cardiac muscle cell membrane repolarization			ISO	Q9UK17 	J:164563 	
+MGI:96673	Kcne1	potassium voltage-gated channel, Isk-related subfamily, member 1	16		membrane repolarization during action potential			IBA	PTN001445835 	J:265628 	
+MGI:96673	Kcne1	potassium voltage-gated channel, Isk-related subfamily, member 1	16		regulation of ventricular cardiac muscle cell membrane repolarization			IBA	PTN001445835 	J:265628 	
+MGI:1913490	Kcne1l	potassium voltage-gated channel, Isk-related family, member 1-like, pseudogene	X		membrane repolarization during action potential			IBA	PTN001445835 	J:265628 	
+MGI:1913490	Kcne1l	potassium voltage-gated channel, Isk-related family, member 1-like, pseudogene	X		regulation of atrial cardiac muscle cell membrane repolarization			ISO	Q9UJ90 	J:164563 	
+MGI:1913490	Kcne1l	potassium voltage-gated channel, Isk-related family, member 1-like, pseudogene	X		regulation of membrane repolarization			ISO	Q9UJ90 	J:164563 	
+MGI:1913490	Kcne1l	potassium voltage-gated channel, Isk-related family, member 1-like, pseudogene	X		regulation of ventricular cardiac muscle cell membrane repolarization			IBA	PTN001445835 	J:265628 	
+MGI:1913490	Kcne1l	potassium voltage-gated channel, Isk-related family, member 1-like, pseudogene	X		regulation of ventricular cardiac muscle cell membrane repolarization			ISO	Q9UJ90 	J:164563 	
+MGI:1891123	Kcne2	potassium voltage-gated channel, Isk-related subfamily, gene 2	16		membrane repolarization			ISO	RGD:621383 	J:155856 	
+MGI:1891123	Kcne2	potassium voltage-gated channel, Isk-related subfamily, gene 2	16		membrane repolarization			ISO	Q9Y6J6 	J:164563 	
+MGI:1891123	Kcne2	potassium voltage-gated channel, Isk-related subfamily, gene 2	16		membrane repolarization during action potential			IBA	PTN001445835 	J:265628 	
+MGI:1891123	Kcne2	potassium voltage-gated channel, Isk-related subfamily, gene 2	16		membrane repolarization during action potential			ISO	RGD:621383 	J:155856 	
+MGI:1891123	Kcne2	potassium voltage-gated channel, Isk-related subfamily, gene 2	16		membrane repolarization during action potential			ISO	Q9Y6J6 	J:164563 	
+MGI:1891123	Kcne2	potassium voltage-gated channel, Isk-related subfamily, gene 2	16		membrane repolarization during ventricular cardiac muscle cell action potential			ISO	Q9Y6J6 	J:164563 	
+MGI:1891123	Kcne2	potassium voltage-gated channel, Isk-related subfamily, gene 2	16		regulation of membrane repolarization			ISO	RGD:621383 	J:155856 	
+MGI:1891123	Kcne2	potassium voltage-gated channel, Isk-related subfamily, gene 2	16		regulation of membrane repolarization			ISO	Q9Y6J6 	J:164563 	
+MGI:1891123	Kcne2	potassium voltage-gated channel, Isk-related subfamily, gene 2	16		regulation of ventricular cardiac muscle cell membrane repolarization			IBA	PTN001445835 	J:265628 	
+MGI:1891123	Kcne2	potassium voltage-gated channel, Isk-related subfamily, gene 2	16		regulation of ventricular cardiac muscle cell membrane repolarization	regulates a function/process that happens in regular ventricular cardiac myocyte		IMP	MGI:3699589 	J:140247 	
+MGI:1891123	Kcne2	potassium voltage-gated channel, Isk-related subfamily, gene 2	16		regulation of ventricular cardiac muscle cell membrane repolarization			ISO	Q9Y6J6 	J:164563 	
+MGI:1891124	Kcne3	potassium voltage-gated channel, Isk-related subfamily, gene 3	7		membrane repolarization during action potential			IBA	PTN001445835 	J:265628 	
+MGI:1891124	Kcne3	potassium voltage-gated channel, Isk-related subfamily, gene 3	7		negative regulation of membrane repolarization during ventricular cardiac muscle cell action potential			ISO	Q9Y6H6 	J:164563 	
+MGI:1891124	Kcne3	potassium voltage-gated channel, Isk-related subfamily, gene 3	7		regulation of ventricular cardiac muscle cell membrane repolarization			IBA	PTN001445835 	J:265628 	
+MGI:1891125	Kcne4	potassium voltage-gated channel, Isk-related subfamily, gene 4	1		membrane repolarization during action potential			IBA	PTN001445835 	J:265628 	
+MGI:1891125	Kcne4	potassium voltage-gated channel, Isk-related subfamily, gene 4	1		regulation of ventricular cardiac muscle cell membrane repolarization			IBA	PTN001445835 	J:265628 	
+MGI:1341722	Kcnh2	potassium voltage-gated channel, subfamily H (eag-related), member 2	5		membrane repolarization			ISO	Q12809 	J:164563 	
+MGI:1341722	Kcnh2	potassium voltage-gated channel, subfamily H (eag-related), member 2	5		membrane repolarization during action potential			ISO	Q12809 	J:164563 	
+MGI:1341722	Kcnh2	potassium voltage-gated channel, subfamily H (eag-related), member 2	5		membrane repolarization during cardiac muscle cell action potential			ISO	Q12809 	J:164563 	
+MGI:1341722	Kcnh2	potassium voltage-gated channel, subfamily H (eag-related), member 2	5		membrane repolarization during ventricular cardiac muscle cell action potential			ISO	Q12809 	J:164563 	
+MGI:1341722	Kcnh2	potassium voltage-gated channel, subfamily H (eag-related), member 2	5		regulation of membrane repolarization			ISO	Q12809 	J:164563 	
+MGI:1341722	Kcnh2	potassium voltage-gated channel, subfamily H (eag-related), member 2	5		regulation of ventricular cardiac muscle cell membrane repolarization	regulates a function/process that happens in ventricle cardiac muscle,regulates a function/process that happens in cardiac muscle cell		IDA		J:63073 	
+MGI:1341722	Kcnh2	potassium voltage-gated channel, subfamily H (eag-related), member 2	5		regulation of ventricular cardiac muscle cell membrane repolarization			ISO	Q12809 	J:164563 	
+MGI:2135916	Kcnip2	Kv channel-interacting protein 2	19		membrane repolarization			ISO	Q9NS61 	J:164563 	
+MGI:104744	Kcnj2	potassium inwardly-rectifying channel, subfamily J, member 2	11		membrane repolarization during action potential			ISO	P63252 	J:164563 	
+MGI:104744	Kcnj2	potassium inwardly-rectifying channel, subfamily J, member 2	11		membrane repolarization during cardiac muscle cell action potential			ISO	P63252 	J:164563 	
+MGI:104744	Kcnj2	potassium inwardly-rectifying channel, subfamily J, member 2	11		regulation of membrane repolarization			ISO	P63252 	J:164563 	
+MGI:104755	Kcnj5	potassium inwardly-rectifying channel, subfamily J, member 5	9		membrane repolarization during atrial cardiac muscle cell action potential			ISO	P48544 	J:164563 	
+MGI:1100508	Kcnj8	potassium inwardly-rectifying channel, subfamily J, member 8	6		membrane repolarization during ventricular cardiac muscle cell action potential			ISO	Q15842 	J:164563 	
+MGI:2153182	Kcnn2	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 2	18		membrane repolarization during atrial cardiac muscle cell action potential			IMP		J:176552 	
+MGI:108083	Kcnq1	potassium voltage-gated channel, subfamily Q, member 1	7		membrane repolarization			IMP		J:104389 	
+MGI:108083	Kcnq1	potassium voltage-gated channel, subfamily Q, member 1	7		membrane repolarization during action potential			ISO	P51787 	J:164563 	
+MGI:108083	Kcnq1	potassium voltage-gated channel, subfamily Q, member 1	7		membrane repolarization during atrial cardiac muscle cell action potential			ISO	P51787 	J:164563 	
+MGI:108083	Kcnq1	potassium voltage-gated channel, subfamily Q, member 1	7		membrane repolarization during cardiac muscle cell action potential			ISO	P51787 	J:164563 	
+MGI:108083	Kcnq1	potassium voltage-gated channel, subfamily Q, member 1	7		membrane repolarization during ventricular cardiac muscle cell action potential			IBA	PTN002609969 	J:265628 	
+MGI:108083	Kcnq1	potassium voltage-gated channel, subfamily Q, member 1	7		membrane repolarization during ventricular cardiac muscle cell action potential			ISO	P51787 	J:164563 	
+MGI:108083	Kcnq1	potassium voltage-gated channel, subfamily Q, member 1	7		regulation of atrial cardiac muscle cell membrane repolarization			ISO	P51787 	J:164563 	
+MGI:108083	Kcnq1	potassium voltage-gated channel, subfamily Q, member 1	7		regulation of membrane repolarization			ISO	P51787 	J:164563 	
+MGI:108083	Kcnq1	potassium voltage-gated channel, subfamily Q, member 1	7		regulation of ventricular cardiac muscle cell membrane repolarization			ISO	P51787 	J:164563 	
+MGI:1933754	Nedd4l	neural precursor cell expressed, developmentally down-regulated gene 4-like	18		regulation of membrane repolarization			ISO	Q96PU5 	J:164563 	
+MGI:97367	Nppa	natriuretic peptide type A	4		regulation of atrial cardiac muscle cell membrane repolarization			ISO	P01160 	J:164563 	
+MGI:2684989	Rnf207	ring finger protein 207	4		positive regulation of voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization			ISO	Q6ZRF8 	J:164563 	
+MGI:98247	Scn1b	sodium channel, voltage-gated, type I, beta	7		regulation of ventricular cardiac muscle cell membrane repolarization			IMP		J:127606 	
+MGI:2687406	Scn4b	sodium channel, type IV, beta	9		regulation of ventricular cardiac muscle cell membrane repolarization			ISO	Q8IWT1 	J:164563 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		regulation of atrial cardiac muscle cell membrane repolarization			ISO	Q14524 	J:164563 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		regulation of ventricular cardiac muscle cell membrane repolarization			ISO	Q14524 	J:164563 	
+MGI:101772	Snta1	syntrophin, acidic 1	2		regulation of ventricular cardiac muscle cell membrane repolarization			ISO	Q13424 	J:164563 	
+MGI:1337100	Wdr1	WD repeat domain 1	5		regulation of ventricular cardiac muscle cell membrane repolarization			IMP		J:211364 	
+MGI:894689	Ywhae	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, epsilon polypeptide	11		regulation of membrane repolarization			ISO	P62258 	J:164563 	
+MGI:1890508	Zmpste24	zinc metallopeptidase, STE24	4		regulation of ventricular cardiac muscle cell membrane repolarization			IMP	MGI:2180033 	J:238852 	
+

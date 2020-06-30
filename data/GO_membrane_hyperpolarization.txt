@@ -1,0 +1,22 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:87963	Agt	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)	8		positive regulation of membrane hyperpolarization			ISO	P01019 	J:164563 	
+MGI:88105	Atp1a1	ATPase, Na+/K+ transporting, alpha 1 polypeptide	3		membrane hyperpolarization			ISO	RGD:2167 	J:155856 	
+MGI:103307	Cacnb3	calcium channel, voltage-dependent, beta 3 subunit	15		regulation of membrane hyperpolarization			ISO	RGD:2248 	J:155856 	
+MGI:1316660	Cacng2	calcium channel, voltage-dependent, gamma subunit 2	15		membrane hyperpolarization	happens in neocortex		IMP	MGI:1856548 	J:40687 	
+MGI:96544	Casp1	caspase 1	9		membrane hyperpolarization			IMP		J:192731 	
+MGI:88388	Cftr	cystic fibrosis transmembrane conductance regulator	6		membrane hyperpolarization			IMP		J:185780 	
+MGI:88439	Cntf	ciliary neurotrophic factor	19		membrane hyperpolarization			ISO	RGD:2370 	J:155856 	
+MGI:2142523	Crtc1	CREB regulated transcription coactivator 1	8		negative regulation of membrane hyperpolarization	happens in hippocampal neuron,happens in dentate gyrus		IDA		J:193188 	
+MGI:1096392	Hcn1	hyperpolarization activated cyclic nucleotide gated potassium channel 1	13		regulation of membrane hyperpolarization			ISO	RGD:620688 	J:155856 	
+MGI:96662	Kcna5	potassium voltage-gated channel, shaker-related subfamily, member 5	6		membrane hyperpolarization			ISO	P22460 	J:164563 	
+MGI:1194504	Kcnj10	potassium inwardly-rectifying channel, subfamily J, member 10	1		membrane hyperpolarization			ISO	RGD:61822 	J:155856 	
+MGI:1309503	Kcnq2	potassium voltage-gated channel, subfamily Q, member 2	2		membrane hyperpolarization			IMP	MGI:3604594 	J:14288 	
+MGI:1336181	Kcnq3	potassium voltage-gated channel, subfamily Q, member 3	15		membrane hyperpolarization			IMP	MGI:3830636 	J:142688 	
+MGI:2442265	Kctd7	potassium channel tetramerisation domain containing 7	5		membrane hyperpolarization			IBA	PTN002494768 	J:265628 	
+MGI:2442265	Kctd7	potassium channel tetramerisation domain containing 7	5		membrane hyperpolarization			IMP		J:252002 	
+MGI:2135637	Park7	Parkinson disease (autosomal recessive, early onset) 7	4		membrane hyperpolarization			IMP	MGI:3579140 	J:111114 	
+MGI:97602	Prkcz	protein kinase C, zeta	4		membrane hyperpolarization			ISO	RGD:3399 	J:155856 	
+MGI:107181	Slc26a3	solute carrier family 26, member 3	12		membrane hyperpolarization			IMP		J:185780 	
+MGI:98352	Sod2	superoxide dismutase 2, mitochondrial	17		negative regulation of membrane hyperpolarization			ISO	RGD:3732 	J:155856 	
+MGI:109524	Trpc5	transient receptor potential cation channel, subfamily C, member 5	X		regulation of membrane hyperpolarization			ISO	RGD:619787 	J:155856 	
+

@@ -1,0 +1,138 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:1349215	Abcd1	ATP-binding cassette, sub-family D (ALD), member 1	X		regulation of mitochondrial depolarization			IMP		J:234537 	
+MGI:99402	Adora2a	adenosine A2a receptor	10		membrane depolarization			ISO	RGD:2049 	J:155856 	
+MGI:87998	Alox12	arachidonate 12-lipoxygenase	11		positive regulation of mitochondrial depolarization			ISO	RGD:1311159 	J:155856 	
+MGI:88026	Ank3	ankyrin 3, epithelial	10		positive regulation of membrane depolarization during cardiac muscle cell action potential			ISO	RGD:620157 	J:155856 	
+MGI:1196457	Atpif1	ATPase inhibitory factor 1	4		mitochondrial depolarization			ISO	Q9UII2 	J:164563 	
+MGI:88127	B2m	beta-2 microglobulin	2		regulation of membrane depolarization			ISO	P61769 	J:164563 	
+MGI:2387588	Best2	bestrophin 2	8		membrane depolarization			IDA		J:127173 	
+MGI:1858494	Bok	BCL2-related ovarian killer	1		negative regulation of mitochondrial depolarization			IMP		J:235305 	
+MGI:109482	Cacna1a	calcium channel, voltage-dependent, P/Q type, alpha 1A subunit	8		membrane depolarization	happens in hippocampus CA3,happens in pyramidal neuron		IMP	MGI:1856209 	J:18102 	
+MGI:109482	Cacna1a	calcium channel, voltage-dependent, P/Q type, alpha 1A subunit	8		membrane depolarization	happens in dorsal root ganglion,happens in neuron		IMP	MGI:1856210 	J:72853 	
+MGI:109482	Cacna1a	calcium channel, voltage-dependent, P/Q type, alpha 1A subunit	8		membrane depolarization	happens in cerebellum,happens in Purkinje cell		IMP	MGI:1856211 	J:63634 	
+MGI:103013	Cacna1c	calcium channel, voltage-dependent, L type, alpha 1C subunit	6		membrane depolarization during atrial cardiac muscle cell action potential			ISO	Q13936 	J:164563 	
+MGI:103013	Cacna1c	calcium channel, voltage-dependent, L type, alpha 1C subunit	6		membrane depolarization during AV node cell action potential			ISO	Q13936 	J:164563 	
+MGI:103013	Cacna1c	calcium channel, voltage-dependent, L type, alpha 1C subunit	6		membrane depolarization during cardiac muscle cell action potential			ISO	Q13936 	J:164563 	
+MGI:88293	Cacna1d	calcium channel, voltage-dependent, L type, alpha 1D subunit	14		membrane depolarization during SA node cell action potential	happens in sinoatrial node,happens in cardiac pacemaker cell of sinoatrial node		IMP	MGI:2180141 	J:99822 	
+MGI:88293	Cacna1d	calcium channel, voltage-dependent, L type, alpha 1D subunit	14		membrane depolarization during SA node cell action potential			ISO	Q01668 	J:164563 	
+MGI:1201678	Cacna1g	calcium channel, voltage-dependent, T type, alpha 1G subunit	11		membrane depolarization during action potential			IBA	PTN000004140 	J:265628 	
+MGI:1201678	Cacna1g	calcium channel, voltage-dependent, T type, alpha 1G subunit	11		membrane depolarization during AV node cell action potential			IMP		J:122634 	
+MGI:1201678	Cacna1g	calcium channel, voltage-dependent, T type, alpha 1G subunit	11		membrane depolarization during SA node cell action potential			IMP		J:122634 	
+MGI:1201678	Cacna1g	calcium channel, voltage-dependent, T type, alpha 1G subunit	11		regulation of atrial cardiac muscle cell membrane depolarization	regulates a function/process that happens in sinoatrial node		IMP	MGI:2182962 	J:122634 	
+MGI:1928842	Cacna1h	calcium channel, voltage-dependent, T type, alpha 1H subunit	17		membrane depolarization during action potential			IBA	PTN000004140 	J:265628 	
+MGI:2178051	Cacna1i	calcium channel, voltage-dependent, alpha 1I subunit	15		membrane depolarization during action potential			IBA	PTN000004140 	J:265628 	
+MGI:88295	Cacna2d1	calcium channel, voltage-dependent, alpha2/delta subunit 1	5		membrane depolarization during bundle of His cell action potential			ISO	P54289 	J:164563 	
+MGI:894644	Cacnb2	calcium channel, voltage-dependent, beta 2 subunit	2		membrane depolarization during atrial cardiac muscle cell action potential			ISO	Q08289 	J:164563 	
+MGI:894644	Cacnb2	calcium channel, voltage-dependent, beta 2 subunit	2		membrane depolarization during AV node cell action potential			ISO	Q08289 	J:164563 	
+MGI:1316660	Cacng2	calcium channel, voltage-dependent, gamma subunit 2	15		membrane depolarization	happens in neocortex		IMP	MGI:1856548 	J:40687 	
+MGI:1341265	Camk2d	calcium/calmodulin-dependent protein kinase II, delta	3		regulation of membrane depolarization			ISO	Q13557 	J:164563 	
+MGI:96544	Casp1	caspase 1	9		mitochondrial depolarization			IMP		J:192731 	
+MGI:102709	Cav1	caveolin 1, caveolae protein	6		membrane depolarization	happens in cerebral artery,happens in smooth muscle cell		IMP	MGI:2180364 	J:120603 	
+MGI:107570	Cav3	caveolin 3	6		negative regulation of membrane depolarization during cardiac muscle cell action potential	happens in regular ventricular cardiac myocyte,happens in UBERON:0007221		IMP		J:217301 	
+MGI:107570	Cav3	caveolin 3	6		regulation of membrane depolarization during cardiac muscle cell action potential			IBA	PTN000090184 	J:265628 	
+MGI:107570	Cav3	caveolin 3	6		regulation of membrane depolarization during cardiac muscle cell action potential			ISO	P56539 	J:164563 	
+MGI:107570	Cav3	caveolin 3	6		regulation of ventricular cardiac muscle cell membrane depolarization			ISO	P56539 	J:164563 	
+MGI:88297	Cck	cholecystokinin	9		positive regulation of mitochondrial depolarization			ISO	RGD:2288 	J:155856 	
+MGI:104738	Cdkn2a	cyclin dependent kinase inhibitor 2A	4		mitochondrial depolarization			ISO	Q8N726 	J:164563 	
+MGI:88388	Cftr	cystic fibrosis transmembrane conductance regulator	6	NOT	regulation of membrane depolarization			IMP		J:221546 	
+MGI:87888	Chrna4	cholinergic receptor, nicotinic, alpha polypeptide 4	2		membrane depolarization			IGI	MGI:87891 	J:99085 	
+MGI:87888	Chrna4	cholinergic receptor, nicotinic, alpha polypeptide 4	2		membrane depolarization	happens in midbrain,happens in dopaminergic neuron|happens in midbrain,happens in GABAergic neuron		IMP	MGI:1926251 	J:109365 	
+MGI:87888	Chrna4	cholinergic receptor, nicotinic, alpha polypeptide 4	2		membrane depolarization	happens in corpus striatum,happens in dopaminergic neuron		IMP	MGI:1926251 	J:85306 	
+MGI:87888	Chrna4	cholinergic receptor, nicotinic, alpha polypeptide 4	2		membrane depolarization	happens in midbrain,happens in dopaminergic neuron		IMP	MGI:2158758 	J:67863 	
+MGI:106213	Chrna6	cholinergic receptor, nicotinic, alpha polypeptide 6	8		membrane depolarization	happens in corpus striatum,happens in dopaminergic neuron		IMP	MGI:2179133 	J:85306 	
+MGI:87891	Chrnb2	cholinergic receptor, nicotinic, beta polypeptide 2 (neuronal)	3		membrane depolarization	happens in midbrain,happens in dopaminergic neuron|happens in midbrain,happens in GABAergic neuron		IMP	MGI:1926253 	J:109365 	
+MGI:88436	Cnga1	cyclic nucleotide gated channel alpha 1	5		membrane depolarization			ISO	RGD:621815 	J:155856 	
+MGI:108040	Cnga2	cyclic nucleotide gated channel alpha 2	X		membrane depolarization			ISO	RGD:2367 	J:155856 	
+MGI:94872	Dcn	decorin	10		positive regulation of mitochondrial depolarization			ISO	P07585 	J:73065 	
+MGI:95283	Edn1	endothelin 1	13		membrane depolarization			ISO	RGD:2532 	J:155856 	
+MGI:109183	Fgf12	fibroblast growth factor 12	16		regulation of membrane depolarization			ISO	RGD:620163 	J:155856 	
+MGI:1298387	Fhl1	four and a half LIM domains 1	X		regulation of membrane depolarization			ISO	Q13642 	J:164563 	
+MGI:104990	Gclc	glutamate-cysteine ligase, catalytic subunit	9		regulation of mitochondrial depolarization			IGI	MGI:104995 	J:91536 	
+MGI:104995	Gclm	glutamate-cysteine ligase, modifier subunit	3		regulation of mitochondrial depolarization			IGI	MGI:104990 	J:91536 	
+MGI:95713	Gja1	gap junction protein, alpha 1	10		regulation of atrial cardiac muscle cell membrane depolarization			IMP	MGI:1857177 	J:110256 	
+MGI:95713	Gja1	gap junction protein, alpha 1	10		regulation of ventricular cardiac muscle cell membrane depolarization			IGI	MGI:95716 	J:110256 	
+MGI:95713	Gja1	gap junction protein, alpha 1	10		regulation of ventricular cardiac muscle cell membrane depolarization			IMP	MGI:1857177 	J:39599 J:110256 	
+MGI:95716	Gja5	gap junction protein, alpha 5	3		regulation of atrial cardiac muscle cell membrane depolarization			IMP	MGI:2445238 	J:46429 J:110256 J:117425 	
+MGI:95716	Gja5	gap junction protein, alpha 5	3		regulation of atrial cardiac muscle cell membrane depolarization			ISO	P36382 	J:164563 	
+MGI:95716	Gja5	gap junction protein, alpha 5	3		regulation of membrane depolarization during cardiac muscle cell action potential			IMP	MGI:2445238 	J:46429 	
+MGI:95716	Gja5	gap junction protein, alpha 5	3		regulation of ventricular cardiac muscle cell membrane depolarization			IGI	MGI:95713 	J:110256 	
+MGI:95716	Gja5	gap junction protein, alpha 5	3		regulation of ventricular cardiac muscle cell membrane depolarization			IMP	MGI:2445238 	J:46429 J:117425 	
+MGI:95791	Got1	glutamic-oxaloacetic transaminase 1, soluble	19		negative regulation of mitochondrial depolarization			ISO	RGD:2721 	J:155856 	
+MGI:1289257	Gpd1l	glycerol-3-phosphate dehydrogenase 1-like	9		regulation of ventricular cardiac muscle cell membrane depolarization			ISO	Q8N335 	J:164563 	
+MGI:95814	Grik1	glutamate receptor, ionotropic, kainate 1	16		membrane depolarization	happens in amygdala,happens in GABAergic neuron		IMP	MGI:2176347 	J:129352 	
+MGI:1096392	Hcn1	hyperpolarization activated cyclic nucleotide gated potassium channel 1	13		regulation of membrane depolarization			ISO	RGD:620688 	J:155856 	
+MGI:1298209	Hcn4	hyperpolarization-activated, cyclic nucleotide-gated K+ 4	9		membrane depolarization during SA node cell action potential			ISO	Q9Y3Q4 	J:164563 	
+MGI:1298209	Hcn4	hyperpolarization-activated, cyclic nucleotide-gated K+ 4	9		regulation of membrane depolarization			ISO	Q9Y3Q4 	J:164563 	
+MGI:2676364	Hsh2d	hematopoietic SH2 domain containing	8		negative regulation of mitochondrial depolarization			IDA		J:96984 	
+MGI:96646	Jun	jun proto-oncogene	4		membrane depolarization			ISO	RGD:2943 	J:155856 	
+MGI:1341722	Kcnh2	potassium voltage-gated channel, subfamily H (eag-related), member 2	5		membrane depolarization during action potential			ISO	Q12809 	J:164563 	
+MGI:96683	Kdr	kinase insert domain protein receptor	5		positive regulation of mitochondrial depolarization			ISO	P35968 	J:73065 	
+MGI:1913975	Lrrk2	leucine-rich repeat kinase 2	15		regulation of mitochondrial depolarization			ISO	Q5S007 	J:164563 	
+MGI:1929671	Mllt11	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 11	3		positive regulation of mitochondrial depolarization			IBA	PTN002692749 	J:265628 	
+MGI:1929671	Mllt11	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 11	3		positive regulation of mitochondrial depolarization			ISO	Q13015 	J:164563 	
+MGI:1202864	Myoc	myocilin	1		positive regulation of mitochondrial depolarization			ISO	Q99972 	J:164563 	
+MGI:1933754	Nedd4l	neural precursor cell expressed, developmentally down-regulated gene 4-like	18		regulation of membrane depolarization			ISO	Q96PU5 	J:164563 	
+MGI:97323	Ngfr	nerve growth factor receptor (TNFR superfamily, member 16)	11		negative regulation of mitochondrial depolarization			ISO	RGD:3177 	J:155856 	
+MGI:1891708	Npff	neuropeptide FF-amide peptide precursor	15		regulation of membrane depolarization			ISO	RGD:62033 	J:155856 	
+MGI:97386	Ntsr1	neurotensin receptor 1	2		regulation of membrane depolarization			ISO	RGD:1306076 	J:155856 	
+MGI:1932139	Oga	O-GlcNAcase	19		positive regulation of mitochondrial depolarization			ISO	RGD:621077 	J:155856 	
+MGI:1338859	P2rx4	purinergic receptor P2X, ligand-gated ion channel 4	5		membrane depolarization			ISO	Q99571 	J:164563 	
+MGI:1339957	P2rx7	purinergic receptor P2X, ligand-gated ion channel, 7	5		membrane depolarization			ISO	Q99572 	J:164563 	
+MGI:1339957	P2rx7	purinergic receptor P2X, ligand-gated ion channel, 7	5		positive regulation of mitochondrial depolarization	regulates a function/process that happens in submandibular gland		IMP	MGI:2386080 	J:102387 	
+MGI:2135637	Park7	Parkinson disease (autosomal recessive, early onset) 7	4		membrane depolarization			IMP	MGI:3579140 	J:111114 	
+MGI:1340806	Parp1	poly (ADP-ribose) polymerase family, member 1	1		positive regulation of mitochondrial depolarization			ISO	RGD:2053 	J:155856 	
+MGI:1930009	Ppp2r3c	protein phosphatase 2, regulatory subunit B'', gamma	12		regulation of mitochondrial depolarization			IMP	MGI:3759678 	J:100706 	
+MGI:97602	Prkcz	protein kinase C, zeta	4		membrane depolarization			ISO	RGD:3399 	J:155856 	
+MGI:105307	Ptpn3	protein tyrosine phosphatase, non-receptor type 3	4		regulation of membrane depolarization during action potential			ISO	P26045 	J:164563 	
+MGI:101849	Rack1	receptor for activated C kinase 1	11		positive regulation of mitochondrial depolarization			ISO	P63244 	J:164563 	
+MGI:1889073	Rangrf	RAN guanine nucleotide release factor	11		regulation of membrane depolarization	happens in fetal cardiomyocyte		IMP		J:200449 	
+MGI:1889073	Rangrf	RAN guanine nucleotide release factor	11		regulation of membrane depolarization			ISO	Q9HD47 	J:164563 	
+MGI:1889073	Rangrf	RAN guanine nucleotide release factor	11		regulation of membrane depolarization during cardiac muscle cell action potential			ISO	Q9HD47 	J:164563 	
+MGI:98246	Scn1a	sodium channel, voltage-gated, type I, alpha	2		membrane depolarization during action potential			IBA	PTN000004140 	J:265628 	
+MGI:98247	Scn1b	sodium channel, voltage-gated, type I, beta	7		membrane depolarization			ISO	Q07699 	J:164563 	
+MGI:98247	Scn1b	sodium channel, voltage-gated, type I, beta	7		membrane depolarization during cardiac muscle cell action potential			IMP		J:127606 	
+MGI:98247	Scn1b	sodium channel, voltage-gated, type I, beta	7		membrane depolarization during Purkinje myocyte cell action potential			ISO	Q07699 	J:164563 	
+MGI:98247	Scn1b	sodium channel, voltage-gated, type I, beta	7		regulation of atrial cardiac muscle cell membrane depolarization			ISO	Q07699 	J:164563 	
+MGI:98248	Scn2a	sodium channel, voltage-gated, type II, alpha	2		membrane depolarization during action potential			IBA	PTN000004140 	J:265628 	
+MGI:106921	Scn2b	sodium channel, voltage-gated, type II, beta	9		membrane depolarization during cardiac muscle cell action potential			ISO	O60939 	J:164563 	
+MGI:106921	Scn2b	sodium channel, voltage-gated, type II, beta	9		regulation of atrial cardiac muscle cell membrane depolarization			ISO	O60939 	J:164563 	
+MGI:98249	Scn3a	sodium channel, voltage-gated, type III, alpha	2		membrane depolarization during action potential			IBA	PTN000004140 	J:265628 	
+MGI:1918882	Scn3b	sodium channel, voltage-gated, type III, beta	9		membrane depolarization			ISO	Q9NY72 	J:164563 	
+MGI:1918882	Scn3b	sodium channel, voltage-gated, type III, beta	9		membrane depolarization during action potential			ISO	Q9NY72 	J:164563 	
+MGI:1918882	Scn3b	sodium channel, voltage-gated, type III, beta	9		membrane depolarization during cardiac muscle cell action potential			ISO	Q9NY72 	J:164563 	
+MGI:1918882	Scn3b	sodium channel, voltage-gated, type III, beta	9		regulation of atrial cardiac muscle cell membrane depolarization			IMP		J:177246 	
+MGI:1918882	Scn3b	sodium channel, voltage-gated, type III, beta	9		regulation of atrial cardiac muscle cell membrane depolarization			ISO	Q9NY72 	J:164563 	
+MGI:1918882	Scn3b	sodium channel, voltage-gated, type III, beta	9		regulation of ventricular cardiac muscle cell membrane depolarization			ISO	Q9NY72 	J:164563 	
+MGI:98250	Scn4a	sodium channel, voltage-gated, type IV, alpha	11		membrane depolarization during action potential			IBA	PTN000004140 	J:265628 	
+MGI:2687406	Scn4b	sodium channel, type IV, beta	9		membrane depolarization during cardiac muscle cell action potential			ISO	Q8IWT1 	J:164563 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		membrane depolarization			ISO	Q14524 	J:164563 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		membrane depolarization during action potential			IBA	PTN000004140 	J:265628 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		membrane depolarization during action potential			ISO	Q14524 	J:164563 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		membrane depolarization during atrial cardiac muscle cell action potential			ISO	Q14524 	J:164563 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		membrane depolarization during AV node cell action potential			ISO	Q14524 	J:164563 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		membrane depolarization during bundle of His cell action potential			ISO	Q14524 	J:164563 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		membrane depolarization during cardiac muscle cell action potential			ISO	Q14524 	J:164563 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		membrane depolarization during Purkinje myocyte cell action potential			ISO	Q14524 	J:164563 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		membrane depolarization during SA node cell action potential			ISO	Q14524 	J:164563 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		regulation of atrial cardiac muscle cell membrane depolarization			IBA	PTN001295035 	J:265628 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		regulation of atrial cardiac muscle cell membrane depolarization			ISO	Q14524 	J:164563 	
+MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	9		regulation of ventricular cardiac muscle cell membrane depolarization			ISO	Q14524 	J:164563 	
+MGI:102965	Scn7a	sodium channel, voltage-gated, type VII, alpha	2		membrane depolarization during action potential			IBA	PTN000004140 	J:265628 	
+MGI:103169	Scn8a	sodium channel, voltage-gated, type VIII, alpha	15		membrane depolarization during action potential			IBA	PTN000004140 	J:265628 	
+MGI:107636	Scn9a	sodium channel, voltage-gated, type IX, alpha	2		membrane depolarization during action potential			IBA	PTN000004140 	J:265628 	
+MGI:108029	Scn10a	sodium channel, voltage-gated, type X, alpha	9		membrane depolarization during action potential			IBA	PTN000004140 	J:265628 	
+MGI:108029	Scn10a	sodium channel, voltage-gated, type X, alpha	9		regulation of atrial cardiac muscle cell membrane depolarization			IMP	MGI:2180183 	J:166572 	
+MGI:108029	Scn10a	sodium channel, voltage-gated, type X, alpha	9		regulation of atrial cardiac muscle cell membrane depolarization			ISO	Q9Y5Y9 	J:164563 	
+MGI:1345149	Scn11a	sodium channel, voltage-gated, type XI, alpha	9		membrane depolarization during action potential			IBA	PTN000004140 	J:265628 	
+MGI:1918903	Shtn1	shootin 1	19		membrane depolarization			ISO	EF055485 	J:115005 	
+MGI:1933549	Slmap	sarcolemma associated protein	14		regulation of membrane depolarization during cardiac muscle cell action potential			ISO	Q14BN4 	J:164563 	
+MGI:1100518	Smad7	SMAD family member 7	18		regulation of ventricular cardiac muscle cell membrane depolarization			IC	GO:0055010 	J:145777 	
+MGI:98397	Src	Rous sarcoma oncogene	2		negative regulation of mitochondrial depolarization			ISO	P12931 	J:164563 	
+MGI:1915917	Trpm4	transient receptor potential cation channel, subfamily M, member 4	7		membrane depolarization during AV node cell action potential			ISO	Q8TD43 	J:164563 	
+MGI:1915917	Trpm4	transient receptor potential cation channel, subfamily M, member 4	7		membrane depolarization during bundle of His cell action potential			ISO	Q8TD43 	J:164563 	
+MGI:1915917	Trpm4	transient receptor potential cation channel, subfamily M, member 4	7		membrane depolarization during Purkinje myocyte cell action potential			ISO	Q8TD43 	J:164563 	
+MGI:1915917	Trpm4	transient receptor potential cation channel, subfamily M, member 4	7		positive regulation of regulation of vascular associated smooth muscle cell membrane depolarization			ISO	RGD:620244 	J:155856 	
+MGI:88222	Tspo	translocator protein	15		positive regulation of mitochondrial depolarization			ISO	RGD:2228 	J:155856 	
+MGI:109194	Ywhah	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, eta polypeptide	5		membrane depolarization during action potential			ISO	Q04917 	J:164563 	
+MGI:109194	Ywhah	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, eta polypeptide	5		membrane depolarization during action potential			ISS	Q04917 	J:122624 	
+

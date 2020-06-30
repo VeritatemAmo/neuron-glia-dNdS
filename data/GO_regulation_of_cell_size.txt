@@ -1,0 +1,301 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:1197518	Aatk	apoptosis-associated tyrosine kinase	11		negative regulation of axon extension	regulates a function/process that happens in neuron of cerebral cortex	PR:000035700	IGI	MGI:101764 	J:184851 	
+MGI:1197518	Aatk	apoptosis-associated tyrosine kinase	11		negative regulation of axon extension	regulates a function/process that happens in neuron of cerebral cortex	PR:000035700	IMP		J:184851 	
+MGI:1197518	Aatk	apoptosis-associated tyrosine kinase	11		negative regulation of axon extension	regulates a function/process that happens in neuron of cerebral cortex		IMP	MGI:5428170 	J:184851 	
+MGI:87859	Abl1	c-abl oncogene 1, non-receptor tyrosine kinase	2		regulation of axon extension			ISO	P00519 	J:164563 	
+MGI:1921367	Actr3	ARP3 actin-related protein 3	1		negative regulation of axon extension			ISO	RGD:71024 	J:155856 	
+MGI:87915	Ad	adult obesity and diabetes	7		negative regulation of cell size	regulates a function/process that happens in adipose tissue,regulates a function/process that happens in fat cell		IMP	MGI:87915 	J:6095 	
+MGI:87918	Add1	adducin 1 (alpha)	5		cell volume homeostasis	happens in platelet		IMP	MGI:3799499 	J:138919 	
+MGI:1338758	Adnp	activity-dependent neuroprotective protein	2		positive regulation of axon extension			ISO	RGD:71030 	J:155856 	
+MGI:105043	Ahr	aryl-hydrocarbon receptor	12		positive regulation of cell size			IMP		J:64483 	
+MGI:87986	Akt1	thymoma viral proto-oncogene 1	12		negative regulation of cell size			ISO	P47196 	J:103933 	
+MGI:1914855	Akt1s1	AKT1 substrate 1 (proline-rich)	7		negative regulation of cell size			ISO	Q96B36 	J:164563 	
+MGI:1345147	Akt3	thymoma viral proto-oncogene 3	1		positive regulation of cell size			IMP	MGI:3574346 	J:96823 	
+MGI:2139135	Anapc2	anaphase promoting complex subunit 2	2		positive regulation of axon extension			ISO	RGD:1305546 	J:155856 	
+MGI:2145890	Ano6	anoctamin 6	15		negative regulation of cell volume	happens in macrophage		IMP		J:220493 	
+MGI:2145890	Ano6	anoctamin 6	15		negative regulation of cell volume			ISO	Q4KMQ2 	J:164563 	
+MGI:88031	Anxa7	annexin A7	14		cellular water homeostasis	happens in erythrocyte		IMP	MGI:2159006 	J:91188 	
+MGI:88057	Apoe	apolipoprotein E	7		positive regulation of axon extension			ISO	RGD:2138 	J:155856 	
+MGI:103201	Aqp1	aquaporin 1	6		cell volume homeostasis			ISO	P29972 	J:164563 	
+MGI:1096865	Aqp2	aquaporin 2	15		cell volume homeostasis			ISO	RGD:2142 	J:155856 	
+MGI:107387	Aqp4	aquaporin 4	18		cellular water homeostasis			IDA		J:273546 	
+MGI:2159577	Arhgap4	Rho GTPase activating protein 4	X		negative regulation of axon extension			ISO	RGD:628901 	J:155856 	
+MGI:1332637	Arhgap5	Rho GTPase activating protein 5	12		regulation of cell size			IMP	MGI:2179998 	J:76484 	
+MGI:105368	Atp2b2	ATPase, Ca++ transporting, plasma membrane 2	6		regulation of cell size	regulates a function/process that happens in organ of Corti		IMP	MGI:1856799 	J:121326 	
+MGI:107653	Atp5g1	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit C1 (subunit 9)	11		positive regulation of axon extension			ISO	RGD:61933 	J:155856 	
+MGI:99400	Atp7a	ATPase, Cu++ transporting, alpha polypeptide	X		positive regulation of cell size			ISO	RGD:2179 	J:155856 	
+MGI:1859314	Barhl2	BarH like homeobox 2	5		regulation of axon extension			IMP		J:82674 	
+MGI:106190	Bcl11a	B cell CLL/lymphoma 11A (zinc finger protein)	11		negative regulation of collateral sprouting			ISO	Q9H165 	J:164563 	
+MGI:106190	Bcl11a	B cell CLL/lymphoma 11A (zinc finger protein)	11		positive regulation of collateral sprouting			ISO	Q9H165 	J:164563 	
+MGI:88145	Bdnf	brain derived neurotrophic factor	2	NOT	positive regulation of axon extension	happens in retinal ganglion cell		IMP		J:209132 	
+MGI:88145	Bdnf	brain derived neurotrophic factor	2		positive regulation of collateral sprouting	happens in retinal ganglion cell		IDA		J:209132 	
+MGI:88145	Bdnf	brain derived neurotrophic factor	2		positive regulation of collateral sprouting	happens in retinal ganglion cell		IMP		J:209132 	
+MGI:88145	Bdnf	brain derived neurotrophic factor	2		positive regulation of collateral sprouting			ISO	P23560 	J:164563 	
+MGI:88145	Bdnf	brain derived neurotrophic factor	2		regulation of axon extension			ISO	RGD:2202 	J:155856 	
+MGI:88145	Bdnf	brain derived neurotrophic factor	2		regulation of collateral sprouting	happens in retinal ganglion cell		IGI	MGI:2443199 	J:209132 	
+MGI:1095407	Bmpr2	bone morphogenetic protein receptor, type II (serine/threonine kinase)	1		positive regulation of axon extension involved in axon guidance	results in the morphogenesis of trigeminal nerve ophthalmic division		IMP	O35607 	J:206541 	
+MGI:3045252	C1qtnf9	C1q and tumor necrosis factor related protein 9	14		negative regulation of cell size	happens in fat cell		IDA		J:202772 	
+MGI:107570	Cav3	caveolin 3	6		negative regulation of cell size			ISO	P56539 	J:164563 	
+MGI:107182	Ccr5	chemokine (C-C motif) receptor 5	9		negative regulation of axon extension			ISO	RGD:620596 	J:155856 	
+MGI:99218	Cdh4	cadherin 4	2		positive regulation of axon extension	regulates a function/process that happens in forebrain		IDA		J:86369 	
+MGI:88357	Cdk4	cyclin-dependent kinase 4	10		positive regulation of cell size			ISO	RGD:621120 	J:155856 	
+MGI:101765	Cdk5	cyclin-dependent kinase 5	5		negative regulation of axon extension			IGI	MGI:1197518 	J:184851 	
+MGI:101764	Cdk5r1	cyclin-dependent kinase 5, regulatory subunit 1 (p35)	11		negative regulation of axon extension	regulates a function/process that happens in neuron of cerebral cortex		IGI	MGI:1197518 	J:184851 	
+MGI:2388268	Cdkl3	cyclin-dependent kinase-like 3	11		negative regulation of axon extension			IBA	PTN000624167 	J:265628 	
+MGI:2388268	Cdkl3	cyclin-dependent kinase-like 3	11		negative regulation of axon extension			IMP		J:164743 	
+MGI:2388268	Cdkl3	cyclin-dependent kinase-like 3	11		negative regulation of axon extension			ISO	Q9JM01 	J:73065 	
+MGI:1278336	Cdkl5	cyclin-dependent kinase-like 5	X		positive regulation of axon extension			IBA	PTN000624259 	J:265628 	
+MGI:1278336	Cdkl5	cyclin-dependent kinase-like 5	X		positive regulation of axon extension			ISO	RGD:2324133 	J:155856 	
+MGI:101757	Cfl1	cofilin 1, non-muscle	19		negative regulation of cell size			ISO	P45592 	J:103933 	
+MGI:1923749	Clasp2	CLIP associating protein 2	9		regulation of axon extension			ISO	O75122 	J:164563 	
+MGI:103555	Clcn3	chloride channel, voltage-sensitive 3	8		negative regulation of cell volume			ISO	P51790 	J:164563 	
+MGI:1349447	Cln8	ceroid-lipofuscinosis, neuronal 8	8		regulation of cell size	regulates a function/process that happens in retina,regulates a function/process that happens in retinal ganglion cell		IMP	MGI:1856959 	J:116862 	
+MGI:109638	Clns1a	chloride channel, nucleotide-sensitive, 1A	7		cell volume homeostasis			ISO	RGD:61884 	J:155856 	
+MGI:109638	Clns1a	chloride channel, nucleotide-sensitive, 1A	7		negative regulation of cell volume			IGI	Q61410 	J:240287 	
+MGI:88439	Cntf	ciliary neurotrophic factor	19		positive regulation of axon extension involved in regeneration			ISO	RGD:2370 	J:155856 	
+MGI:88491	Crabp2	cellular retinoic acid binding protein II	3		positive regulation of collateral sprouting			IDA		J:130448 	
+MGI:88494	Creb1	cAMP responsive element binding protein 1	1		regulation of cell size			IGI	MGI:1332637 	J:76484 	
+MGI:99695	Cttn	cortactin	7		positive regulation of axon extension			IBA	PTN000850962 	J:265628 	
+MGI:99695	Cttn	cortactin	7		regulation of axon extension			ISO	RGD:619839 	J:155856 	
+MGI:103556	Cxcl12	chemokine (C-X-C motif) ligand 12	6		positive regulation of axon extension involved in axon guidance			ISO	RGD:3651 	J:155856 	
+MGI:1338801	Cyfip1	cytoplasmic FMR1 interacting protein 1	7		positive regulation of axon extension			ISO	RGD:1310332 	J:155856 	
+MGI:3036268	D130043K22Rik	RIKEN cDNA D130043K22 gene	13		negative regulation of axon extension			ISO	Q5VV43 	J:242251 	
+MGI:3036268	D130043K22Rik	RIKEN cDNA D130043K22 gene	13		negative regulation of axon extension involved in regeneration			IMP	MGI:4362922 	J:242251 	
+MGI:3036268	D130043K22Rik	RIKEN cDNA D130043K22 gene	13		negative regulation of axon extension involved in regeneration			ISO	Q5VV43 	J:242251 	
+MGI:1931838	Dbn1	drebrin 1	13		positive regulation of axon extension			IBA	PTN000850962 	J:265628 	
+MGI:1931838	Dbn1	drebrin 1	13		positive regulation of axon extension			ISO	RGD:70885 	J:155856 	
+MGI:700006	Dbnl	drebrin-like	11		positive regulation of axon extension			IBA	PTN000850962 	J:265628 	
+MGI:1277171	Dcx	doublecortin	X		positive regulation of collateral sprouting			ISO	RGD:620670 	J:155856 	
+MGI:2146322	Deptor	DEP domain containing MTOR-interacting protein	15		negative regulation of cell size			ISO	Q8TB45 	J:164563 	
+MGI:2447658	Disc1	disrupted in schizophrenia 1	8		positive regulation of axon extension			ISO	RGD:631359 	J:155856 	
+MGI:109547	Dnm2	dynamin 2	9		regulation of axon extension			ISO	RGD:2513 	J:155856 	
+MGI:1349763	Dpysl2	dihydropyrimidinase-like 2	14		regulation of axon extension			IEA	IPR030615 	J:72247 	
+MGI:1917683	Draxin	dorsal inhibitory axon guidance protein	4		negative regulation of axon extension			IDA		J:163934 	
+MGI:1196281	Dscam	DS cell adhesion molecule	16		positive regulation of axon extension involved in axon guidance			IDA		J:143806 	
+MGI:1196281	Dscam	DS cell adhesion molecule	16		positive regulation of axon extension involved in axon guidance			ISO	RGD:619992 	J:155856 	
+MGI:1196281	Dscam	DS cell adhesion molecule	16		positive regulation of axon extension involved in axon guidance			ISO	O60469 	J:164563 	
+MGI:103012	E2f4	E2F transcription factor 4	8		cell volume homeostasis			IMP	MGI:1888952 	J:64193 	
+MGI:103012	E2f4	E2F transcription factor 4	8		regulation of cell size			IMP	MGI:1888952 	J:64193 	
+MGI:95283	Edn1	endothelin 1	13		positive regulation of cell size			ISO	P05305 	J:164563 	
+MGI:107444	Efna5	ephrin A5	17		positive regulation of collateral sprouting	regulates UniProtKB:Q91987,happens in retinal cell		IMP		J:184958 	
+MGI:2145118	Eif2b2	eukaryotic translation initiation factor 2B, subunit 2 beta	12		positive regulation of axon extension			ISO	RGD:620820 	J:155856 	
+MGI:109207	Eif4g2	eukaryotic translation initiation factor 4, gamma 2	7		positive regulation of axon extension			ISO	RGD:1305294 	J:155856 	
+MGI:1276116	Ep300	E1A binding protein p300	15		positive regulation of axon extension			ISO	RGD:620036 	J:155856 	
+MGI:1276116	Ep300	E1A binding protein p300	15		positive regulation of cell size			ISO	RGD:620036 	J:155856 	
+MGI:95276	Epha7	Eph receptor A7	4		negative regulation of collateral sprouting	happens in retinal cell		IDA		J:184958 	
+MGI:109178	Fgf13	fibroblast growth factor 13	X		negative regulation of collateral sprouting			IMP		J:186253 	
+MGI:95566	Fn1	fibronectin 1	1		positive regulation of axon extension	happens in main olfactory bulb		IDA		J:87191 	
+MGI:95583	Fshr	follicle stimulating hormone receptor	17		cellular water homeostasis	happens in seminiferous tubule,happens in Sertoli cell		IMP	MGI:2384087 	J:96730 	
+MGI:2443199	Fstl4	follistatin-like 4	11	NOT	negative regulation of axon extension	happens in retinal ganglion cell		IMP		J:209132 	
+MGI:2443199	Fstl4	follistatin-like 4	11		negative regulation of collateral sprouting	happens in retinal ganglion cell		IMP		J:209132 	
+MGI:2443199	Fstl4	follistatin-like 4	11		regulation of collateral sprouting	happens in retinal ganglion cell		IGI	MGI:88145 	J:209132 	
+MGI:1096879	Fxn	frataxin	19		positive regulation of axon extension			ISO	RGD:1565754 	J:155856 	
+MGI:99846	Gdi1	guanosine diphosphate (GDP) dissociation inhibitor 1	X		positive regulation of axon extension			ISO	RGD:2676 	J:155856 	
+MGI:5439454	Gm21985	predicted gene 21985	2		cell volume homeostasis			IBA	PTN000214719 	J:265628 	
+MGI:95785	Gnb3	guanine nucleotide binding protein (G protein), beta 3	6		cell volume homeostasis			ISO	P16520 	J:164563 	
+MGI:1859646	Golga4	golgi autoantigen, golgin subfamily a, 4	9		positive regulation of axon extension			ISO	Q13439 	J:164563 	
+MGI:1861437	Gsk3b	glycogen synthase kinase 3 beta	16		positive regulation of axon extension	happens in hippocampal neuron,regulates a function/process that happens in hippocampal neuron		IGI	MGI:106658 MGI:98927 	J:209602 	
+MGI:1861437	Gsk3b	glycogen synthase kinase 3 beta	16		regulation of axon extension			ISO	RGD:70982 	J:155856 	
+MGI:104568	Hcls1	hematopoietic cell specific Lyn substrate 1	16		positive regulation of axon extension			IBA	PTN000850962 	J:265628 	
+MGI:96250	Hsp90aa1	heat shock protein 90, alpha (cytosolic), class A member 1	12		positive regulation of cell size			ISO	RGD:631409 	J:155856 	
+MGI:96247	Hsp90ab1	heat shock protein 90 alpha (cytosolic), class B member 1	17		positive regulation of cell size			ISO	RGD:1303075 	J:155856 	
+MGI:1316717	Ifrd1	interferon-related developmental regulator 1	12		negative regulation of axon extension			IGI	MGI:97321 	J:130448 	
+MGI:1316717	Ifrd1	interferon-related developmental regulator 1	12		negative regulation of collateral sprouting			IGI	MGI:97321 	J:130448 	
+MGI:96562	Il7r	interleukin 7 receptor	15		regulation of cell size	regulates a function/process that happens in femur		IDA		J:99189 	
+MGI:96562	Il7r	interleukin 7 receptor	15		regulation of cell size	regulates a function/process that happens in femur,regulates a function/process that happens in B cell|regulates a function/process that happens in spleen,regulates a function/process that happens in B cell		IGI	MGI:98936 MGI:98937 	J:99189 	
+MGI:1195267	Ilk	integrin linked kinase	7		positive regulation of axon extension			ISO	RGD:620063 	J:155856 	
+MGI:3028642	Iqgap3	IQ motif containing GTPase activating protein 3	3		regulation of cell size	regulates a function/process that happens in mammary gland epithelial cell		IMP		J:145651 	
+MGI:2444277	Islr2	immunoglobulin superfamily containing leucine-rich repeat 2	9		positive regulation of axon extension			IBA	PTN000688061 	J:265628 	
+MGI:2444277	Islr2	immunoglobulin superfamily containing leucine-rich repeat 2	9		positive regulation of axon extension			IMP		J:154926 	
+MGI:1919205	Ist1	increased sodium tolerance 1 homolog (yeast)	8		positive regulation of collateral sprouting	regulates a function/process that happens in cerebral cortex,regulates a function/process that happens in CNS neuron (sensu Vertebrata)		IGI	MGI:5430946 	J:185987 	
+MGI:99923	Kcnma1	potassium large conductance calcium-activated channel, subfamily M, alpha member 1	14		negative regulation of cell volume	regulates a function/process that happens in parotid gland,regulates a function/process that happens in acinar cell		IMP	MGI:3053849 	J:116922 	
+MGI:99923	Kcnma1	potassium large conductance calcium-activated channel, subfamily M, alpha member 1	14		negative regulation of cell volume			ISO	Q12791 	J:164563 	
+MGI:1277957	Kcnn4	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 4	7		cell volume homeostasis	happens in lymphocyte		IMP	MGI:3521668 	J:130933 	
+MGI:1196256	Kdm1a	lysine (K)-specific demethylase 1A	4		positive regulation of cell size			ISO	RGD:1562975 	J:155856 	
+MGI:1346053	Kel	Kell blood group	6		regulation of cell size	regulates a function/process that happens in erythrocyte,happens in erythrocyte		IGI	MGI:103569 	J:212528 	
+MGI:96721	L1cam	L1 cell adhesion molecule	X		positive regulation of axon extension			ISO	RGD:619777 	J:155856 	
+MGI:1913346	Lamtor4	late endosomal/lysosomal adaptor, MAPK and MTOR activator 4	5		regulation of cell size			ISO	Q0VGL1 	J:164563 	
+MGI:1915826	Lamtor5	late endosomal/lysosomal adaptor, MAPK and MTOR activator 5	3		regulation of cell size			ISO	O43504 	J:164563 	
+MGI:1913808	Lars	leucyl-tRNA synthetase	18		regulation of cell size			ISO	Q9P2J5 	J:164563 	
+MGI:104572	Limk1	LIM-domain containing, protein kinase	5		positive regulation of axon extension	regulates a function/process that happens in hippocampus,regulates a function/process that happens in CNS neuron (sensu Vertebrata)		IGI	MGI:1921382 	J:101335 	
+MGI:1929469	Lpar3	lysophosphatidic acid receptor 3	3		positive regulation of collateral sprouting	regulates a function/process that happens in hippocampus,regulates a function/process that happens in CNS neuron (sensu Vertebrata)		IMP		J:196844 	
+MGI:96828	Lrp1	low density lipoprotein receptor-related protein 1	10		positive regulation of axon extension			ISO	RGD:1307535 	J:155856 	
+MGI:96828	Lrp1	low density lipoprotein receptor-related protein 1	10		positive regulation of axon extension involved in regeneration			ISO	RGD:1307535 	J:155856 	
+MGI:96828	Lrp1	low density lipoprotein receptor-related protein 1	10		positive regulation of collateral sprouting of injured axon			ISO	RGD:1307535 	J:155856 	
+MGI:2652847	Lrrc8a	leucine rich repeat containing 8A VRAC subunit A	2		cell volume homeostasis			ISO	Q8IWT6 	J:164563 	
+MGI:96912	Mag	myelin-associated glycoprotein	7		negative regulation of axon extension			ISO	RGD:3035 	J:155856 	
+MGI:1306778	Map1b	microtubule-associated protein 1B	13		positive regulation of axon extension			ISO	RGD:3043 	J:155856 	
+MGI:97175	Map2	microtubule-associated protein 2	1		negative regulation of axon extension	regulates a function/process that happens in sensory neuron of dorsal root ganglion,happens in sensory neuron of dorsal root ganglion		IMP		J:259112 	
+MGI:97175	Map2	microtubule-associated protein 2	1		negative regulation of axon extension			ISO	RGD:3044 	J:155856 	
+MGI:2444243	Map3k13	mitogen-activated protein kinase kinase kinase 13	16		positive regulation of axon extension			IMP		J:236918 	
+MGI:97180	Mapt	microtubule-associated protein tau	11		positive regulation of axon extension			ISO	P10636 	J:164563 	
+MGI:2446294	Megf8	multiple EGF-like-domains 8	7		positive regulation of axon extension involved in axon guidance	happens in trigeminal nerve|happens in UBERON:0000044|happens in radial nerve|happens in UBERON:0001759		IMP		J:206541 	
+MGI:1346042	Mgll	monoglyceride lipase	6		regulation of axon extension			IMP		J:165476 	
+MGI:2676880	Mir205	microRNA 205	1		regulation of cell size			IDA		J:158532 	
+MGI:1928394	Mtor	mechanistic target of rapamycin kinase	4		negative regulation of cell size			IGI	MGI:1929183 	J:103933 J:104911 	
+MGI:1928394	Mtor	mechanistic target of rapamycin kinase	4		negative regulation of cell size			ISO	P42346 	J:103933 	
+MGI:1928394	Mtor	mechanistic target of rapamycin kinase	4		regulation of cell size			ISO	P42345 	J:164563 	
+MGI:99445	Mtpn	myotrophin	6		regulation of cell size			ISO	P58546 	J:164563 	
+MGI:106598	Myo5b	myosin VB	18		positive regulation of axon extension			ISO	RGD:621347 	J:155856 	
+MGI:1932915	Ndel1	nudE neurodevelopment protein 1 like 1	11		positive regulation of axon extension			ISO	RGD:621235 	J:155856 	
+MGI:97321	Ngf	nerve growth factor	3		positive regulation of axon extension			IDA		J:130448 	
+MGI:97321	Ngf	nerve growth factor	3		positive regulation of axon extension	regulates a function/process that happens in vestibulo-cochlear ganglion,regulates a function/process that happens in neuron		IMP		J:32557 	
+MGI:97321	Ngf	nerve growth factor	3		positive regulation of collateral sprouting			IBA	PTN000173499 	J:265628 	
+MGI:97321	Ngf	nerve growth factor	3		positive regulation of collateral sprouting			IDA		J:130448 	
+MGI:1206039	Nkx6-1	NK6 homeobox 1	5		regulation of axon extension	regulates a function/process that happens in midbrain,regulates a function/process that happens in midbrain		IMP	MGI:2386119 	J:152847 	
+MGI:106184	Npm1	nucleophosmin 1	11		cell volume homeostasis			IDA		J:142821 	
+MGI:106184	Npm1	nucleophosmin 1	11		cell volume homeostasis			IMP		J:142821 	
+MGI:96083	Nrg1	neuregulin 1	8		positive regulation of axon extension	happens in neuron of cerebral cortex	PR:000044824	IMP		J:161775 	
+MGI:96083	Nrg1	neuregulin 1	8	NOT	positive regulation of axon extension	happens in neuron of cerebral cortex	PR:000044843	IMP		J:161775 	
+MGI:106206	Nrp1	neuropilin 1	8		negative regulation of axon extension	regulates a function/process that happens in dorsal root ganglion,regulates a function/process that happens in neuron		IGI	MGI:107558 	J:93799 	
+MGI:106206	Nrp1	neuropilin 1	8		negative regulation of axon extension involved in axon guidance	regulates a function/process that happens in brain venous system,regulates a function/process that happens in neuron		IDA		J:49908 	
+MGI:106206	Nrp1	neuropilin 1	8		negative regulation of axon extension involved in axon guidance			ISO	RGD:621588 	J:155856 	
+MGI:106206	Nrp1	neuropilin 1	8		positive regulation of axon extension involved in axon guidance	happens in retinal ganglion cell,happens in optic chiasma		IMP		J:174966 	
+MGI:106206	Nrp1	neuropilin 1	8		regulation of axon extension involved in axon guidance	regulates a function/process that happens in sympathetic ganglion		IDA		J:98330 	
+MGI:105088	Ntn1	netrin 1	11		negative regulation of axon extension			IDA		J:60833 	
+MGI:105088	Ntn1	netrin 1	11		positive regulation of axon extension			IDA		J:60833 	
+MGI:105088	Ntn1	netrin 1	11		positive regulation of axon extension			ISO	RGD:619809 	J:155856 	
+MGI:97385	Ntrk3	neurotrophic tyrosine kinase, receptor, type 3	7		positive regulation of axon extension involved in regeneration	regulates a function/process that happens in vestibular ganglion,regulates a function/process that happens in neuron		IGI	MGI:97380 	J:101705 	
+MGI:97401	Ocm	oncomodulin	5		positive regulation of axon extension involved in regeneration			ISO	RGD:3222 	J:155856 	
+MGI:1339639	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	X		positive regulation of cell size			ISO	RGD:62060 	J:155856 	
+MGI:1860437	Olfm1	olfactomedin 1	2		regulation of axon extension			IDA		J:224729 	
+MGI:106586	Omg	oligodendrocyte myelin glycoprotein	11		regulation of collateral sprouting of intact axon in response to injury			IMP	MGI:3821628 	J:142129 	
+MGI:1339957	P2rx7	purinergic receptor P2X, ligand-gated ion channel, 7	5		cell volume homeostasis	happens in lymphocyte		IDA		J:130933 	
+MGI:1339957	P2rx7	purinergic receptor P2X, ligand-gated ion channel, 7	5		negative regulation of cell volume	happens in macrophage		IMP		J:220493 	
+MGI:1339957	P2rx7	purinergic receptor P2X, ligand-gated ion channel, 7	5		negative regulation of cell volume			ISO	Q99572 	J:164563 	
+MGI:109520	Pafah1b1	platelet-activating factor acetylhydrolase, isoform 1b, subunit 1	11		positive regulation of axon extension			ISO	RGD:620331 	J:155856 	
+MGI:1339975	Pak1	p21 (RAC1) activated kinase 1	7		positive regulation of axon extension			ISO	RGD:3250 	J:155856 	
+MGI:1860485	Plek	pleckstrin	11		regulation of cell diameter			ISO	P08567 	J:164563 	
+MGI:107683	Plxna3	plexin A3	X		negative regulation of axon extension involved in axon guidance	regulates a function/process that happens in cervical ganglion,regulates a function/process that happens in neuron|regulates a function/process that happens in dorsal root ganglion,regulates a function/process that happens in neuron		IGI	MGI:107558 MGI:1096347 	J:72426 	
+MGI:2179061	Plxna4	plexin A4	6		regulation of axon extension involved in axon guidance	regulates a function/process that happens in dorsal root ganglion|regulates a function/process that happens in sympathetic ganglion		IMP	MGI:3578655 	J:98330 	
+MGI:102524	Pou4f2	POU domain, class 4, transcription factor 2	8		positive regulation of axon extension			IMP		J:80078 	
+MGI:108173	Prkg2	protein kinase, cGMP-dependent, type II	5		negative regulation of cell volume			IGI	Q61189 	J:240287 	
+MGI:1918623	Prr16	proline rich 16	18		positive regulation of cell size			IDA		J:212483 	
+MGI:1918623	Prr16	proline rich 16	18		positive regulation of cell size			ISO	Q569H4 	J:164563 	
+MGI:109583	Pten	phosphatase and tensin homolog	19		negative regulation of cell size			IMP		J:109635 J:184118 	
+MGI:97815	Ptprs	protein tyrosine phosphatase, receptor type, S	17		negative regulation of axon extension			IMP		J:167900 	
+MGI:97815	Ptprs	protein tyrosine phosphatase, receptor type, S	17		negative regulation of collateral sprouting			IMP		J:186269 	
+MGI:1858202	Rab11a	RAB11A, member RAS oncogene family	9		positive regulation of axon extension	regulates a function/process that happens in neuron of cerebral cortex		IMP		J:184851 	
+MGI:894308	Rab21	RAB21, member RAS oncogene family	10		regulation of axon extension			ISO	RGD:1303150 	J:155856 	
+MGI:97845	Rac1	Rac family small GTPase 1	5		regulation of cell size			ISO	P63000 	J:164563 	
+MGI:3028623	Rap1gap2	RAP1 GTPase activating protein 2	11		regulation of cell size			ISO	Q684P5 	J:164563 	
+MGI:2441741	Rapgef3	Rap guanine nucleotide exchange factor (GEF) 3	15		positive regulation of cell size			ISO	RGD:621869 	J:155856 	
+MGI:1341850	Rb1cc1	RB1-inducible coiled-coil 1	1		positive regulation of cell size	regulates a function/process that happens in heart ventricle|regulates a function/process that happens in liver		IMP	MGI:3690329 	J:114498 	
+MGI:97887	Rdx	radixin	9		negative regulation of cell size			ISO	P35241 	J:164563 	
+MGI:97887	Rdx	radixin	9		regulation of cell size			ISO	P35241 	J:164563 	
+MGI:97902	Ret	ret proto-oncogene	6		positive regulation of cell size	regulates a function/process that happens in dorsal root ganglion,regulates a function/process that happens in pain receptor cell		IMP	MGI:2386570 MGI:4413350 	J:126484 	
+MGI:2679262	Rgma	repulsive guidance molecule family member A	7		negative regulation of collateral sprouting			ISO	RGD:1311983 	J:155856 	
+MGI:1096342	Rhoa	ras homolog family member A	9		negative regulation of cell size			ISO	P61586 	J:164563 	
+MGI:1338755	Rnd2	Rho family GTPase 2	11		positive regulation of collateral sprouting	regulates a function/process that happens in hippocampus,regulates a function/process that happens in CNS neuron (sensu Vertebrata)		IMP		J:196844 	
+MGI:1921382	Rnf6	ring finger protein (C3H2C3 type) 6	5		negative regulation of axon extension	regulates a function/process that happens in hippocampus,regulates a function/process that happens in CNS neuron (sensu Vertebrata)		IGI	MGI:104572 	J:101335 	
+MGI:1921382	Rnf6	ring finger protein (C3H2C3 type) 6	5		negative regulation of axon extension	regulates a function/process that happens in hippocampus,regulates a function/process that happens in CNS neuron (sensu Vertebrata)		IMP		J:101335 	
+MGI:1915141	Rpl4	ribosomal protein L4	9		positive regulation of axon extension			ISO	RGD:619824 	J:155856 	
+MGI:1921620	Rptor	regulatory associated protein of MTOR, complex 1	11		regulation of cell size			IBA	PTN000304084 	J:265628 	
+MGI:1921620	Rptor	regulatory associated protein of MTOR, complex 1	11		regulation of cell size			ISO	Q8N122 	J:164563 	
+MGI:1915835	Rtn4	reticulon 4	11		negative regulation of axon extension			IMP		J:163856 	
+MGI:1915835	Rtn4	reticulon 4	11		negative regulation of axon extension			ISO	RGD:620989 	J:155856 	
+MGI:1915835	Rtn4	reticulon 4	11		negative regulation of axon extension			ISO	Q9NQC3 	J:164563 	
+MGI:1915835	Rtn4	reticulon 4	11		negative regulation of axon extension			ISS	Q9NQC3 	J:113876 	
+MGI:1915835	Rtn4	reticulon 4	11		negative regulation of formation of growth cone in injured axon		PR:Q99P72-2	IMP	MGI:3623522 	J:107700 	
+MGI:1915835	Rtn4	reticulon 4	11		positive regulation of collateral sprouting of injured axon		PR:Q99P72-2	IMP	MGI:3623522 	J:107700 	
+MGI:2136886	Rtn4r	reticulon 4 receptor	16		negative regulation of axon extension			IDA		J:224729 	
+MGI:106484	Rufy3	RUN and FYVE domain containing 3	5		positive regulation of axon extension			IDA		J:214682 	
+MGI:101766	Ryk	receptor-like tyrosine kinase	9		negative regulation of axon extension involved in axon guidance	regulates a function/process that happens in cerebral cortex,regulates a function/process that happens in CNS neuron (sensu Vertebrata)		IGI	MGI:98958 	J:109038 	
+MGI:99466	Sct	secretin	7		cellular water homeostasis			ISO	RGD:3643 	J:155856 	
+MGI:2441720	Sctr	secretin receptor	1		cellular water homeostasis			IMP		J:121376 	
+MGI:107558	Sema3a	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3A	5		negative regulation of axon extension	regulates a function/process that happens in dorsal root ganglion,regulates a function/process that happens in neuron		IDA		J:93799 	
+MGI:107558	Sema3a	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3A	5		negative regulation of axon extension	regulates a function/process that happens in dorsal root ganglion,regulates a function/process that happens in neuron		IGI	MGI:106206 	J:93799 	
+MGI:107558	Sema3a	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3A	5		negative regulation of axon extension			ISO	RGD:3657 	J:155856 	
+MGI:107558	Sema3a	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3A	5		negative regulation of axon extension involved in axon guidance			IBA	PTN000867340 	J:265628 	
+MGI:107558	Sema3a	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3A	5		negative regulation of axon extension involved in axon guidance	regulates a function/process that happens in neuron		IDA		J:25500 	
+MGI:107558	Sema3a	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3A	5		negative regulation of axon extension involved in axon guidance	regulates a function/process that happens in brain venous system,regulates a function/process that happens in neuron		IDA		J:49908 	
+MGI:107558	Sema3a	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3A	5		negative regulation of axon extension involved in axon guidance	regulates a function/process that happens in cervical ganglion,regulates a function/process that happens in neuron|regulates a function/process that happens in dorsal root ganglion,regulates a function/process that happens in neuron		IGI	MGI:107683 	J:72426 	
+MGI:107558	Sema3a	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3A	5		negative regulation of axon extension involved in axon guidance	regulates a function/process that happens in spinal cord,regulates a function/process that happens in afferent neuron		IGI	MGI:104518 MGI:96721 	J:137627 	
+MGI:107558	Sema3a	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3A	5		regulation of axon extension involved in axon guidance			IDA		J:159069 	
+MGI:107558	Sema3a	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3A	5		regulation of axon extension involved in axon guidance			ISO	Q14563 	J:164563 	
+MGI:107561	Sema3b	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3B	9		negative regulation of axon extension involved in axon guidance			IBA	PTN000867340 	J:265628 	
+MGI:107557	Sema3c	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3C	5		negative regulation of axon extension involved in axon guidance			IBA	PTN000867340 	J:265628 	
+MGI:1860118	Sema3d	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3D	5		negative regulation of axon extension involved in axon guidance			IBA	PTN000867340 	J:265628 	
+MGI:1340034	Sema3e	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3E	5		negative regulation of axon extension involved in axon guidance			IBA	PTN000867340 	J:265628 	
+MGI:1096347	Sema3f	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3F	9		negative regulation of axon extension involved in axon guidance			IBA	PTN000867340 	J:265628 	
+MGI:1096347	Sema3f	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3F	9		negative regulation of axon extension involved in axon guidance	regulates a function/process that happens in brain venous system,regulates a function/process that happens in neuron		IDA		J:49908 	
+MGI:1096347	Sema3f	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3F	9		negative regulation of axon extension involved in axon guidance	regulates a function/process that happens in cervical ganglion,regulates a function/process that happens in neuron		IGI	MGI:107683 	J:72426 	
+MGI:3041242	Sema3g	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3G	14		negative regulation of axon extension	happens in sympathetic nervous system		IDA		J:106852 	
+MGI:3041242	Sema3g	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3G	14		negative regulation of axon extension involved in axon guidance			IBA	PTN000867340 	J:265628 	
+MGI:107560	Sema4a	sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4A	3		negative regulation of axon extension involved in axon guidance			IBA	PTN000867340 	J:265628 	
+MGI:107559	Sema4b	sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4B	7		negative regulation of axon extension involved in axon guidance			IBA	PTN000867340 	J:265628 	
+MGI:109252	Sema4c	sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4C	1		negative regulation of axon extension involved in axon guidance			IBA	PTN000867340 	J:265628 	
+MGI:109244	Sema4d	sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4D	13		negative regulation of axon extension involved in axon guidance			IBA	PTN000867340 	J:265628 	
+MGI:109244	Sema4d	sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4D	13		positive regulation of collateral sprouting			ISO	Q92854 	J:164563 	
+MGI:1340055	Sema4f	sema domain, immunoglobulin domain (Ig), TM domain, and short cytoplasmic domain	6		negative regulation of axon extension			ISO	Q9Z143 	J:53335 	
+MGI:1340055	Sema4f	sema domain, immunoglobulin domain (Ig), TM domain, and short cytoplasmic domain	6		negative regulation of axon extension involved in axon guidance			IBA	PTN000867340 	J:265628 	
+MGI:1347047	Sema4g	sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4G	19		negative regulation of axon extension involved in axon guidance			IBA	PTN000867340 	J:265628 	
+MGI:107556	Sema5a	sema domain, seven thrombospondin repeats (type 1 and type 1-like), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 5A	15		negative regulation of axon extension involved in axon guidance			ISO	RGD:1308650 	J:155856 	
+MGI:107556	Sema5a	sema domain, seven thrombospondin repeats (type 1 and type 1-like), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 5A	15		positive regulation of axon extension involved in axon guidance			ISO	RGD:1308650 	J:155856 	
+MGI:1203727	Sema6a	sema domain, transmembrane domain (TM), and cytoplasmic domain, (semaphorin) 6A	18		negative regulation of axon extension involved in axon guidance			IBA	PTN000867340 	J:265628 	
+MGI:1202889	Sema6b	sema domain, transmembrane domain (TM), and cytoplasmic domain, (semaphorin) 6B	17		negative regulation of axon extension involved in axon guidance			IBA	PTN000867340 	J:265628 	
+MGI:1338032	Sema6c	sema domain, transmembrane domain (TM), and cytoplasmic domain, (semaphorin) 6C	3		negative regulation of axon extension			ISO	Q9H3T2 	J:164563 	
+MGI:1338032	Sema6c	sema domain, transmembrane domain (TM), and cytoplasmic domain, (semaphorin) 6C	3		negative regulation of axon extension involved in axon guidance			IBA	PTN000867340 	J:265628 	
+MGI:2387661	Sema6d	sema domain, transmembrane domain (TM), and cytoplasmic domain, (semaphorin) 6D	2		negative regulation of axon extension			ISO	Q8NFY4 	J:164563 	
+MGI:2387661	Sema6d	sema domain, transmembrane domain (TM), and cytoplasmic domain, (semaphorin) 6D	2		negative regulation of axon extension involved in axon guidance			IBA	PTN000867340 	J:265628 	
+MGI:1306826	Sema7a	sema domain, immunoglobulin domain (Ig), and GPI membrane anchor, (semaphorin) 7A	9		negative regulation of axon extension involved in axon guidance			IBA	PTN000867340 	J:265628 	
+MGI:1306826	Sema7a	sema domain, immunoglobulin domain (Ig), and GPI membrane anchor, (semaphorin) 7A	9		positive regulation of axon extension			IBA	PTN002592905 	J:265628 	
+MGI:1306826	Sema7a	sema domain, immunoglobulin domain (Ig), and GPI membrane anchor, (semaphorin) 7A	9		positive regulation of axon extension			IDA		J:87191 	
+MGI:1306826	Sema7a	sema domain, immunoglobulin domain (Ig), and GPI membrane anchor, (semaphorin) 7A	9		positive regulation of axon extension			ISO	O75326 	J:164563 	
+MGI:1930016	Shank3	SH3 and multiple ankyrin repeat domains 3	15		negative regulation of cell volume	happens in neural cell,happens in brain		IMP		J:171113 	
+MGI:1918903	Shtn1	shootin 1	19		positive regulation of axon extension			ISO	RGD:1311558 	J:155856 	
+MGI:95628	Slc6a12	solute carrier family 6 (neurotransmitter transporter, betaine/GABA), member 12	6		cellular water homeostasis			ISO	RGD:620255 	J:155856 	
+MGI:1349482	Slc9a3r1	solute carrier family 9 (sodium/hydrogen exchanger), member 3 regulator 1	11		regulation of cell size			ISO	O14745 	J:164563 	
+MGI:103150	Slc12a1	solute carrier family 12, member 1	2		cell volume homeostasis			IBA	PTN000214719 	J:265628 	
+MGI:101924	Slc12a2	solute carrier family 12, member 2	18		cell volume homeostasis			IBA	PTN000214719 	J:265628 	
+MGI:101924	Slc12a2	solute carrier family 12, member 2	18		positive regulation of cell volume			ISO	RGD:620809 	J:155856 	
+MGI:108114	Slc12a3	solute carrier family 12, member 3	8		cell volume homeostasis			IBA	PTN000214719 	J:265628 	
+MGI:1309465	Slc12a4	solute carrier family 12, member 4	8		cell volume homeostasis			IBA	PTN000214719 	J:265628 	
+MGI:1862037	Slc12a5	solute carrier family 12, member 5	2		cell volume homeostasis			IBA	PTN000214719 	J:265628 	
+MGI:2135960	Slc12a6	solute carrier family 12, member 6	2		cell volume homeostasis			IBA	PTN000214719 	J:265628 	
+MGI:1342283	Slc12a7	solute carrier family 12, member 7	13		cell volume homeostasis			IBA	PTN000214719 	J:265628 	
+MGI:1342283	Slc12a7	solute carrier family 12, member 7	13		cell volume homeostasis			ISO	RGD:1359672 	J:155856 	
+MGI:2443672	Slc12a8	solute carrier family 12 (potassium/chloride transporters), member 8	16		cell volume homeostasis			IBA	PTN000214719 	J:265628 	
+MGI:1933532	Slc12a9	solute carrier family 12 (potassium/chloride transporters), member 9	5		cell volume homeostasis			IBA	PTN000214719 	J:265628 	
+MGI:1933154	Slc26a5	solute carrier family 26, member 5	5		positive regulation of cell size			ISO	RGD:69334 	J:155856 	
+MGI:1315203	Slit1	slit guidance ligand 1	19		negative regulation of axon extension involved in axon guidance			ISO	RGD:69307 	J:155856 	
+MGI:1315205	Slit2	slit guidance ligand 2	5		negative regulation of axon extension	happens in main olfactory bulb		IDA		J:87191 	
+MGI:2139806	Spg20	spastic paraplegia 20, spartin (Troyer syndrome) homolog (human)	3		negative regulation of collateral sprouting in absence of injury	regulates a function/process that happens in cerebral cortex,regulates a function/process that happens in CNS neuron (sensu Vertebrata)		IGI	MGI:1919205 	J:185987 	
+MGI:2139806	Spg20	spastic paraplegia 20, spartin (Troyer syndrome) homolog (human)	3		negative regulation of collateral sprouting in absence of injury	regulates a function/process that happens in cerebral cortex,regulates a function/process that happens in CNS neuron (sensu Vertebrata)		IMP	MGI:5430946 	J:185987 	
+MGI:106658	Srf	serum response factor	17		positive regulation of axon extension			IGI	MGI:1861437 MGI:98927 	J:209602 	
+MGI:106658	Srf	serum response factor	17		positive regulation of axon extension	happens in hippocampal neuron,regulates a function/process that happens in hippocampal neuron		IMP	MGI:3522206 	J:209602 	
+MGI:1919179	Tmem123	transmembrane protein 123	9		oncosis			ISO	Q8N131 	J:164563 	
+MGI:1351484	Tnfrsf12a	tumor necrosis factor receptor superfamily, member 12a	17		positive regulation of axon extension			IDA		J:86309 	
+MGI:99516	Tnr	tenascin R	1		negative regulation of axon extension	regulates a function/process that happens in cerebellum,regulates a function/process that happens in CNS neuron (sensu Vertebrata)		IDA		J:111925 	
+MGI:99516	Tnr	tenascin R	1		negative regulation of axon extension involved in regeneration	regulates a function/process that happens in motor neuron		IMP	MGI:2154583 	J:111060 	
+MGI:2673000	Trim46	tripartite motif-containing 46	3		negative regulation of axon extension			ISO	RGD:1305993 	J:155856 	
+MGI:1336991	Trp73	transformation related protein 73	4		positive regulation of cell size			IMP	MGI:1859911 	J:97170 J:109212 	
+MGI:109524	Trpc5	transient receptor potential cation channel, subfamily C, member 5	X		positive regulation of axon extension			ISO	RGD:619787 	J:155856 	
+MGI:1341836	Trpv2	transient receptor potential cation channel, subfamily V, member 2	11		positive regulation of axon extension			IMP		J:159386 	
+MGI:1929183	Tsc1	TSC complex subunit 1	2		negative regulation of cell size			IGI	MGI:1928394 	J:103933 J:104911 	
+MGI:1929183	Tsc1	TSC complex subunit 1	2		negative regulation of cell size			IMP	MGI:2176055 MGI:2656240 	J:121858 	
+MGI:1929183	Tsc1	TSC complex subunit 1	2		negative regulation of cell size			IMP	MGI:2656240 	J:103933 	
+MGI:1929183	Tsc1	TSC complex subunit 1	2		negative regulation of cell size			IMP	MGI:2656240 MGI:2656248 	J:104900 	
+MGI:102548	Tsc2	TSC complex subunit 2	17		negative regulation of cell size			ISO	P49816 	J:103933 	
+MGI:1916987	Ttl	tubulin tyrosine ligase	2		regulation of axon extension	regulates a function/process that happens in thalamus,regulates a function/process that happens in CNS neuron (sensu Vertebrata)|regulates a function/process that happens in cerebral cortex,regulates a function/process that happens in CNS neuron (sensu Vertebrata)		IMP	MGI:3584264 	J:99877 	
+MGI:1346078	Twf2	twinfilin actin binding protein 2	9		positive regulation of axon extension			ISO	Q6IBS0 	J:164563 	
+MGI:1276123	Ucn	urocortin	5		negative regulation of cell size			ISO	RGD:3929 	J:155856 	
+MGI:1270126	Ulk1	unc-51 like kinase 1	5		negative regulation of collateral sprouting	regulates a function/process that happens in dorsal root ganglion,regulates a function/process that happens in sensory neuron		IMP		J:120306 	
+MGI:1352758	Ulk2	unc-51 like kinase 2	11		negative regulation of collateral sprouting	regulates a function/process that happens in dorsal root ganglion,regulates a function/process that happens in sensory neuron		IMP		J:120306 	
+MGI:103178	Vegfa	vascular endothelial growth factor A	17		positive regulation of axon extension involved in axon guidance	happens in retinal ganglion cell,happens in optic chiasma	PR:Q00731-2	IDA		J:174966 	
+MGI:103178	Vegfa	vascular endothelial growth factor A	17	NOT	positive regulation of axon extension involved in axon guidance			IDA		J:174966 	
+MGI:103178	Vegfa	vascular endothelial growth factor A	17		positive regulation of axon extension involved in axon guidance	happens in retinal ganglion cell,happens in optic chiasma		IMP		J:174966 	
+MGI:98936	Vpreb1	pre-B lymphocyte gene 1	16		regulation of cell size	regulates a function/process that happens in femur		IDA		J:99189 	
+MGI:98936	Vpreb1	pre-B lymphocyte gene 1	16		regulation of cell size	regulates a function/process that happens in femur,regulates a function/process that happens in B cell|regulates a function/process that happens in spleen,regulates a function/process that happens in B cell		IGI	MGI:96562 MGI:98937 	J:99189 	
+MGI:98937	Vpreb2	pre-B lymphocyte gene 2	16		regulation of cell size	regulates a function/process that happens in femur,regulates a function/process that happens in B cell|regulates a function/process that happens in spleen,regulates a function/process that happens in B cell		IGI	MGI:96562 MGI:98936 	J:99189 	
+MGI:1917819	Wdr36	WD repeat domain 36	18		regulation of axon extension	regulates a function/process that happens in retinal ganglion cell		IMP		J:163638 	
+MGI:2685541	Wdtc1	WD and tetratricopeptide repeats 1	4		regulation of cell size			IMP	MGI:3774270 	J:129966 	
+MGI:98955	Wnt3	wingless-type MMTV integration site family, member 3	11		negative regulation of axon extension involved in axon guidance			IDA		J:138829 	
+MGI:98955	Wnt3	wingless-type MMTV integration site family, member 3	11		positive regulation of collateral sprouting in absence of injury			IDA		J:138829 	
+MGI:98956	Wnt3a	wingless-type MMTV integration site family, member 3A	11		negative regulation of axon extension involved in axon guidance			IDA		J:138829 	
+MGI:98956	Wnt3a	wingless-type MMTV integration site family, member 3A	11		positive regulation of collateral sprouting in absence of injury			IDA		J:138829 	
+MGI:98958	Wnt5a	wingless-type MMTV integration site family, member 5A	14		negative regulation of axon extension involved in axon guidance	regulates a function/process that happens in cerebral cortex,regulates a function/process that happens in CNS neuron (sensu Vertebrata)		IGI	MGI:101766 	J:109038 	
+MGI:103569	Xk	X-linked Kx blood group	X		regulation of cell size	happens in erythrocyte,regulates a function/process that happens in erythrocyte		IGI	MGI:1346053 	J:212528 	
+MGI:1919602	Zfyve27	zinc finger, FYVE domain containing 27	19		positive regulation of axon extension			IBA	PTN002684487 	J:265628 	
+MGI:1919602	Zfyve27	zinc finger, FYVE domain containing 27	19		positive regulation of axon extension			IMP		J:215725 	
+
