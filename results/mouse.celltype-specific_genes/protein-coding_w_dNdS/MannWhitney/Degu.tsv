@@ -1,0 +1,10 @@
+pvalue	test_short_name	formatted_output	box1	box2
+2.0704450931318734e-35	M.W.W.	Mann-Whitney-Wilcoxon test two-sided P_val=2.070e-35 U_stat=2.146e+05	neuron	endothelia
+0.4433152352409455	M.W.W.	Mann-Whitney-Wilcoxon test two-sided P_val=4.433e-01 U_stat=2.911e+05	endothelia	glia
+1.2984328223662586e-08	M.W.W.	Mann-Whitney-Wilcoxon test two-sided P_val=1.298e-08 U_stat=1.814e+05	astrocyte	microglia
+3.038767736498982e-13	M.W.W.	Mann-Whitney-Wilcoxon test two-sided P_val=3.039e-13 U_stat=1.843e+05	microglia	oligodendrocyte
+1.3968458651508462e-36	M.W.W.	Mann-Whitney-Wilcoxon test two-sided P_val=1.397e-36 U_stat=2.946e+05	neuron	glia
+0.021343777182745913	M.W.W.	Mann-Whitney-Wilcoxon test two-sided P_val=2.134e-02 U_stat=1.399e+05	astrocyte	oligodendrocyte
+4.585750370141938e-14	M.W.W.	Mann-Whitney-Wilcoxon test two-sided P_val=4.586e-14 U_stat=2.487e+05	neuron	astrocyte
+7.288262853296351e-42	M.W.W.	Mann-Whitney-Wilcoxon test two-sided P_val=7.288e-42 U_stat=2.233e+05	neuron	microglia
+1.8182169768692143e-05	M.W.W.	Mann-Whitney-Wilcoxon test two-sided P_val=1.818e-05 U_stat=1.806e+05	neuron	oligodendrocyte
