@@ -1,4 +1,8 @@
 #!/bin/bash
+rm ../results/MGI_organs/MGI_ID-tissue_type.tsv
+touch ../results/MGI_organs/MGI_ID-tissue_type.tsv
+rm ../results/MGI_organs/MGI_ID_list.txt
+touch ../results/MGI_organs/MGI_ID_list.txt
 
 for file in ../data/MGI_organs/*-specific.txt
 do

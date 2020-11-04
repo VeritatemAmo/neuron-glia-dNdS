@@ -34,6 +34,14 @@ Contains the codes for analyzing dN/dS values of neuron-specific genes and glial
     * and ./results/GO_contingency_stats.xlsx
     * Visualize ./figures/contingency_analysis/*.pdf
     
+#### Organ-specific genes ####
+* run ./bash_scripts/mouse_organs.sh, merging organ-specific genes into a table 
+    * Generate ./results/MGI_organs/MGI_ID-tissue_type.tsv and ./results/MGI_organs/MGI_ID_list.txt
+* with ./results/MGI_organs/MGI_ID_list.txt, find Ensembl IDs of these genes
+    * Generate ./results/MGI_organs/Ensembl_ID-MGI_ID.tsv
+
+
+    
 #### Analyzing dN/dS of Celltype-expressed genes ####
 
 * run ./jupyter_notebooks/mouse.celltype-expressed-genes.ipynb, get list of genes expressed in each celltype with RPKM threshold of 1
@@ -46,3 +54,37 @@ Contains the codes for analyzing dN/dS values of neuron-specific genes and glial
 	* and ./results/celltype-expressed_inferential_stats.xlsx
     * Visualize ./figures/MannWhitney/mouse_reference_genome/*.celltype-expressed.pdf
 	* and ./figures/mouse.celltype-expressed.boxplots.pdf
+    
+
+    
+### Human Reference Genome ###
+
+* run ./bash_scripts/all_human_protein_coding_dNdS.sh to download human genes' orthologs information from 92 mammalian species (including mouse). This include pattern of ortholog and dN and dS values. 
+    * Generate ./results/Ensembl98_human/human_protein_coding_genes.*.txt
+* run ./jupyter_notebooks/human.all_genes.ipynb to merge all 92 species together. 
+	* Generate ./results/Ensembl98_human/human.92_species_dNdS.all_genes.tsv
+	* and ./results/Ensembl98_human/human.dNdS_stats.all_genes.tsv
+	* Visualize distribution of all genes' average dN/dS values, saved to ./figures/human.all_genes.*
+
+### Chicken Reference Genome ###
+
+* run ./bash_scripts/chicken_protein_coding_dNdS.sh to download dN values, dS values, etc of protein-coding genes from Ensembl.
+	* Generate ./results/Ensembl98_chicken/chicken_protein_coding_genes.*.txt, One txt file for each of the 92 species with dN and dS values against mouse reference genome.
+
+### Evolutionary Distance Between Each Species to the Species of Reference ### 
+
+* run ./jupyter_notebooks/evo_distance.ipynb to look at the effect of evolutionary distance 
+    * 
+    
+### PhastCons of Upstream Promoter Regions ###
+
+* run ./jupyter_notebooks/mouse.gene_position.ipynb to get coordinates of 2,000 bp upstream 5' of each gene (for genes with ORF either + or - strand)
+    * Generate ./results/mouse.celltype-specific_genes/protein-coding_w_dNdS/promoter.*.tsv, one for each brain celltype
+    * and ./results/Ensembl100_mouse/promoter_position.tsv for all protein coding genes on mouse autosomes, sex chromosomes, and mitocondrial genes
+    
+* run ../bash_scripts/parse_mouse_promoter_coord.sh to further format list of promoter coordinates for UCSC Genome Browser, which does not take header nor more than 1000 lines at a time
+    * Generate ./results/mouse.celltype-specific_genes/protein-coding_w_dNdS/promoter.*aa or ab if that celltype has more than a thousand promoters. 
+    
+* Use the coordinate to reterive phastCons stats from UCSC genome browser's table browser with GRCm38 mouse reference genome, with track phastCons60way (July 28th, 2020). Compile differenct cell types into an excel file by hand. 
+    * Generate ./results/mouse.celltype-specific_genes/protein-coding_w_dNdS/phastCons/phastcons-celltype.xlsx
+    
