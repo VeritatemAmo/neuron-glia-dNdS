@@ -1,0 +1,2 @@
+# phastCons #
+The data is reterived from UCSC Genome Browser's Table Browser on July 28th, 2020, for the GRCm38 mouse reference genome. Coordinate for each cell type-specific genes' promoter region (defined as 2,000 bp upstream 5' end of the gene on its strand) is generated from mouse.gene_position.ipynb. That statistics for each gene's promoter region is compiled into an excel file by hand. 

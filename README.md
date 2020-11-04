@@ -39,8 +39,9 @@ Contains the codes for analyzing dN/dS values of neuron-specific genes and glial
     * Generate ./results/MGI_organs/MGI_ID-tissue_type.tsv and ./results/MGI_organs/MGI_ID_list.txt
 * with ./results/MGI_organs/MGI_ID_list.txt, find Ensembl IDs of these genes
     * Generate ./results/MGI_organs/Ensembl_ID-MGI_ID.tsv
-
-
+* run ./jupyter_notebooks/mouse.organs.ipynb to generate figures comparing neuron-specific genes dNdS with organ-specific genes
+    * Generate ./figures/mouse.neuron_vs_organs.pdf
+    * and ./figures/mouse.organs.pdf
     
 #### Analyzing dN/dS of Celltype-expressed genes ####
 

@@ -1,0 +1,3 @@
+#!/bin/bash
+
+wget -O ../results/Ensembl100_mouse/mouse_protein_coding_gene_position.tsv "http://www.ensembl.org/biomart/martservice?query=<?xml version=\"1.0\" encoding=\"UTF-8\"?><Query  virtualSchemaName = \"default\" formatter = \"TSV\" header = \"0\" uniqueRows = \"0\" count = \"\" datasetConfigVersion = \"0.6\" ><Dataset name = \"mmusculus_gene_ensembl\" interface = \"default\" ><Filter name = \"biotype\" value = \"protein_coding\"/><Attribute name = \"external_gene_name\" /><Attribute name = \"strand\" /><Attribute name = \"chromosome_name\" /><Attribute name = \"start_position\" /><Attribute name = \"end_position\" /></Dataset></Query>"
