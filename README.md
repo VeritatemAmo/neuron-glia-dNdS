@@ -22,7 +22,7 @@ Contains the codes for analyzing dN/dS values of neuron-specific genes and glial
 	* Visualize the overlap between the lists with Venn diagrams, saved to ./figures/Venn_Diagrams/all_barres/*
 * run ./jupyter_notebooks/mouse.celltype-specific_protein-coding_genes_w_dNdS.ipynb to merge protein-coding genes and dN/dS to celltype-specific genes
 	* Generate ./results/mouse.celltype-specific_genes/protein-coding_w_dNdS/*/*.tsv, one per species per cell type, including averaged 92 species dN/dS
-* run ./jupyter_notebooks/mouse.stats_and_figures.ipynb, calculate Mann Whitney stats for each pair of cell type for a couple of representative species as well as averaged dN/dS. Kruskal Wallis test was used for testing more than two cell types.
+* run ./jupyter_notebooks/mouse.stats_and_figures.ipynb, calculate Mann Whitney stats for each pair of cell type for a couple of representative species as well as averaged dN/dS. Kruskal Wallis test was used for testing more than two cell types. Both annonical 0.05 p value threshold and a conservative 0.0001 p value threshold were used for visualizations. Figures with 0.0001 p value threshold were labeled with "conservative" in file name. 
 	* Generate ./results/mouse.celltype-specific_genes/protein-coding_w_dNdS/MannWhitney/*.tsv
     * and ./results/celltype-specific_descriptive_stats.xlsx
     * and ./results/celltype-specific_inferential_stats.xlsx
@@ -40,7 +40,7 @@ Contains the codes for analyzing dN/dS values of neuron-specific genes and glial
 * with ./results/MGI_organs/MGI_ID_list.txt, find Ensembl IDs of these genes
     * Generate ./results/MGI_organs/Ensembl_ID-MGI_ID.tsv
 * run ./jupyter_notebooks/mouse.organs.ipynb to generate figures comparing neuron-specific genes dNdS with organ-specific genes
-    * Generate ./figures/mouse.neuron_vs_organs.pdf
+    * Generate ./figures/mouse.neuron_vs_organs.pdf and mouse.neuron_vs_organs_conservative.pdf
     * and ./figures/mouse.organs.pdf
     
 #### Analyzing dN/dS of Celltype-expressed genes ####
@@ -56,6 +56,8 @@ Contains the codes for analyzing dN/dS values of neuron-specific genes and glial
     * Visualize ./figures/MannWhitney/mouse_reference_genome/*.celltype-expressed.pdf
 	* and ./figures/mouse.celltype-expressed.boxplots.pdf
     
+#### Benchmark genes ####
+* run ./jupyter_notebooks/benchmarks.ipynb __not cleaned up for github yet; check Herculano_Lab/Benchmark_Genes. For now use ./data/benchmarks.xlsx for analysis. Move that file to ./result once process is cleaned up and merged into Git.__
 
     
 ### Human Reference Genome ###

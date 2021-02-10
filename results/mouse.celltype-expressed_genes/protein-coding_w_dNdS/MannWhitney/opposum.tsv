@@ -1,10 +1,10 @@
-pvalue	test_short_name	formatted_output	box1	box2
-8.063713957444328e-05	M.W.W.	Mann-Whitney-Wilcoxon test two-sided P_val=8.064e-05 U_stat=2.662e+07	neuron	endothelia
-0.13162534099919249	M.W.W.	Mann-Whitney-Wilcoxon test two-sided P_val=1.316e-01 U_stat=2.877e+07	endothelia	glia
-0.001959708025916264	M.W.W.	Mann-Whitney-Wilcoxon test two-sided P_val=1.960e-03 U_stat=2.551e+07	astrocyte	microglia
-0.2189690357470716	M.W.W.	Mann-Whitney-Wilcoxon test two-sided P_val=2.190e-01 U_stat=2.516e+07	microglia	oligodendrocyte
-0.011171643944061449	M.W.W.	Mann-Whitney-Wilcoxon test two-sided P_val=1.117e-02 U_stat=3.112e+07	neuron	glia
-0.04899912873471746	M.W.W.	Mann-Whitney-Wilcoxon test two-sided P_val=4.900e-02 U_stat=2.977e+07	astrocyte	oligodendrocyte
-0.0006458172140461965	M.W.W.	Mann-Whitney-Wilcoxon test two-sided P_val=6.458e-04 U_stat=2.878e+07	neuron	astrocyte
-0.8797276894986876	M.W.W.	Mann-Whitney-Wilcoxon test two-sided P_val=8.797e-01 U_stat=2.585e+07	neuron	microglia
-0.14501358798284952	M.W.W.	Mann-Whitney-Wilcoxon test two-sided P_val=1.450e-01 U_stat=3.014e+07	neuron	oligodendrocyte
+0
+Mann-Whitney-Wilcoxon test two-sided with Bonferroni correction, P_val=7.184e-04 U_stat=2.661e+07
+Mann-Whitney-Wilcoxon test two-sided with Bonferroni correction, P_val=1.000e+00 U_stat=2.876e+07
+Mann-Whitney-Wilcoxon test two-sided with Bonferroni correction, P_val=1.772e-02 U_stat=2.550e+07
+Mann-Whitney-Wilcoxon test two-sided with Bonferroni correction, P_val=1.000e+00 U_stat=2.515e+07
+Mann-Whitney-Wilcoxon test two-sided with Bonferroni correction, P_val=1.005e-01 U_stat=3.112e+07
+Mann-Whitney-Wilcoxon test two-sided with Bonferroni correction, P_val=4.402e-01 U_stat=2.976e+07
+Mann-Whitney-Wilcoxon test two-sided with Bonferroni correction, P_val=5.785e-03 U_stat=2.877e+07
+Mann-Whitney-Wilcoxon test two-sided with Bonferroni correction, P_val=1.000e+00 U_stat=2.584e+07
+Mann-Whitney-Wilcoxon test two-sided with Bonferroni correction, P_val=1.000e+00 U_stat=3.014e+07

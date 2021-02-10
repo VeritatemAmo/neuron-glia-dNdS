@@ -7,5 +7,7 @@
 * GeneHancer_version_4-4.xlsx
 	* This file is downloaded from GeneCard (Fishilevich et al., 2017) GeneHancer 2017 database: 
 	* https://www.genecards.org/GeneHancer_version_4-4
-
+* ATP_synthase_HGNC.csv
+	* This file is downloaded from HGNC website on Jan 24th, 2021, for gene group "Mitochondrial complex V: ATP synthase subunits". It contains 20 genes. 
+	* https://www.genenames.org/data/genegroup/#!/group/644
 * species_nw.xlsx
