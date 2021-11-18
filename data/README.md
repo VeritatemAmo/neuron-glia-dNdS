@@ -11,3 +11,5 @@
 	* This file is downloaded from HGNC website on Jan 24th, 2021, for gene group "Mitochondrial complex V: ATP synthase subunits". It contains 20 genes. 
 	* https://www.genenames.org/data/genegroup/#!/group/644
 * species_nw.xlsx
+* mm10.60way.phastcons.bw
+	* downloaded from http://hgdownload.cse.ucsc.edu/goldenpath/mm10/phastCons60way/ on Nov. 14, 2021 
