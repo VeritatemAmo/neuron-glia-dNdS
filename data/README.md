@@ -12,4 +12,6 @@
 	* https://www.genenames.org/data/genegroup/#!/group/644
 * species_nw.xlsx
 * mm10.60way.phastcons.bw
-	* downloaded from http://hgdownload.cse.ucsc.edu/goldenpath/mm10/phastCons60way/ on Nov. 14, 2021 
+	* downloaded from http://hgdownload.cse.ucsc.edu/goldenpath/mm10/phastCons60way/ on Nov. 14, 2021
+* regulatory_elements/Li_et_al_2021/*
+	* Downloaded from http://catlas.org/mousebrain/#!/downloads on Nov. 12, 2021
