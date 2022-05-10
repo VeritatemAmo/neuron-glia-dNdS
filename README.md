@@ -2,6 +2,12 @@
 
 Contains the codes for analyzing dN/dS values of neuron-specific genes and glial cell-specific genes across mammalian species. 
 
+## Software in bin ##
+
+### bigWigSummary ###
+
+Downloaded from http://hgdownload.soe.ucsc.edu/admin/exe/macOSX.x86_64/ on Nov 14, 2021
+
 ## Sequence of the Pipeline ##
 
 ### Mouse Reference Genome ###
