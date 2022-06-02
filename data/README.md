@@ -13,3 +13,6 @@
 * species_nw.xlsx
 * mm10.60way.phastcons.bw
 	* downloaded from http://hgdownload.cse.ucsc.edu/goldenpath/mm10/phastCons60way/ on Nov. 14, 2021 
+* sup9.Bayes_et_al_2011.xls
+	* supplementary table 9 of Seth Grant lab's 2011 paper on Nature Neuroscience. 
+	* Contains list of Ensembl IDs that they used as human neuron-specific genes. 

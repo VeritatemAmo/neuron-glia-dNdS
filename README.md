@@ -97,3 +97,7 @@ Downloaded from http://hgdownload.soe.ucsc.edu/admin/exe/macOSX.x86_64/ on Nov 1
 * Use the coordinate to reterive phastCons stats from UCSC genome browser's table browser with GRCm38 mouse reference genome, with track phastCons60way (July 28th, 2020). Compile differenct cell types into an excel file by hand. 
     * Generate ./results/mouse.celltype-specific_genes/protein-coding_w_dNdS/phastCons/phastcons-celltype.xlsx
     
+### Gene Overlap with Bayes et al., 2011 ###
+* run ../jupyter_notebooks/Bayes_neuron_gene_venn.ipynb
+	* get venn diagram between their neuronal genes (hPSD or non-hPSD) and my mouse neuron-specific genes
+	* mostly non-overlapping 
