@@ -101,3 +101,12 @@ Downloaded from http://hgdownload.soe.ucsc.edu/admin/exe/macOSX.x86_64/ on Nov 1
 * run ../jupyter_notebooks/Bayes_neuron_gene_venn.ipynb
 	* get venn diagram between their neuronal genes (hPSD or non-hPSD) and my mouse neuron-specific genes
 	* mostly non-overlapping 
+
+### Single Cell Data ###
+* run ../jupyter_notebooks/mouse_adult_brain.Saunders_2018_annotation.ipynb
+* run ../jupyter_notebooks/mouse_adult_brain.Saunders_2018_Cell_Type.ipynb
+* run ../jupyter_notebooks/exc_inh.mouse_adult_brain.Saunders_2018.ipynb
+	* test whether excitatory and inhibitory neuron-specific genes are different in dN/dS values
+* run ../jupyter_notebooks/neuron_subtypes.mouse_adult_brain.Saunders.ipynb
+	* test whether the 500+ subclusters, aka detailed neuronal, glial, and vasculature cell types, are different in dN/dS
+	* this is to test whether my original result that neuron-specific genes are low in dN/dS is due to these genes ubiquitously expressed across neuronal subtypes. 
