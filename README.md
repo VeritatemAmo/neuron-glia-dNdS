@@ -110,3 +110,7 @@ Downloaded from http://hgdownload.soe.ucsc.edu/admin/exe/macOSX.x86_64/ on Nov 1
 * run ../jupyter_notebooks/neuron_subtypes.mouse_adult_brain.Saunders.ipynb
 	* test whether the 500+ subclusters, aka detailed neuronal, glial, and vasculature cell types, are different in dN/dS
 	* this is to test whether my original result that neuron-specific genes are low in dN/dS is due to these genes ubiquitously expressed across neuronal subtypes. 
+* run ../jupyter_notebooks/mouse.zeisel_2015.ipynb
+	* Confirming that neuron-specific genes have lowest dN/dS with Linnarson lab's 2015 single cell RNA-seq data
+	* statistical results for Mann Whitney U test recorded in ../result/single-cell/zeisel_2015/mwu-stats.tsv
+	* Also generated figures visualizing the differences in dN/dS
