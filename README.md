@@ -114,3 +114,7 @@ Downloaded from http://hgdownload.soe.ucsc.edu/admin/exe/macOSX.x86_64/ on Nov 1
 	* Confirming that neuron-specific genes have lowest dN/dS with Linnarson lab's 2015 single cell RNA-seq data
 	* statistical results for Mann Whitney U test recorded in ../result/single-cell/zeisel_2015/mwu-stats.tsv
 	* Also generated figures visualizing the differences in dN/dS
+* run ../jupyter_notebooks/mouse.dup_gene_names.zeisel_2018.ipynb
+	* takes the l5.all.agg.loom file
+	* find genes with duplicated accessions (rows) in the loom matrix 
+	* output to ../results/single-cell/zeisel_2018/duplicated_gene_names.txt
