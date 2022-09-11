@@ -118,3 +118,4 @@ Downloaded from http://hgdownload.soe.ucsc.edu/admin/exe/macOSX.x86_64/ on Nov 1
 	* takes the l5.all.agg.loom file
 	* find genes with duplicated accessions (rows) in the loom matrix 
 	* output to ../results/single-cell/zeisel_2018/duplicated_gene_names.txt
+	* this file is used to reterive Ensembl IDs from Ensembl 107 (Sep 10th, 2022)
