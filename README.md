@@ -115,7 +115,7 @@ Downloaded from http://hgdownload.soe.ucsc.edu/admin/exe/macOSX.x86_64/ on Nov 1
 	* statistical results for Mann Whitney U test recorded in ../result/single-cell/zeisel_2015/mwu-stats.tsv
 	* Also generated figures visualizing the differences in dN/dS
 * run ../jupyter_notebooks/mouse.dup_gene_names.zeisel_2018.ipynb
-	* takes the l5.all.agg.loom file
+	* takes the l5.all.agg.loom file (aggregate means "mean per cluster"; however, I am mainly using the trinaries scores or enrichment_q, not the main layer which record the aggregate expression level)
 	* find genes with duplicated accessions (rows) in the loom matrix 
 	* output to ../results/single-cell/zeisel_2018/duplicated_gene_names.txt
 	* this file is used to reterive Ensembl IDs from Ensembl 107 (Sep 10th, 2022)
