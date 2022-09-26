@@ -98,24 +98,30 @@ Downloaded from http://hgdownload.soe.ucsc.edu/admin/exe/macOSX.x86_64/ on Nov 1
     * Generate ./results/mouse.celltype-specific_genes/protein-coding_w_dNdS/phastCons/phastcons-celltype.xlsx
     
 ### Gene Overlap with Bayes et al., 2011 ###
-* run ../jupyter_notebooks/Bayes_neuron_gene_venn.ipynb
+* run ./jupyter_notebooks/Bayes_neuron_gene_venn.ipynb
 	* get venn diagram between their neuronal genes (hPSD or non-hPSD) and my mouse neuron-specific genes
 	* mostly non-overlapping 
 
 ### Single Cell Data ###
-* run ../jupyter_notebooks/mouse_adult_brain.Saunders_2018_annotation.ipynb
-* run ../jupyter_notebooks/mouse_adult_brain.Saunders_2018_Cell_Type.ipynb
-* run ../jupyter_notebooks/exc_inh.mouse_adult_brain.Saunders_2018.ipynb
+* run ./jupyter_notebooks/mouse_adult_brain.Saunders_2018_annotation.ipynb
+* run ./jupyter_notebooks/mouse_adult_brain.Saunders_2018_Cell_Type.ipynb
+* run ./jupyter_notebooks/exc_inh.mouse_adult_brain.Saunders_2018.ipynb
 	* test whether excitatory and inhibitory neuron-specific genes are different in dN/dS values
-* run ../jupyter_notebooks/neuron_subtypes.mouse_adult_brain.Saunders.ipynb
+* run ./jupyter_notebooks/neuron_subtypes.mouse_adult_brain.Saunders.ipynb
 	* test whether the 500+ subclusters, aka detailed neuronal, glial, and vasculature cell types, are different in dN/dS
 	* this is to test whether my original result that neuron-specific genes are low in dN/dS is due to these genes ubiquitously expressed across neuronal subtypes. 
-* run ../jupyter_notebooks/mouse.zeisel_2015.ipynb
+* run ./jupyter_notebooks/mouse.zeisel_2015.ipynb
 	* Confirming that neuron-specific genes have lowest dN/dS with Linnarson lab's 2015 single cell RNA-seq data
 	* statistical results for Mann Whitney U test recorded in ../result/single-cell/zeisel_2015/mwu-stats.tsv
 	* Also generated figures visualizing the differences in dN/dS
-* run ../jupyter_notebooks/mouse.dup_gene_names.zeisel_2018.ipynb
+* run ./jupyter_notebooks/mouse.TaxonomySymbol.zeisel_2018.ipynb
+	* Getting list of TaxonomySymbol from aggregate level 5 loom file's column attributes
+	* output ./data/single-cell/zeisel_2018/TaxonomySymbol_list.txt
+	* this file is then mannually combined with values from Taxonomy_group column in ./data/single-cell/zeisel_2018/mmc3.xlsx
+	* which is stored in ./data/single-cell/zeisel_2018/Taxonomy_Symbol-to-Group_Name.xlsx
+<!-- * run ../jupyter_notebooks/mouse.dup_gene_names.zeisel_2018.ipynb
 	* takes the l5.all.agg.loom file (aggregate means "mean per cluster"; however, I am mainly using the trinaries scores or enrichment_q, not the main layer which record the aggregate expression level)
 	* find genes with duplicated accessions (rows) in the loom matrix 
 	* output to ../results/single-cell/zeisel_2018/duplicated_gene_names.txt
 	* this file is used to reterive Ensembl IDs from Ensembl 107 (Sep 10th, 2022)
+	* No longer needed: we only work with ACCESSION NUMBER (Ensembl ID) now.  -->
