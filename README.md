@@ -125,3 +125,37 @@ Downloaded from http://hgdownload.soe.ucsc.edu/admin/exe/macOSX.x86_64/ on Nov 1
 	* output to ../results/single-cell/zeisel_2018/duplicated_gene_names.txt
 	* this file is used to reterive Ensembl IDs from Ensembl 107 (Sep 10th, 2022)
 	* No longer needed: we only work with ACCESSION NUMBER (Ensembl ID) now.  -->
+* Labeling ./data/single-cell.zeisel_2018/mmc3.xlsx mannually
+	* For CNS neuron clusters (Taxonomy_group is in [Telencephalon projecting excitatory neurons, Dentate gyrus granule neruons, Telecephalon projecting inhibitory neurons, Olfactory inhibitory neurons, Telencephalon inhibitory interneurons, Cholinergic and monoaminergic neurons, Peptidergic neurons, Spinal cord inhibitory neurons, Di- and mesencephalon excitatory neurons, Di and mesencephalon inhibitory neurons, Hindbrain neurons, Cerebellum neurons]):
+		* Clusters with Taxonomy group in [Cholinergic and monoaminergic neurons, peptidergic neruons]:
+			* label as mix_neuron
+		* Clusters described as neuroblasts in description:
+			* label as neuroblasts
+		* GABAergic Clusters with Trinarization detecting VGLUT and/or Acetylcholine, or Glutamatergic Clusters with Trinarization detecting GABA in the comment column:
+			* label as mix_neuron
+		* Clusters with Neurotransmitter labeled as just 1) GABA, 2) GABA and Glycine, 3) GABA and Nitric Oxide, or 4) GABA, Nitric Oxide, and Glycine, and without any other neurotransmitter:
+			* label as inh_neuron
+		* Clusters with Neurotransmitter labeled as a combination of VGLUT, with or without Nitric Oxide, and without any other neurotransmitter:
+			* label as exc_neuron
+	* Taxonomy_group == Enteric neurons
+		* label as enteric_neuron
+	* Taxonomy_group is in [Sympathetic noradrenergic neruons, Sympathetic cholinergic neurons, Peripheral sensory peptidergic neurons, Peripheral sensory peptidergic neruons, Peripheral sensotry neurofilament neruons, Peripheral sensory non-peptidergic neurons]:
+		* label as pns_neuron
+	* Taxonomy_group is in [Oligodendrocytes, Oligodendrocyte precursor cells, Ependymal cells, Astrocytes, microglia]:
+		* label as glia
+	* Taxonomy_group is in [Choroid epithelial cells, Subcommissural organ hypendymal cells, Dentate gyrus radial glia-like cells, Subventricular zone radial glia-like cells, Olfactory ensheathing cells, Vascular and leptomeningeal cells]:
+		* label as other
+	* Taxonomy_group is in [Schwann cells, Satellite glia]:
+		* label as PNS_glia
+	* Taxonomy_group == Enteric glia:
+		* label as enteric_glia
+	* Taxonomy_group is in [Vascular smooth muscle cells, Pericytes]:
+		* if cluster is VECA (description says endothelial cells):
+			* label as endothelia
+		* else:
+			* label as excitable
+	* Taxonomy_group == Vascular endothelial cells
+		* label as endothelia
+	* Taxonomy_group == Perivascular macrophages
+		* label as immune
+	* output as linhe_class column of expanded.mmc3.xlsx
