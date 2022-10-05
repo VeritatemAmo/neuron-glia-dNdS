@@ -150,8 +150,8 @@ Downloaded from http://hgdownload.soe.ucsc.edu/admin/exe/macOSX.x86_64/ on Nov 1
 	* Taxonomy_group == Enteric glia:
 		* label as enteric_glia
 	* Taxonomy_group is in [Vascular smooth muscle cells, Pericytes]:
-		* if cluster is VECA (description says endothelial cells):
-			* label as endothelia
+		* if cluster is VECA (description says endothelial cells but Taxonomy is smooth muscle and clustered together with PER3 pericytes):
+			* label as other
 		* else:
 			* label as excitable
 	* Taxonomy_group == Vascular endothelial cells
