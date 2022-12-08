@@ -112,7 +112,8 @@ Downloaded from http://hgdownload.soe.ucsc.edu/admin/exe/macOSX.x86_64/ on Nov 1
 	* this is to test whether my original result that neuron-specific genes are low in dN/dS is due to these genes ubiquitously expressed across neuronal subtypes. 
 * run ./jupyter_notebooks/mouse.zeisel_2015.ipynb
 	* Confirming that neuron-specific genes have lowest dN/dS with Linnarson lab's 2015 single cell RNA-seq data
-	* statistical results for Mann Whitney U test recorded in ../result/single-cell/zeisel_2015/mwu-stats.tsv
+	* statistical results for Mann Whitney U test recorded in ../results/single-cell/zeisel_2015/mwu-stats.tsv
+	* descriptive stats in ../results/single-cell/zeisel_2015/nine_type_median_dNdS_CI95.xlsx
 	* Also generated figures visualizing the differences in dN/dS
 * run ./jupyter_notebooks/mouse.TaxonomySymbol.zeisel_2018.ipynb
 	* Getting list of TaxonomySymbol from aggregate level 5 loom file's column attributes
