@@ -1,3 +1,5 @@
 .DS_Store
 jupyter_notebooks/.ipynb_checkpoints/*
 .ipynb_checkpoints/
+figures/
+figures/*
